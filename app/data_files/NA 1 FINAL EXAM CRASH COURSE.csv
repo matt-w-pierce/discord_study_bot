@@ -1,0 +1,1201 @@
+prompt,answer
+"Time frame for emergent, urgent, time-sensitive, and elective procedures?","Emergent: <6 hours -life/limb/organ saving
+Urgent: 6-24 hours -threaten life/limb/organ (perf bowel, compound fracture, eye injury)
+Time-Sensitive: days-weeks - stable but requires intervention
+Elective: up to 1 year"
+"Difference between an ASA II, ASA III, and ASA IV?","II: mild-mod systemic disease that is well-controlled but causes NO organ dysfunction or functional limitation
+III: severe systemic disease causing organ dysfunction and functional limitation
+IV: severe, end-stage systemic disease that is life-threatening"
+4 main PONV risk factors after inhalation anesthesia?,"1. Female
+2. Non-smoker
+3. History of motion sickness or PONV
+4. Post-op opioids 
+Also <50 years old, gynecologic procedures, laparoscopic procedures, or cholecystectomies"
+"Kava-Kava, St. John's Wort, and Valerian all have what side effect in relation to anesthesia?",Potentiate sedative effects/ may prolong anesthesia
+"Garlic, Ginger, Ginkgo, and Ginseng all have what side effect?",increased bleeding!
+Class 1-4 Mallampati,"1: hard + soft palate, uvula, tonsillar pillars
+2: hard + soft palate, upper uvula
+3: hard and soft+ palate
+4: hard palate"
+Indications for difficult BMV?,"Beard, Age >55, OSA, BMI>26, Lack of teeth, head/neck radition/surgery, trauma, stiff lungs"
+Name some physical exam findings that may indicate a difficult airway that do NOT involve numeric measurement,"Long upper incisors
+Overbite
+Inability to perform upper lip bite test
+Mallampati 3 or more
+Highly arched or very narrow palate
+Limited range of motion of the head and neck"
+6 RCRI risk factors (predictors of cardiac complications),"1. Ischemic heart disease
+2. Congestive heart failure
+3. Cerebralvascular disease
+4. IDDM
+5. Serum CRT>2
+6. High-risk surgery (intrperitoneal, vascular, intrathoracic, suprainguinal)"
+What is the best predictor of silent ischemia (hint: related to diabetes),Autonomic neuropathy
+"If a patient had a drug-eluding stent placed for ACS, they should delay surgery for ___________ months? How about a stent for CAD?
+What about a bare metal stent?","ACS: 12 months
+CAD: 6 months
+Bare metal: 4-6 weeks"
+Should a diabetic patient continue their insulin before surgery? What about the night before?,"Yes up until the night before, at which point they should cut their usual dose in half. 
+HOLD oral hyperglycemics"
+"Unless conditions have changed, lab tests within ______ months of surgery are acceptable for use?",3 months
+What type of anti-hypertensive agents should be held prior to surgery?,"ACE inhibitors, ARBs"
+"Fasting guidelines: 
+-Clear liquids
+-Breast milk
+-Light meals/ Infant Formula
+-Fatty Foods or Alcohol","Clear Liquids: 2 hours
+Breast Milk: 4 hours
+Light Meal/formula: 6 hours
+Fatty foods/alcohol: 8 hours"
+Which H2 antagonist is the most potent with the fewest side effects?,Ranitidine
+High pressure system goes from _______to ____________?,Hanger yoke to cylinder pressure regulator
+Intermediate pressure system goes from ___________ to __________?,Pipeline inlets to flowmeter valve
+Low pressure system goes from _________ to ________?,Flowmeter tubes to common gas outlet
+"As a safety measure, oxygen is added to circulation _____________ of the common manifold - so that in the case of a flowmeter crack, the mixture is not hypoxic?",Downstream
+"Tank colors:
+-Oxygen
+-CO2
+-N2O
+-Air","Oxygen: green
+CO2: gray
+N2O: blue
+Air: yellow"
+"Battery backup on the AGM must last __________ minutes?
+High priority alarms cannot be silenced for more than ______ minutes?","30 minutes
+2 minutes"
+A high priority alarm will sound within 30 seconds of the oxygen concentration dropping below _______%?,18%
+The oxygen flush valve is capable of ________L/min of,35-75
+Oxygen flow indicator is positioned to the ________ of the flowmeter bank?,Right
+What do check valves do?,Ensure unidirectional flow
+"What is the capacity of a full oxygen, nitrous and air tank?","N2O: 1590
+O2: 660
+Air: 625"
+"What is the PSI of a full oxygen, nitrous, and air tank?","O2: 1900
+Air: 1900
+Nitrous: 745"
+"What are the pin positions of oxygen, nitrous, and air cylinders?","Air- 1,5
+O2- 2,5
+N2O- 3,5"
+What is PISS?,Holes mate with pins in the yolk to prevent incorrect gas cylinder attachments to the machine
+What is the most fragile part of the cylinder?,The cylinder valve
+How does the fail-safe valve work?,"Oxygen pressurizes and holds it open - when pressure drops below 20psi, the valve will shut and interrupt the supply of hypoxic gases, without affecting air or oxygen supply"
+When could a fail-safe valve fail?,During a pipeline crossover or a cracked flowmeter (downstream)
+A low pressure alarm will signal when pipeline pressure decreases to.....?,28psi
+"Hypoxic guard ensures the ratio of nitrous to oxygen is kept at no more than ______, so that breathing mixtures are at least ______% oxygen?","3:1, 23%"
+"What is the ONLY system on the AGM that ensures that oxygen is present (in other words, would not fail in a pipeline crossover), and where is it located?","Inspired Oxygen Analyzer, inspiratory limb"
+Volatile anesthetics are mostly liquid or gas at room temperature?,Liquid
+3 things that affect the rate of vaporization,"1. temperature
+2. vapor pressure of liquid 
+3. partial pressure of the vapor above evaporating liquid"
+What is the latent heat of vaporization?,Energy required or the amount of heat (calories) to convert a unit of mass of liquid into a vapor
+What is the specific heat?,The quantity of heat required to raise the temperature of a unit of mass of a substance by 1 degree celcius
+Low FGF should NOT be instituted too early -Why?,it will slow the onset of induction (slowed wash in time) increasing the risk of awareness)
+"We use high FGF during induction to wash out _________, while we use high FGF during emergence to wash out __________?","Induction: Nitrogen
+Emergence: CO2"
+"A circle system with FGF> minute ventilation is considered __________, while a circle system with FGF <minute ventilation is considered _________.","High FGF: semi-open 
+Low FGF: semi-closed (partial rebreathing)"
+FGF required to prevent rebreathing is __________ times that of minute ventilation?,3-Feb
+What are some contraindications of low FGF anesthesia? (Absolute and relative),"Absolute: smoke inhalation injury, MH
+Relative: anywhere leak is likely- older equipment, face mask anesthesia, rigid bronchoscopy, uncuffed ETT"
+Sevo should be at a FGF of 1-2L/min for no more than _______ hours?,2 MAC hours
+"Which type of bellows WILL fill even when completely disconnected, ascending or descending?",Descending
+"The larynx consists of 3 single cartilages and 3 paired cartilages, what are they?","Single: Thyroid, cricoid, epiglottis
+Paired: arytenoid, corniculate, cuneiform"
+What are the two branches of the vagus nerve?,RLN and SLN
+"The internal SLN is responsible for ___________ innervation, while the external SLN is responsible for ____________ innervation? (sensory/motor)","internal: sensory
+external: motor"
+"The RLN provides sensory innervation to _________, and motor innervation to _________?","RLN sensory: subglottic area and trachea
+RLN motor: all muscles of the larynx except the cricothyroid"
+Which muscle is responsible for cord ABduction?,"Posterior Cricoarytenoid (pull cords apart)
+*used for repsiration!"
+The lateral thyroarytenoids do what to the vocal cords?,"Relax (shorten), and adduct (close)
+They relax"""""
+Lateral cricoarytenoids do what to the vocal cords?,adduction (let's close airway)
+Posterior cricoarytenoids do what to the vocal cords?,Pull cords apart
+What do the cricothyroid do to vocal cords?,"elongate (tension) - cords tense"""""
+Which two muscles are responsible for glottis closure?,"Aryepiglottic
+Oblique arytenoid"
+The trigeminal nerve provides sensory innervation to what?,"Nasal septum and lateral wall
+Anterior 2/3 of tongue"
+The glossopharyngeal nerve provides sensory innervation to what?,"Posterior 1/3 of tongue, soft palate, oropharynx"
+The vagus nerve provides sensory innervation to what?,"Hypopharynx, Larynx, and Trachea"
+"SLN and RLN provide sensory innervation where, in relationship to the vocal cords?","SLN above vocal cords
+RLN below vocal cords"
+"Omohypoid, Sternohyoid, and Sternothyroid all perform what action on the larnyx?",Depression
+Inter-incisor gap of < _____cm indicates possible difficult airway?,4-6cm (3 fingerbreadths)
+"TMD of less than _________cm indicates a possible difficult airway?
+Normal TMD = _______cm","6 cm (3 fingerbreadths)
+Normal TMD= 6-9"
+"Neck cirucmference of greater than _________cm (____ inches in females, _____inches in males) indicates a possible difficult airway?","16 inches female (41cm)
+17 inces male (43cm)"
+Cormack and Lehane Grading scale 1-4,"1: full glottic opening
+2: only posterior glottis (no anterior commissure)
+3: only epiglottis (no glottic opening)
+4: only soft palate (no epiglottis)"
+Normal AO Joint movement should be greater than ______ degrees?,23
+Risks for difficult cricothyrotomy?,"SHORT
+Surgery
+Hematoma
+Obesity
+Radiation
+Tumors"
+3 nerves that must be blocked to perform an awake intubation?,"1. trigeminal
+2. glossopharyngeal'
+3. Vagus"
+What is the difference between a first and second gen LMA?,"Second gen is more rigid for easier insertion and aspiration prevention, also allows higher ventilation pressures"
+"Maximum time LMA can be used?
+Maximum PPV?
+Maximum cuff pressure?","Time: 2 hours
+PPV: 20
+cuff: 60"
+Overinflation of the LMA cuff may result in injury to what 3 nerves (per the LMA handout)? What are to other effects of overinflation?,"1. LINGUAL
+2. Hypoglossal
+3. RLN
+Sore throat or pharyngeal necrosis"
+LMA Sizing: Weight,"1.0: <5kg
+1.5 : 5-10kg
+2.0 10-20kg
+2.5: 20-30kg
+3.0: 30-50kg
+4.0: 50-70kg
+5.0: 70-100kg"
+LMA Sizing: Cuff inflation,"1: 4ml
+1.5: 7ml
+2.0: 10ml
+2.5: 14ml
+3.0: 20ml
+4.0: 30ml
+5.0: 40ml"
+What is the purpose of the pressure relief valve on the AGM and what are the two types?,"To vent cylinder contents to atmosphere if internal pressure gets too high (prevent explosion)! 
+Two types are 
+1. Rupture disc (frangible)
+2. Fusible plug (wood's metal)"
+The fusible plug pressure relief valve is made of wood's metal - how does it work and what are the types of metal that are considered wood's metal?,"At a certain temperature (212), the material softens enough to let air (and therfore pressure) escape the cylinder.
+BLT with Cheese!
+Bismuth, lead, tin, cadium"
+What is DISS?,"Diameter index safety system - outlets and connections are indexed by diameter, thread and nipple seat design
+Located on the back of the machine, to prevent gas lines from being hooked up incorrectly"
+What is the normal working pressure of the AGM?,50psi
+"The first stage pressure regulator brings pressures down to ______, and the second stage regulator brings pressure down to ______. They are part of the ___________ pressure system.","First: 45 psig - high pressure
+Second: 14-26psig- intermediate"
+Common gas outlet works at a pressure of ______?,5-8 psig
+An N2O cylinder should be changed when its pressure falls below _____?,745 psig
+"If you are running oxygen off the cylinder at a rate of 5L/min, and the pressure gauge reads 1100psi, how long do you have before you run out of O2?",About 76 minutes
+4 Times a hypoxic mixture can still occur despite safety mechanisms,"1. leak downstream
+2. pipeline crossover
+3. third gas (helium)
+4. Mechical issue"
+Partial airway obstruction (glottis shutter closure) is done by ______ muscles? (intrinsic or extrinsic),Intrinsic
+Full airway obstruction is done by ____________ (intrinsic or extrinsic) musles?,Extrinsic
+EXAM 2 REVIEW,EXAM 2 REVIEW
+Which 2 non-invasive monitoring techniques monitor ventilation? What about oxygenation?,"Ventilation: ETCO2, Capnography
+Oxygenation: oxygen analyzer (circuit) ,pulse ox"
+Where should the precordial lead be placed (V5)?,"Fifth intercostal space, anterior axillary line"
+Which lead best monitors p waves?,II
+How does the EKG monitor detect apnea?,Through impedance pneumonography - measures electrical impedence of the thoracic cavity
+What are the branches of the LCA and which part of the heart does it supply?,"-LAD: anterior KV, Septum, bundle of HIS 
+-Circumflex: LA, posterior LV, lateral LV, AV node"
+Which parts of the heart are supplied by the RCA?,"RV, Inferior LV, Posterior LV, SA node, AV node"
+Name the part of the heart associated with each lead in a 12 lead?,"I: Lateral; II: Inferior, III: Inferior
+avR: (RA); avL: lateral; avF: inferior
+V1: septal; V2: septal; V3: anterior 
+V4: anterior; V5: lateral; V6: lateral"
+What is the best lead to measure ischemia?,V
+What is the best lead to measure rate and rhythm?,II
+So in what leads would you see an anterior MI?,"V3, V4"
+In what leads would you see a septal MI?,"V1, V2"
+In what leads would you see a left lateral MI?,"I, aVL, V5, V6"
+In what leads would you see an inferior MI?,"II, III, avF"
+"Infarct of which coronary artery is likely to cause atrial arrhythmias, bradycardia, and sinus arrest? Why?",RCA - supplies SA node
+Which leads are unipolar and which leads are bipolar?,"Bipolar: I, II, III
+Unipolar: avR, avL, avF, V1-V6"
+Formula for MAP,(2x diastolic + systolic)/3
+Width of BP cuff should cover ______ of upper arm?,3-Feb
+"If you can feel a pulse at the radial, femoral, and carotid arteries, what are the respective minimum MAPs?","Carotid: 50mmHg
+Femoral: 60mmHg
+Radial: 80mmHG"
+What things cause a right shift of OHDC?,"Elevated CO2
+Elevated H+ (acidosis)
+Elevated 2,3,DPG
+Elevated temperature"
+How does the pulse ox work?,"Oxygenated Hgb and deoxygenated hgb absorb light differently at most wavelengths, including 660 nm (red), and 940(infrared) - ratio of absorption is processed to give the percentage of Hgb saturated by oxygen"
+"Oxyhemoglobin absorbs _______ light, while deoxygenated Hgb absorbs ______light?","Oxy: infrared (940)
+Deoxy: red (660)"
+What does a high infrared:red ratio DETECTED by the pulse oximeter indicate and why?,"Low SpO2
+Because more infrared light is being sensed by the detector, which means more RED light is being absorbed (and not making it to the sensor), RED light is absorbed by DEOXYHGB"
+What is Beer's law?,"The amount of light absorbed is proportional to the concentration of Hgb in the blood vessel
+More Hgb= Less light reaching sensor
+Less hgb= more light reaching sensor"
+What is Lambert's Law?,"Amount of light absorbed is proportional to the length of light
+Larger or longer artery= more light absorbed"
+What is carboxyhemoglobinemia and what does it do to SpO2?,"It appears like oxyhemoglobin at 660, providing falsely elevated readings"
+SpO2 falsely overestimates readings below ____%?,80
+What happens to SpO2 in the case of methemoglobinemia? What do you treat it with?,"Absorbs red and infrared light at the same rate, correlating to an SpO2 of 85%
+Treat with methylene blue"
+Phase 0-4 of capnogram,"0: inspiratory (no Co2)
+1: Expiration of dead space (no CO2)
+2: Expiration of both dead space and alveolar gas (rise)
+3: Expiration of alveolar gas (plateau)
+4: Upward blip seen in patients with reduced compliance (i.e. obesity and pregnancy)"
+Mainstream vs. Sidestream: which is faster,Mainstream
+Mainstream vs. Sidestream: which is heavier/bulkier,Mainstream
+Mainstream vs. Sidestream: which is easier to use with a face mask,Sidestream
+Mainstream vs. Sidestream: which requires suction for gas removal,sidestream
+Mainstream vs. Sidestream: which gets kinked easily,Sidestream
+Mainstream vs. Sidestream: which is more likely to have an issue with water condensation,sidestream
+Mainstream vs. Sidestream: which one can be calibrated with room air ONLY,mainstream
+Mainstream vs. Sidestream: which is more likely to have sample contamination,Mainstream
+Mainstream vs. Sidestream: which can measure more gases than just o2 and and CO2,Sidestream
+Mainstream vs. Sidestream: which has a higher quality waveform?,Mainstream
+Mainstream vs. Sidestream: which has MORE dead space,Mainstream r/t adapter
+Mainstream vs. Sidestream: which undergoes dilution effect,Sidestream r/t high FGF for scavenging
+What is the upper left angle of the capnogram and what does it represent?,"Alpha angle, normally 100 degrees - V/Q mismatch
+Increased in airway obstruction or PEEP
+Decreased in obstructive disease"
+What is the upper right angle of the capnogram and what does it represent?,"Beta angel, normally 90 degrees - rebreathing
+Decreased if phase III has increased slope"
+"Nerve stimulators deliver a current at _______mA, but output should be set. to atleast______?","0-70mA
+30 mA"
+How does EtCO2 compare to PaCO2 normally?,EtCO2 2-5 low
+Most common form of heat loss during surgery?,Radiation
+Greatest amount of heat loss occurs during what period of surgery?,First hour
+Is pulse ox an early or late reporter of inadequate gas exchange?,Late (10 sec delay)
+What is the gold standard expired gas monitor?,Mass Spec
+How does bicarbonate administration affect ETCO2?,Increase
+How does V/Q mismatch or shunt affect ETCO2?,Decrease
+How does pulmonary artery embolism affect ETCO2?,Decrease
+A cleft seen in the final third of the capnogram indicates what?,Curare cleft: inadequate muscle paralasys
+A capnogram with a widenend beta angle and increased baseline indicates what?,Expiratory valve malfunction
+A capnogram with a widened alpha and beta angle and an increased baseline indicates what?,Inspiratory valve malfunction
+A capnogram with an increased slope of phase 3 can be normal in what types of patients?,Pregnant
+Rippling during expiratory phase indicates what on the capnogram?,Cardiac oscillations
+What is the difference between how succinylcholine and non-depolarizing muscle relaxants look (peripheral nerve stimulation)?,Succinylcholine will have no fade
+What is the gold standard determinant of adequate recovery?,TOFR>0.9
+"Onset is measured via the ______ muscle, while recovery is measured via the ________ muscle?","Onset: orbicularis oculi
+Recovery: Adductor policis"
+Protective reflexes of the pharynx and UES recover _________ (before/after) the diaphragm?,after
+"Order of paralysis after NMB administration?
+Recovery? Opposite","Eyelids, extremities, Chest, abdomen, diaphragm"
+"If your TOF is 0/4, what test should be used to determine time until recovery?",PTC
+How many twitches are the goal for surgical maintenance?,4-Jan
+At how many twitches can normal respiration occur?,4-Feb
+"If a patient has 3/4 twitches, how paralyzed are they?",75-80%
+"If a patient has 4/4 twitches, how paralyzed are they?",<70%
+"What are the tests of recovery that indicate the patient has only 50% of receptors still occupied by the paralytics? (5 tests)
+These indicate a TOFR of about what on continuous monitoring?","1. head lift in supine/ cough
+2. hand grip at baseline
+3. jaw thrust and bite
+4. NIF<-40
+5. sustained tetanus at 100 hz no fade
+TOFR 0.75"
+One twitch delivered at 1 hz to test onset,Single twitch - used for baseline
+"2 twitches at 50 Hz, 0.75 seconds apart (T1: T2)",Double burst stimulation
+"after tetany of 100 hz for 5 seconds, potentiation can last _________?",3-5 minutes
+"If you have a PTC of 1, how long until your patient recovers?
+What about a PTC of 5?
+PTC of 8?","1: 20-30minutes
+5: 10-15 minutes
+8: Imminent"
+"If you have 2-3/4 twitches, how long until your patient recovers (after receiving an intermediate acting agent)?",3-15 minutes
+"Which is an indicator of GREATER recovery, sustained tetanus at 100Hz with no fade, or TOF with no fade?",Tetanus
+Which is an indicator of GREATER recovery? NIF<-40 or Vital capacity >20ml/kg?,NIF <-40
+"Pre-oxygenation increases the FRC, which is what?",amount of air left in the lungs after a normal tidal breath
+How does pre-oxygenation increase apnea time?,"It increase alveolar O2 and decreases alveolar N2, allowing for diffusion of O2 into alveoli during apnea"
+"What is the goal EtO2 and EtN2 during pre-oxygenation?
+This indicates the lungs contain >________ml O2?","O2 >90%, N2~5%
+2000ml"
+What is normal FRC and normal O2 consumption?,"2500ml
+250ml/min"
+"After pre-oxygenation, FRC contains enough O2 to meet a normal patient's metabolic demands for _________-minutes?",10-Aug
+2 ways to pre-oxygenate your patient,"1. Vt breathing at 5L/min for 3-5 minutes
+2. 4-8 breaths at 10L/min for 1 minute"
+Side effects of succinylcholine,"Bradycardia, myalgia, hyperkalemia, increased ICP, increase intragastric pressure"
+"What is the gold standard inducation agent and that is the dose, onset, and duration?","Propofol
+induction 1-3mg/kg
+RSI: 2-3mg/kg
+Onset: 15-45 seconds
+Duration: 5-10 minutes"
+What are the pros and cons of propofol?,"Pros: Rapid onset and recovery, anti-emetic, anti-convulsive, anti-pruritic
+Cons: Cardiac depression, burning on injection, infection risk, contains sulfites (asthma)"
+"What are is the dose, onset, and duration of etomidate? Who would you consider using it for?","Use in trauma, frail, unstable
+Induction: 0.2-0.3mg/kg
+RSI: 0.2-0.4 mg/kg
+Onset <30 seconds
+Duration:5-10mins"
+What are the pros and cons of etomidate?,"Pros: less CV effects, neuroprotective, anticonvulsant, less resp effects
+Cons: increased myoclonus, PONV, adrenal suppression, and burning on injection"
+"What is the dose, onset, and duration of ketamine? Who would you consider using it for (for induction)?","Use in hypotension, hypovolemia, hemorrhage, sepsis, active wheezing, 
+Induction and RSI: 1-2mg/kg
+Onset: 30-60 seconds
+Duration: 5-10 minutes"
+What are the pros and cons of ketamine? Who cannot receive it?,"Pros: circulatory stimulant, best bronchodilator, maintains airway reflexes, can give IM
+Cons: Increeases ICP and CMRO2, increases cardiac demand, secretions, and emergence delirium
+Avoid in CAD, CHF, increased ICP, and pheo"
+Are inhalation agents faster or slower than IV agents?,Slower
+Which anesthetic agents are anti-emetic vs pro-emetic?,"Anti-emetic: propofol and precedex
+Pro-emetic: etomidate, ketamine, opioids"
+What are some physiological things we are trying to achieve by performing an RSI?,"1. prevent hypoxia during induction
+2. minimize time to intubation
+3. decrease aspiration risk"
+What are some indications for RSI?,"Full stomach (<8 hours NPO)
+Obesity/pregnancy
+Diabetes with gastroparesis, ARF
+bowel obstruction/ appendectomy
+hiatal hernia with GERD
+When BMV looks difficult but intubation does not
+Emergency surgery, ASA 3, Trauma"
+Steps of RSI,"1. Suction at HOB
+2. preoxygenate
+3. Pre-treat subclinical NDMR?
+4. Full dose induction agent
+5. Cricoid pressure (10-20 newtons awake, 30-40 asleep)
+6. Full dose succinylcholine (1.5mg/kg)
+7. do NOT ventilate"
+What are the global criteria for extubation?,"Acceptable hemodynamics
+Normothermia
+Patent airway (cough and LOC)
+muscle strength
+acceptable metabolic status (lytes, ABG)
+Acceptable 
+hematologic indicators (H/H)
+Analgesia for optimal respiratory effort"
+What are respiratory criteria for extubation?,"Vital cap >15
+NIF < -25
+VT> 4-5ml/kg
+FiO2<50%
+SpO2>90%
+PaO2> 60
+PaCO2<50
+acceptable spontaneous RR"
+Who would you consider for deep extubation?,"Asthma, increased ICP, high cardiac instability, facial surgery"
+What is peak inspiratory pressure and where do we want to keep it during surgery?,"max pressure exerted on airway during inspiration
+total pressure needed to deliver a tidal volume
+Goal is <15, but keep below 25 for aspiration risk"
+Normal PIP is ______ plateau pressure? (greater than or less than),greater than
+What is plateau pressure and what is normal?,"total pressure applied to small airways and alveoli to expand the lungs, measure after an end-inspiratory pause 
+Normal is <35 (risk for barotrauma if too high)"
+What is trigger sensitivity and what is normal?,"negative pressure required by the patient to trigger a breath 
+Normal is -1 to -3"
+What is p50 and what is normal?,"pO2 at which hgb is 50% saturated with oxygen
+Normal 26-27"
+"Assuming a normal OHDC, what is the patients PaO2 if their SpO2 is 90%? what about 80%? 70%?","90% = PaO2 of 60
+80% = PaO2 of 50
+70% = PaO2 of 40"
+What is mendelson's syndrome and what is the criteria for diagnosis?,"Mendelson's Syndrome: aspiration of gastric content during anesthesia that often leads to chemical pneumonitis and ARDS
+Criteria: pH<2.5, volume >0.4ml/kg or 25cc"
+How soon after the event do severe aspiration symptoms usually occur? What are those symptoms?,"2 hours
+Bronchospasm
+Tachycardia 
+CXR infiltrates
+wet sounding lungs 
+Decreased SpO2 on increasing FiO2"
+How do you treat aspiration?,"Turn head, lift if possible (trend)
+Suction oropharynx
+Supportive!
+No steroids
+ABX only if cultures positive"
+"Abx should be started within ______ of incision? What about vanco?
+How long should they be continued for?","1 hour
+vanco 2 hours
+Continue for 24 hours - except for cardiac surgery (48)"
+Which cleansing agent is ineffective in the presence of blood?,Povidine-Iodine
+Why if cephazolin such a common pre-op antibiotic?,It covers skin flora
+EXAM 3 REVIEW,EXAM 3 REVIEW
+When are low flow oxygen devices acceptable?,"When minute ventilation <8-10, RR<20, VT<0.8L/min, inspiratory flow is normal"
+How do you know what percent FiO2 you are giving through a nasal cannula?,21% (RA) + 4% per L flow
+What is a danger of oxygen therapy related to premature infants?,Retinopathy of prematurity
+What is peak inspiratory flow?,The velocity with which gas is delivered to the patient in L/min
+What is trigger sensitivity and what is normal?,"Effort required by patient to trigger a breath
+Normal -1 to -3"
+How does NIPPV increase FRC?,It increases FRC by recruiting collapsed alveoli!
+What is the ideal FiO2 to use?,30-40%
+"What is peak inspiratory pressure and what is normal?
+What are some factors that impact it?","total pressure needed to deliver VT or max pressure exerted on airway during inspiration
+Normal <15
+keep below 25 to prevent aspiration risk
+Resistance, comliance"
+How is dynamic compliance measured?,VT/ PIP-PEEP
+What are some instances that would cause increased PIP?,"Bronchospasm, secretions, biting tube, decreased compliance"
+What is plateau pressure and what is normal?,"pressure needed to hold lung open/distend small airways 
+Normal <35"
+What are some instances where plateau pressure would be increased?,"Barotrauma, pneumo, subQ emphysema"
+What is a decelerating (sawtooth) flow pattern on the vent?,Flow rate begins maximally (up to 250ml/min) and then decreases until the end of inspiration
+ACV vs. SIMV vs. PSV: Which does NOT have guaranteed minute ventilation?,PSV
+ACV vs. SIMV vs. PSV: Which has variable PIP?,ACV and SIMV
+ACV vs. SIMV vs. PSV: which DECREASES work of breathing?,ACV
+ACV vs. SIMV vs. PSV: Which allows evaluation of work of breathing?,PSV
+ACV vs. SIMV vs. PSV: which helps patient comfort?,SIMV
+ACV vs. SIMV vs. PSV: during which is auto-peep most likely?,ACV
+Volume control vs. Pressure control: Which has a guaranteed minute ventilation?,Volume control
+Volume control vs. Pressure control: which has a flow set by the patient?,Pressure control
+Volume control vs. Pressure control: which has a higher risk of barotrauma?,Volume
+Volume control vs. Pressure control: which has a square wave form (constant flow pattern)?,Volume
+Volume control vs. Pressure control: which has a decelerating ramp waveform (variable flow pattern)?,pressure
+Volume control vs. Pressure control: which allows assessment of plateau presure?,"Volume control
+(with an end-inspiratory pause)"
+Why is PIP usually greater than PP?,"PIP involves flowing air (so higher presssure)
+PP is a static measurement"
+What do the X and Y axis measure on a pressure volume loop?,"X: pressure
+Y: volume"
+Compliance line should form a _______ degree angle with the volume (Y) axis?,45
+"If the loop becomes more horizontal (increased angle with y axis), this indicates a ____________(increase/decrease) in compliance? What are examples of situations that could cause this?","Decrease- CHF, ARDS, Atelectasis"
+"If the loop becomes more vertical (decreased angle with y axis), this indicates a ______________ (increase/decrease) in compliance? What are examples of situations that could cause this?","increase- emphysema, surfactant therapy"
+What is the difference in appearance between a pressure-control versus a volume control loop?,"Pressure control: more box like, doesnt allow for easy assessment of compliance
+Volume control: more football like, with end points"
+"What does beaking"" indicate on the pressure-volume loop?""",Overdistension
+At what point on the loop is tidal volume measured?,"Highest inflation point, correlates with highest point on Y AXIS"
+At what point on the loop is peak airway pressure measured?,"Highest pressure point, correlates with highest point on X AXIS"
+Where on the loop do you see PEEP?,"It allows for the airway pressure to not reach zero, so its the spot along the x axis before the loop begins (bottom left of graph)"
+What is intrinsic (auto) PEEP and when is it likely to occur?,When expiratory time is shorter than what's needed to fully deflate the lung - any time there is a risk of breath stacking
+What kind of patients are physiologically at risk for intrinsic PEEP? What can intrinsic PEEP lead to?,"Anyone with prolonged expiration - COPD, Asthma
+Can lead to barotrauma, volutrauma, hypotension"
+Temperature sensation travels via the ________tract in the ______(anterior/posterior) spinal cord?,"Spinothalamic
+anterior"
+Will the body vasoconstrict or shiver first and why?,Vasoconstrict because it takes less metabolic work
+How do general anesthetics impact warm and cold response thresholds? What about the interthreshold range?,"Warm response thresholds are elevated slights
+Cold response thresholds are notably reduced
+Interthreshold range is increased from -0.3 degrees to 2-4 degrees"
+What is poikliothermia?,Patient taking on the temperature of his/her environment
+What type of medication interferes the MOST with thermoregulation?,Volatile anesthetics (N2O less so)
+What thermoregulatory mechanism is best preserved under anesthesia?,Sweating
+What are the 4 types of heat loss during surgery and what do they mean?,"1. Radiation: heat transferred by electromagnetic radiation
+2. Convection: from air passing by 
+3. Conduction: from 2 objects touching
+4. Evaporation: through the conversion of water to gas"
+There is a rapid decrease in temp (0.5-1.5 degrees) in the first hour of surgery due to what? What happens next?,"Redistribution of blood 
+Followed by a slow linear reduction for 2-4 hours 
+Then core temp stabilizes in 3-4 hours"
+How does regional anesthesia impact temp?,"Above the block: decreases threshold for vasoconstriction and shivering
+Below block: blocks vasoconstriction and shivering"
+"Which type of anesthesia has a temperature plateau, GA or RA? why?","GA
+RA doesn't have ability to vasoconstrict periphery"
+"Which has a higher temp drop, GA or RA?",GA
+What is the most effective medication for shivering (with dose)?,Meperidine 25mg
+How does hypothermia impact coagulation?,defects the platelets
+How does hypothermia imapact drug metabolism,"Decreases it, lengthens duration of paralytics (VEC!)"
+How does hypothermia impact MAC?,reduced by 5%
+No anesthesia is necessary to prevent movement on incision once a patient's core temp reaches _________?,20 degrees
+Why is it hard to warm patients in pacu?,Their blood is not mixing due to vasoconstriction
+Principal site of action for neruaxial blockade?,Nerve root
+Contraindications for neuraxial block?,"Refusal
+Bleeding disorder
+Severe hypovolemia
+Elevated ICP
+Infection"
+An epidural delivers anesthetic to where?,Epidural space
+Epidural anesthsia vs spinal anesthesia?,"Epidural is slower, less dense, and requires a larger volume
+Spinal delivers to subarachnoid space where CSF is contained"
+How does differential blockade work? What does it mean to have a spinal level of T10?,"Sympathetic (temperature) is 2 above spinal
+Sensory (soft touch) is 2 below spinal
+Motor is 2 below sensory
+T10 spinal = 
+T8 temp
+T10 pin prick
+T12 touch
+L2 motor"
+"How many cervical, thoracic, lumbar, and sacral vertebrae are there?","7V
+12T
+5L
+5 sacral with fusion (S4 and S5 do not fuse)"
+Performing lumbar puncture below _______in an adult helps avoid needle trauma?,L1 (L3 in child)
+Tingling fingers = which dermatome,C6-C8
+"Nipple line dermatome
+Xiphoid process dermatome
+Top of stomach dermatome
+Naval dermatome
+Pubis dermatome
+Thigh dermatome","T4 Nipple
+T6 xiphoid
+T8 stomach
+T10 naval
+T12 pubis
+L2 thigh"
+Path from supraspinous ligament to spinal cord,"Supraspinous ligament 
+Interspinous ligament
+Ligamentum flavum
+Epidural space (connective tissue/fat- EPIDURAL)
+Dura mater
+Subdural space 
+Arachnoid mater -dense
+Subarachoid space (CSF- SPINAL)
+Pia mater 
+Spinal cord"
+Spinal cord extends from ______ to ______?,Foramen magnum to sacral hiatus
+Tuffier's Line,across highest points of both iliac crests (L4-L5)
+First palpable spinous process? Most prominent?,"C2
+C7"
+How do you know you're in the right place for an epidural?,"Sudden loss of resistance
+(syringe resistance or hanging drop)"
+How do you know you're in the right place for a spinal?,Free flow of CSF
+What is the normal specific gravity of CSF?,1.003-1.008
+What is hyperbaric vs. hypobaric solutions? What should be avoided with hypobaric solution?,"Hyperbaric (>1.008) mixed with glucose, will fall to dependent side
+Hypobaric (<1.003) mixed with water or fentanyl, rises to highest area, AVOID TREND RIGHT AFTER GIVING< WILL CAUSE HIGH SPINAL"
+What is a high spinal?,Exaggerated spread of spinal into cervical region that prevents compensatory vasoconstriction and symapathetic HR acceleration
+"What dermatome levels are responsible for the diaphragm, the cardioaccelerating fibers, and the SVR/?","Diaphragm: c3-c5
+HR: T1-T4
+SVR: T5-L1"
+What are the symptoms of high spinal?,"Rapid onset of alpha and beta blockade!
+Severe hypotension (often preceded by nausea)
+Bradycardia
+Respiratory insufficiency"
+What are the risk factors for high spinal?,"Accidental intrathecal injection or too high a dose
+Failure to reduce doses in standard patients (1 ml vs 2ml) -elderly, short, obese, pregnant
+Patient with unusual sensitivity?"
+What is the treatment for high spinal?,"Airway
+Autotransfusion (head down)
+5-20ml/kg bolus (healthy)
+Atropine
+Ephedrine or Epi (2-5mcg) infusion"
+What is a post-dural puncture headache,"Leakage of CSF at a rate faster than it can be produced causing traction on dura, meninges"
+What is a wet tap?,"Needle has passed through epidural space into subarachnoid space, causing CSF flow"
+"What are the symptoms of PDPH? When doe they occur?
+What aggravates it?","Bilateral, frontal, or retro-orbital throbbing pain that extends to the neck
+Photophobia/diplopia
+Nausea/tinnitus (cranial nerve6)
+aggravated by sitting or standing and relieved when lying down flat 
+Onset 12-72 hours"
+What are the risk factors for PDPH?,"Larger needle
+Cutting point needle > pencil point
+Touhy>Quinke> Whitacre or Sprotte
+Young, female, pregnant"
+How do you treat PDPH?,"Recumbant position
+Analgesia: acetaminophen and opioids
+IV or oral fluids
+Caffeine
+Stool softeners (minimize straining)
+Epidural blood patch - inject 15-20ml of blood at one space above dural site"
+How does the addition of epi affect local anesthetics?,Prolongs duration
+How does the addition of opioids or clonidine affect local anesthetic?,Improves the quality and duration
+How does the addition of bicarb affect local anesthetics?,faster onset time
+________ml of LA per segment to be blocked is normal,1-2ml
+Does epidural or spinal anesthesia have a higher risk of toxicity?,Spinal
+Is epidural or spinal anesthesia more likely to be injected in the thoracic region?,Epidural
+What is the most common nerve injury? When does it present?,"Ulnar nerve, 48-72 hours later"
+What nerves make up the brachial plexus? In what positions is the brachial plexus at risk?,"1. Axillary nerve
+2. Radial nerve
+3. Median nerve
+4. Ulnar nerve
+All positions but sitting"
+"Injury to what nerve causes decreased sensation of the palmar surface of the thumb, index, and middle fingers?",Median
+Injury to what nerve causes loss of plantar sensation and foot drop?,Posterior tibial
+"Injury to what nerve causes decreased sensation of lateral thumb, index, middle, and half of ring finger on the DORSAL side?",Radial
+Injury to what nerve causes loss of dorsal foot sensation and foot drop?,Common peroneal
+Injury to what nerve causes decreased sensation of the upper anterior thigh (anterolateral) and the inability to extend the knees and flex the hip?,Femoral
+Injury to what nerve causes decreased sensation of the medial lower leg?,Saphenous
+"Injury to what nerve causes decreased sensation to the lateral lower leg, and most of the foot except the arch, as well as weakness below the knees",Sciatic nerve
+Injury to what nerve causes impaired sensation of the medial fifth and half of the fourth digit?,Ulnar nerve
+Injury to what nerve causes decreased sensation of the upper medial thigh and inability to adduct the leg?,Obturator nerve
+Injury to which two nerves cause foot drop?,Posterior tibial; common peroneal
+What is the most common lower extremity nerve injury?,Common peroneal
+Injury to what nerve causes inability to oppose thumb?,Median
+Injury to what nerve causes inability to oppose pinky?,Ulnar
+Injury to what nerve causes wrist drop?,Radial
+Prevention measures for ulnar nerve injury?,"Keep hands supinated on armboards, otherwise neutral and abduct arms <90 degrees"
+Where should your SPO2 be placed to assess nerve injury?,Dependent arm to assess whether or not it is occluded
+How does the median nerve get injured?,"IV in antecubital,, elbow hyperextension"
+Methods tp prevent radial nerve injury,Ensure arm is not against vertical pole
+Dull shoulder pain after a surgery in lateral position most likely indicates injury to what nerve?,Suprascapular
+How doe you prevent obturator nerve injury?,Keep hip flexion < 90 degrees
+Compression to the posterior aspect of the knee will cause injury to what nerve?,Posterior tibial
+Compression to medial leg by stirrups will cause injury to what nerve?,Saphenous
+External rotation of the legs will likely cause injury to what nerve?,common peroneal
+What type of patients are at particular risk of sciatic nerve injury?,malnourished
+Fracture tables with perineal posts put patients at risk for what kind of injury?,Pudendal nerve
+"If they must be used, shoulder braces should be placed where?",Acromandibular joint
+What happens if a shoulder joint is placed too medial? Too lateral?,"Medial: compress brachial plexus between clavicle and first rib
+lateral: compress brachial plexus between clavicle and head of humerus"
+"Axillary roll should always be placed _______ (caudal, cephalad) to the axilla to avoid brachial plexus compression?",Caudal
+EXAM 4 REVIEW,EXAM 4 REVIEW
+Total body water calculation? Females? Elderly? Infants?,"ECV + ICV
+60%LBM or 600ml/kg
+Females 500ml/kg
+Elderly 450ml/kg
+Infants 800ml/kg"
+Intracellular fluid volume makes up ___% of total body water? what about extra cellular fluid?,"2/3 (66% intracellular)
+1/3 (33%) extracellular"
+Extracellular fluid is further divide into what two things?,"75% interstitial fluid (150ml/kg)
+25% plasma (50ml/kg)"
+What are the major anions and cations of both the intracellular and extracellular fluids?,"ICV: +K, -Phos
+ECV: +Na, -Cl"
+What is transcellular fluid?,"Fluid isolated from the ECV that is non-functional - CSF, synovial fluid, GI secretions, intraocular fluid,"
+What is oncotic vs hydrostatic pressure?,"Oncotic: pressure created by plasma proteins pulling water
+Hydrostatic: pressure of fluid against walls of the membrane (pushes water)"
+Which two pressures favor fluid into the intravascular space?,"Plasma oncotic
+Interstitial hydrostatic (or fluid"")"""
+"Overally, body has a net ________ filtration? (positive/negative) What does this mean and at what part of the capillary does this happen?","positive - fluid into tissues
+Happens at arterial ends of capillaries"
+What is the endothelial glycolax and what is its role?,"Capillary epithelium that acts as a semi-permeable membrane, important in maintaining fluid homeostasis
+Also has a charge that repels circulating platelets and prevents them from sticking to the vessel wall"
+What things damage and repair the endothelial glyocalyx?,"Damage: hyperglycemia, hyperlipidemia, sepsis, smoking, aggressive fluid resuscitation
+Repair: albumin, steroids, normoglycemia, cautious fluid therapy"
+Damage to the endothelial glyocalyx will cause increased ________pressure?,Interstitial oncotic due to leakage of plasma proteins
+"In the pre-capillary arteries, which is greater, hydrostatic pressure or oncotic pressure? How does this compare to post-capillary veins?","Hydrostatic pressure > oncotic
+Same as veins but to a greater degree in arteries"
+What type of receptors cause activation of the RAAS system?,Baroreceptors
+What does ADH do and what kind of receptors stimulate its release?,"Osmoreceptors in hypothalamus sense changes in osmolality, posterior pituitary releases ADH
+ADH causes H2O reabsorption and increased thirst, as well as arterial vasoconstriction"
+How does the molecular weight of crystalloids compare to that of colloids?,"Crystalloids are low, colloids high"
+"Crystalloids increase_______ pressure, while colloids increase_______ pressure?","Crytalloids: capillary hydrostatic
+Colloids: plasma oncotic"
+What is the half life of crystalloids,20 minutes
+What type of patients should NOT receive colloids and why?,"Pre-existing glyocalyx injury such as hyperglycemia sepsis, hyperlipidemia, or aggressive fluid resuscitation"
+Who is LR contraindicated in?,"Neuro injury
+Diabetics
+Blood transfusion"
+What type of fluid should ESRD patients get?,NS (no K+!)
+What is the only crystalloid that contains calcium?,LR
+What does the lactate in LR do and what can it cause?,"buffer, can cause metabolic alkalosis as well as hyperglycemia"
+What are the buffers in plasmalyte solution?,Sodium gluconate and sodium acetate
+Which crystalloid is hypertonic? Which is (slightly...) hypotonic?,"Hyper: NS
+Hypo:LR"
+What metabolic change can be caused by NS administration?,Hyperchloremic acidosis
+Which colloid is the most allergenic?,Gelatins
+Which colloid is the longest lasting? Why don't we use it?,"First gen HES 
+Black box warning for renal injury"
+Which colloid can cause coagulopathies?,Dextrans
+4 things that make up fluid calc during surgery,"Maintenance
+NPO deficit
+Surgical deficit
+Blood loss"
+NPO calc,NPO hours x hourly maintenance
+"A major non-abdominal surgery, or a laparoscopic surgery would indicate how much blood loss?",4-6ml/kg3
+What is the half life of colloids?,3-6 hours
+"Blood in:
+4x4
+Ray-Tech
+Lap sponge
+Weighed sponge","4x4: 10
+Ray-tech: 10-20ml
+Lap: 150
+Weight: 1 gm=1ml"
+Blood volume of adult male and female,"Male: 70ml/kg
+Female: 65ml/kg"
+MABL calculation,EBV x (initial H/H - lowest acceptable H/H)/ initial H/H
+Does over or under resuscitation cause PONV?,Under
+Does over or under resuscitation cause decreased gut motiliy,Over
+What is normal calcium and where is it stored?,"8.5-10.5
+99% in bones, 1% in plasma as either ionized, non-ionized, or bound to albumin"
+What are symptoms of low and high calcium?,"Low: paresthesia, confusion, skeletal muscle cramps, tetany, chvosteks and trousseau's, laryngospasm
+High: psychosis, mental status changes, nausea, abdominal pain, polyuria and polydipsia
+Think spoiled milkd"
+What is normal phosphate and where is it stored?,"2-4.7
+85% in bone, some in plasma"
+"What are symptoms of low phosphate, what about high?","Low: confusion, coma,seizures, muscle weakness, decreased ATP, platelet dysfunction
+high: same as high CA! So psychosis and GI irritability"
+What is normal Mag and where is it stored?,"1.3-2.5 
+Most intramuscular, some intracellular and 1% serum"
+What are signs of high magnesium? What drug does it impact?,"4-5 loss of deep tendon reflexes
+10 coma and respiratory paralysis"
+What are non-EKG symptoms of low mag?,Skeletal muscle weakness and spasm
+What is normal potassium and where is it stored?,3.5-5.5 in the ICF
+What are non EKG symptoms of low potassium?,"Skeletal muscle weakness and cramps at 2.5-3.5
+Depressed deep tendon reflexes at <2.5
+Altered LOC at less than 2.5"
+What is normal sodium and where is it stored?,"135-145
+ECF"
+Signs of low sodium (cascade)?,"130-135: nothing
+125-130: nausea
+115-124: HA, lethargy, LOC
+<115: seizure, coma, arrest
+CEREBRAL EDEMA"
+Signs of high sodium (cascade via osmolarity)?,"350-375; confussion, restless
+376-400: ataxia, tremor, weakness
+401-430: hyperreflexia, spasm
+>430: seizure, coma death"
+At what level of hyponatremia will you see nausea and vomiting?,125-129
+Which two electrolyte abnormalities cause loss of deep tendon reflexes?,"Hypokalemia
+Hypermagnesemia"
+Abnormality of which electrolyte will cause bradycardia?,Calcium
+Hypokalemia EKG effects (cascade),"2.8: short PR
+2.5-2.8: long QT
+2.5: flat t wave
+2.0: ST depression
+1.7: U wave"
+Hyperkalemia EKG changes:,"Short QT 
+5.5-6.5: peaked T wave
+6.5-7.5: flat p then lose it, prolonged PR 
+7.0 wide WRS
+8.5: sine wave"
+"ST elevation and a short QT, along with hypertension and ventricular dysrhythmias, indicate what electrolyte disturbance?",Hypercalcemia
+EKG changes with hyponatremia (cascade),"120: ST elevation
+115: low voltage, wide QRS, inverted T wave
+110: ventricular arrhythmias"
+Which two electrolyte abnormalities cause U wave?,Low K and Low Mag
+Which electrolyte abnormality causes a peaked T wave,Hyper K
+Which electrolyte abnormality is associated with Torsades?,Hypomag
+What is the most common comorbidity in the elderly? Most common cardiac complication?,Cardiovascular disease; MI
+What is the most common arrhythmia in the elderly?,Afib
+Which drugs have particularly slow metabolism in the elderly?,"Those cleared by phase one reactions.
+'My furry friend says lets kiss'
+Morphine
+Fentanyl
+Flumazenil
+Sufentanil
+Lidocaine
+Ketamine"
+Obese vs. elderly total body fat,"Obese have increased total body fat
+Elderly have increased total body fat but decreased subQ storage"
+Obese vs. elderly lean body mass,"Decreased elderly
+Increased obese"
+Obese vs. elderly residual volume,"Obese no change
+elderly increased"
+PNS vs SNS in elderly,"PNS decreased (afferent tone)
+SNS increased"
+Number of neurons in the elderly brain,No change
+Brain mass in the elderly,Decreased via decreased number of dendrites and synapses
+Alveolar surface area vs. alveolar airspace in the elderly,"Surface area decreased 
+Airspace increased"
+FRC in elderly vs. obese,"Increase elderly
+Decrease obese"
+Minute volume elderly,Increase
+Minute volume and residual volume in the elderly,Increased
+FRC obese vs elderly,"Increased elderly
+Decreased obese"
+Lung (alveolar) compliance in the elderly,Increased
+Lung elasticity/recoil in the elderly,Decreased
+Catecholamine sensitivity in the elderly,decreased
+What happens to valves in the elderly?,Calcification
+What kind of heart dysfunction is most common in the elderly?,"Diastolic
+Systolic unchanged"
+Clotting in the elderly,increased
+Beer List meds to avoid in elderly,"Diphenhydramine
+Scopolamine
+Hydroxizine
+Amitryptiline
+Benzos
+Metoclopramide 
+NMB"
+anti-emetic of choice in the elderly,zofran
+What are the risk factors for post-op delirium?,"Advanced age
+Male
+Dementia
+ETOH
+Depression
+Pre-existing mental condition or cardiac disease
+Anticholinergics"
+What are they symptoms of post-op delirium and when does it onset?,"Begins early and lasts days to weeks
+Altered sleep/wake, perception, thinking, memory"
+What is the number one risk factor for POCD?,Advanced age
+What is the difference between POCD and delirium,"POCD is more subtle and longer lasting, patients have impaired comprehension and inability to perform ADLs"
+Do elderly go to sleep faster or slower via inhalation and IV than normal people?,"Inhalation: faster (low CO)
+IV: Slower (low CO)"
+Chest compliance in elderly,decreased
+Why does closing capacity increase in the elderly?,Increased lung compliance
+total lung capacity in the elderly,unchanged
+Arterial compliance and pulse pressure in the elderly,"Compliance decreased, pulse pressure increased"
+Blood volume in the elderly,Decreased by 20-30%
+afterload in the elderly,Increased
+"Lean body mass
+Total body water
+Basal metabolic rate in the elderly",Decreased
+Renal mass in the elderly,Decrease (250g to 180g)
+Serum creatinine in elderly,"Unchanged, but creatinine clearance decreased"
+Plasma protein binding and albumin production in the elderly? What kind of drugs does this impact,decreased - acidic
+Alpha-1 Acid GP in the elderly? What kind of drugs does this impact?,Increased - basic
+CSF in the elderly?,"Decreased volume, increased specific gravity"
+How much does MAC decrease with each decade and starting when?,6% per decade after age 30
+What happens to hydrophillic drugs in the elderly?,Increased serum concentration (decreased volume of distribution)
+"What percentage of propofol, opioids, and midazolam and NDMB should you give the elderly?","Prop:1/3
+Opioids: 1/2
+Midaz: 1/4 
+NDMB (curium): no change"
+Volume of distribution of lipophilic drugs in the elderly? What about hydrophilic drugs?,"Lipophilic: increased volume of distribution
+Hydrophilic: decreased volume of distribution"
+EXAM 5 REVIEW,EXAM 5 REVIEW
+Explicit vs Implicit memory,"Explicit: conscious recollection
+Implicit: How to do things/respond to commands"
+When does awareness most often occur?,Maintenance
+Which medications are more likely to cause awareness? Less likely?,"Nitrous and TIVA more
+VAs less with ETAC MAC >0.7"
+What is the BIS goal for GA?,40-60
+How does neuromuscular blockade affect likelihood of awareness?,"Increases it, won't see movement!"
+Is more anesthetic needed to prevent awareness or mobility?,Mobility
+What is the highest risk factor for experiencing awareness?,History of awareness and underdosing of anesthesia
+BIS < _______ is associated with lack of recall?,80
+What monitor is suggested to be used for preventing awareness under volatile anesthesia?,anesthesia gas analyzer
+Risk factors for awareness,"Small doses
+NDMBs
+Female
+ASA 3-5 in major surgery
+Age (younger)
+Obese
+previous awareness
+impaired cardiovascular status
+Emergency procedures/Trauma
+OB, Cardiac, Thoracic procedures
+Difficult intubation"
+What BIS level correlates with a deep hypnotic state?,30
+What BIS level correlates with response to loud verbal or physical stimuli?,60-80
+What BIS level corresponds to response to verbal stimuli?,90
+What are some things that could cause a sudden increase in BIS?,"artifact
+Patient movement
+change in anesthetic delivery
+Changes in stimulus"
+Is HTN indicative of awareness?,no
+What could cause a sudden decrease in BIS?,"Administration of hypnotics, VAs, beta blockers, alpha-2 algonists, muscle relaxants"
+What physiologic changes can cause a sudden decrease in BIS?,"Hypotension
+Hypothermia
+Hypoglycemia
+Anoxia"
+What effect can emergence have on BIS monitoring?,paradoxical decrease
+Which monitoring (for awareness) is better for TIVA vs VA?,"TIVA: BIS
+VA: ETAC"
+What is MH?,"A mutation of the ryanodine receptor, inherited condition causing dysregulation of excitation-contraction coupling in skeletal muscle"
+Who is most likely to have MH?,"Males
+Peds (<15)"
+Triggers of MH,VAs and Succinycholine
+Early signs of MH,"ETCO2 rapid increase
+SNS activation
+Massetar spasm (with succ)
+Muscle rigidity 
+Sweating
+Mottling
+Arrhythmias
+Mixed acidosis"
+What are the Late signs of MH?,"Hyperkalemia
+Fever >38.3 (last)
+Elevated CK
+Gross myoglobinemia 
+Myoglobinuria
+Cardiac arrest
+DIC and MODS"
+What are the cardiac symptoms of MH?,"Hypermetabolic state (x3 O2 consumption)
+Tachycardia, catecholamine surge"
+What are the respiratory signs of MH?,"PaCO2>100, pH <7.0"
+What are the CNS symptoms of MH and are they early or late?,"They are late!
+Hyperthermia, acidosis and hyperkalemia cause coma, areflexia, and dilated pupils"
+What are the musculoskeltal symptoms of MH?,"MMR ! If seen, start MH treatment"
+lactate levels increase in MH by how much?,15-20 fold
+Describe the exothermic response of MH?,"Temperature increase of 1-2 degrees celcius every 5 mins, average 39.3
+Increased capillary permeability and edema, compartment syndrome possible"
+Renal effects of MH,"Rhabdo
+K>6
+CK>20,000
+Serum myoglobin >150
+Urine myoglobin>60"
+Coagulation effects of MH?,"Release of tissue thromboplastin
+DIC 
+Coagulopathy"
+Treatment of MH,"1. Call for help, stop surgery
+2. Discontinue trigger
+3. 100% FiO2 via ambu bag
+4. Apply charcoal filters (90 seconds)
+5. Dantrolene and MH cart
+6. Institute TIVA
+7. ] 2.5mg dantrolene with 60ml sterile water - Q 5 minutes up to 10mg/kg 
+8. Cool patient if temp>39 
+9. Maintain UOP 1ml/kg/hr
+10. Check ABG and administer Bicarb 1-4mEq/kg
+11. Treat hyperkalemia with 10u regular insulin + 50ml of 50% dextrose
+12. AVOID CCB but treat dysrythmias"
+"If CK or K rise, what should be suspected?",Myoglobinura - start Bicarbonate at 1mEq/kg/hr (alkanalize urine)
+How long do MH patients have to be monitored in the ICU?,36 hours
+EXAM 6 REVIEW,EXAM 6 REVIEW
+What are cytokines,Inflammatory cell activators that are synthesized to act as secondary messengers and activate endothelial cells and WBC
+What is the most life threatening manifestation of allergic reaction?,Circulatory collaspe (vasodilation with decreased venous return)
+People at risk for anaphylaxis,"healthcare workers
+Children with spina bifida
+Urogenital abnormalities 
+certain food allergies"
+Innate vs Acquired immunity,"Innate: barriers and inflammatory response
+Acquired: B cells and T cells"
+Cell-mediated vs humoral immunity,"Cell-mediated: T cells
+Humoral: B cell"
+What do B cells do?,make antibodies
+What do T cells do?,"produce cytokines, help B cells divide into plasma B cells"
+Cytokines and chemokines are part of ______ immunity?,Humoral
+What happens when a B cell is exposed to an antigen?,"It starts replicating
+Then differentiates into plasma and memory
+Plasma cells produce antibodies and tag the virus
+Effector cells (macrophages) migrate to areas of inflammation"
+Haptens vs. Macromolecules,"Haptens: PCN, anesthetic drugs - small substances that bind to host proteins or cell membranes to sensitize patients
+Macromolecules: blood products, colloids, NMBDs, protamine, latex"
+What type of T cells do NOT need a specific antigen?,Killer T cells
+How does T cell mobilization work?,"They encounter a B-cell, dendritic cell, or macrophage presenting a digested antigen 
+MHC-antigen activates T cell receptor, T-cell secretes cytokines or become helper T cells"
+"Antibody make up, which part is able to bind to the antigen?","2 heavy chains and 2 light chains..
+Heavy chain determines structure and function.
+Fab fragment binds to antigen, FC responsible for biologic properties"
+What type of immune cells are the first to appear in acute inflammatory reactions?,Neutrophils
+Which type of effector immune cells are important in allergic reactions?,Mast cells and eosinophils
+IgE receptors reside on the surface of what types of effector cells?,Basophils
+Where do mast cells reside?,"Skin, lungs, GI"
+Type I allergic reactions,"Immediate
+IgE and IgG mediated, no complement
+Example: anaphylaxis/lactoid, extrinsic asthma"
+Type II allergic reactions,"Cytoxic/Complement, 5-12 hours
+IgG and IgM
+Example: Transfusion reaction, HIT"
+Type III allergic reactions,"immune reaction/complement, 3-8 hours
+IgG and IgM
+Example: Snake bite, protamine"
+Type IV allergic reactions,"delayed hypersensitivity, t-cell mediated
+18-24 hours
+Peak 40-80; Gone: 72-96
+Examples: Poison Ivy, TB Test, Contact dermatitis"
+When does anaphylaxis vs anaphylactoid happen?,"Anaphylaxis: happens when body has hypersensitivity reaction to substance
+Anaphylactoid: happens when drug directly releases histamine or starts complement system via IgG"
+Anaphylaxis vs. Anaphylactoid: which is immunogenic,Anaphylaxis
+Anaphylaxis vs. Anaphylactoid: which involves IgE and plasma cells?,anaphylaxis
+Anaphylaxis vs. Anaphylactoid: which involves mast cells AND basophils in vasculature,anaphylaxis
+Anaphylaxis vs. Anaphylactoid: which involves mast cells only in organs,anaphylactoid
+Anaphylaxis vs. Anaphylactoid: which requires previous exposure,anaphylaxis
+What is the most common medication causing anaphylaxis? What is the most common cause in children? what about the general population?,"NBMD
+Latex in children
+PCN in gen pop"
+Which induction drugs are higher risk for anaphylaxis?,"Barbs, propofol, etomidate"
+Which opioids are higher risk for anaphylaxis?,"meperidine, morphine, fentanyl"
+What are some higher risk drugs for anaphylactoid reactions?,"Antibiotics, basic compounds, IV contrast"
+What are some high risk hyperosmotic agents for anaphylactoid reactions?,"IV contrast, mannitol, dextran"
+Which muscle relaxants are high risk for anaphylactoid reactions?,"Atracurium, Mivacurium, Curare"
+Which opioids are high risk for anaphylactoid reactions?,"Morphine, demerol, codeine, thiobarbituates"
+Protamine will cause what kind of reaction - anaphylaxis or anaphylactoid?,Anaphylactoid
+Is pre-treatment with anti-histamine recommended to prevent anaphylaxis/anaphylactoid reactions?,no
+What is the most frequently used plasma product? What does it contain,"FFP - contains all coagulation factors except platelets + plasma proteins, factors V and VIII"
+FFP is generally frozen within _____ hours of collection,6-8 hours
+Thawed plasma is stored at _______ for _______,1-6 degrees for up to 5 days
+FFP puts patient at risk for 3 things:,"TRALI, TACO, and allergic reaction"
+2 units of FFP (10-15ml/kg) achieve ____% factor activity?,30%
+What is the indication for FFP transfusion?,"INR>2 in absence of heparin, or patients who had more than one blood volume, known coagulation deficiency, or warfarin reversal (after factor VII)"
+What is the most commonly transfused blood product and how long does it last?,"PRBCs, 60-90 days"
+1 unit of PRBCs increases H/H by __________ and contains a Hct of _________.,"Hgb increase by 1g
+Hct increase by 3#
+HCT of 70%"
+"How long can PRBCs be stored in CPD, CPD-A, and CPD-AS1? How do Hcts differ in these?","CPD: 21 days
+CPD-A: 35 days, Hct 65%
+CPD-AS1: 43 days, Hct 50-60%"
+What temp are PRBCs stored at and why does this help extend their lifespan?,"1-6 degrees celcius
+Freezes Na-K pump"
+What metabolic and electrolyte abnormalities can be caused by PRBC administration?,"Metabolic acidosis
+Hypocalcemia, Hyperkalemia"
+Which way does PRBC administration shift the OHDC?,left
+What does citrate do in stored blood?,prevents clotting by binding to Calcium
+What does Phosphate do in stored blood?,buffer
+What does dextrose do in stored blood?,an energy source for glycolysis
+What does adenine do in stored blood?,helps RBC re-synthesize ATP
+Newer preservatives extend RBC storage time to _______?,42 days
+What factors increase vs. decrease after PRBC administartion?,"Increase: K, hemolysis, hgb, lactate, CO2
+Decrease: pH, factors V and Vii, calcium, 2-3 DPG, Na, Dextrose"
+What is normal platelet count?,"150,000-400,000"
+What is considered thrombocytopenia?,"<150,000 or 50% decrease"
+1u PLT increases PLT count by,"7,000-10,000"
+50ml PLT provides ____% PLT in unit of fresh blood,70%
+What is the storage time of platelets?,7 days
+Why are platelets such a high risk of infection and syphyilis?,They are stored at room temperature
+What is the #1 cause of transfusion death? What kind of donor is high risk?,TRALI; female donors
+What is contained in cryo?,"concentrated clotting factors - 7, 8, 13, fibrinogen (highest)"
+How should cryo be administered? How are they stored?,">200ml/hr within 6 hours of thaw, through a filter
+frozen at -70 degrees"
+What is the most common infection after cryo administration?,Hep C
+Can Rh+ cryo be given to an Rh- recpient?,No
+GA reduces FRC in the obeses by ______%,50
+How to prevent hypoxia in the obese during induction?,"HOB 30 degrees
+CPAP
+Pre-oxygenate 3-5 minutes"
+Can LMAs be used in the obese?,Controversial with a BMI >35
+"If an obese person has a sat of <95%, what lab should you get and why?",ABG to assess for hypoventilation syndrome
+"During maintenance for obese patients, FiO2 should be kept less that _______%?",80
+How do you maintain lung recruitment after intubation in obese patients?,"ARM after intubation: 8-10 seconds of 40cm pressure
+PEEP 10-12 (<15)"
+What can too high a dose of PEEP cause in obese patients?,shunt
+Tidal volumes of _______ should be used in the obese (total or idea body weight),6-10 IBW
+"Plateau pressure should be kept ________, and CO2 should be kept _______ in obese patients?","Plateau <30, CO2 around 40 to improve tissue oxygenation"
+How to maintain post-op lung expansion in the obese,"CPAP or BiPap (no o2 alone)
+Elevate upper body 25-30 degrees
+Pain control
+IS 
+Early ambulation"
+"FRC, Total lung capacity, and vital capacity in the obese",decreased
+Expiratory reserve volume in the obese,decreased
+Minute ventilation in the obese,increased
+Alveolar ventilation in the obese,increased
+PaO2 and PaCO2 in the obese?,"PaO2 decreased
+PaCO2 no change unless pickwickian syndrome"
+SNS + RAAS activity in the obese?,increased
+Residual volume in the obese?,unchanged
+Lung compliance in the obese?,Decreased by 30-50%?
+What 2 cardiac things DECREASE in obesity?,"EKG voltage
+Ventricular compliance (dilation and hypertrophy)"
+Cardiac outout and blood volume in the elderly?,"Increased
+CO by 0.1L/min/kg"
+Increased blood viscosity in the obese is related to what physiologic condition?,Polycythemia
+Bone density in the obese,decreased
+Leptin and serotonin levels in the obese?,decreased
+Renal clearance in the obese vs elderly,"Obese increased
+Elderly decreaased"
+Gastric pH and residual volume in the obese?,decreased pH and volume
+Total body water in the obese,decreased
+Fat AND lean body mass in the obese,increased
+Vd in the obese,increased
+What is normal BMI,18.5-24.9
+BMI formula,weight (kg) / height (m^2)
+"Children get fat via ________, while adults get fat via _______?","Children: increased number of fat cells
+Adults: hypertrophy of fat cells"
+Obesity in children is classified as >______ percentile,95th
+"Which fat distribution is associated with more comorbidities, central (apple) or peripheral (pear)? what are the associated waist circumferences?","Central
+40 inches men, 35 women"
+BP increases ______ for every 10% increase in body weight?,6.5 mmHg
+Propofol dosing in obesity,"Induction on lean or ideal
+Maintenance on total
+Because fat mass doesnt affect initial distribution"
+How are paralytics dosed in the obese and what is the exception?,"Paralytics are dosed on IBW, except succ which is TBW because there is an increased volume of distribution as well as increased psedocholinesterase activity"
+How are the fentanyl drugs dosed in the obese and what is the exception?,Dosed based on total body weight except remi which is idea due to rapid elimination
+"In obese patients, does Vd increase more for water or lipid soluble drugs?",Lipid soluble
+EXAM 7 REVEIW,EXAM 7 REVIEW
+What is fat embolism syndrome?,Physiologic response to fat in systemic circulation
+What are the two theories of how FES occurs?,"Mechanical: fat clogs capillaries at end organs
+Biochemical: fat causes inflammatory response"
+What surgeries or conditions are at higher risk for FES?,"Long bone surgery
+PFO
+Microemboli"
+What are the symptoms of FES? Triad,"1. hypoxia
+2. confusion
+3. petechiae on. on-dependent areas"
+What labs and vital signs will you see with FES?,"Anemia, bleeding, thrombocytopenia
+Fever, HR>120, RR>30"
+"What is an HBE"" in ortho surgery?""",Bezold-Jarisch reflex mediated through LV cardiac receptors triggering a vagal efferent limb response
+What are the symptoms of an HBE?,"Hypotension by 30 or <90SBP
+Bradycardia by 30HR or <60HR"
+What are the risk factors for an HBE in orthopedic surgery?,"Decreased preload
+Hypercontractility
+Beach-chair position
+Interscalene block"
+What can you use as prophylaxis for HBE events in ortho surgery?,"Beta-blocker, anxiolytics, IVF
+NO EPI"
+Why is a pneumatic tourniquet used in ortho surgery?,"It decreases blood loss, aids in identification of vital structures, and makes them faster"
+"After tourniquet placement, hypoxia occurs within _____, and endothelial capillary leak occurs within _____.","Hypoxia 2 minutes
+Capillary leak 2 hours"
+How long should tourniquets be used and what should you do if you have to exceed this time?,"60 minutes pain occurs
+120 minute limit
+If over, deflate for 10-30 minutes"
+Where on the tourniquet do nerve injuries occur and what nerves are commonly injured?,"At the ends of the tourniqued
+Radial, common peroneal"
+How wide should the tourniquet cuff be compared to the limb?,"Half the diameter, overlapping by 3-6 inches"
+How will tourniqut inflation impact your vital signs?,"Increased MAP, HR, PAP, Temp"
+"Upon deflation of tourniquet, what is released into circulation",Acid metabolites (thromboxane)
+What will happen to vital signs and blood pH upon tourniquet deflation?,"Decrease in MAP, PAP, pH, Temp and ScVO2"
+What things will increase upon tourniquet deflation?,"Lactate, K, CBF, clotting factors"
+Tourniquet pain is carried by what fibers?,Unmyelinated C fibers
+How high is the tourniquet recommended to be inflated?,50-75 above SBP
+What is myonephrotic metabolic syndrome?,Muscle re-perfusion injury that occurs after cuff deflation that can lead to renal failure
+What are the symptoms of myonephrotic metabolic syndrome?,"Hypotension, metabolic acidosis, hyperkalemia, myoglobinuria, myoglobinemia, renal failure"
+What is the prognosis for myonephrotic metabolic syndrome?,"Mortality 30-80% if ESRD develops
+Amputation in 50%"
+How much blood is filtered through the glomeruslus per day? How much blood flow does it receive?,"180L or 125 ml/min
+Recieves 1200ml blood flow (1/5 CO)"
+How much blood in the glomerulus is filtered and where does it go?,20% to bowman's capsule
+What is filtered at the glomerulus,"Water
+Glucose
+Lytes
+AA
+Urea
+Creatinine"
+What happens at the proximal tubule?,active reabsorption of Na via counter-transport of hydrogen?
+What does reabsorption mean in the kidney?,From tubule to capillary
+What is reabsorbed in the proximal tubule?,"60% of water and Na
+50% of urea, Ca, Phos
+100% of glucose, proteins, and amino acids"
+What does secreted mean in the kidney?,Capillary to tubule
+What is secreted in the proximal convoluted tubule?,"Hydrogen (counter to Na)
+rejected urea"
+What types of diuretics work in the proximal convoluted tubule?,CA inhibitors and Osmotic
+What does the loop of Henle do?,"Establishes hyperosmotic state within medullary kidney via vasa recta
+Concentrates urine!"
+What is the only mechanism performed in the loop of henle?,Reabsorption (tubule to capillary)
+What is reabsorbed in the descending loop vs ascending loop?,"Descending: NaCl, K, Mg, Ca
+Ascending: NaCal, Mg, Ca, NO WATER"
+What does the distal convoluted tubule do?,"Keeps anions and cations balancedand aids in acid-base
+Reabsorption of Na via counter-K transport"
+What is reabsorbed at the distal convoluted tubule?,"NaCl+ Aldosterone
+Water (10% if ADH is present)
+Ca"
+What is secreted (to tubule) at distal convoluted tubule?,"K (counter)
+Hydrogen
+Urea"
+What diuretics work on the distal convoluted tubule?,Thiazide
+What hormones work on the distal convoluted tubule?,"PTH, RAAS, Aldosterone, ADH"
+What diuretics work in the loop of henle?,"Descending: osmotic
+Ascending: loop"
+What do the collecting ducts do?,Determination of urine concentration and plays role in acid-base
+What is reabsorbed (tubule to blood) at the collecting ducts,Water + ADH
+What is secreted at the collecting ducts?,H+
+What hormones work at the collecting ducts?,"ADH
+Aldosterone/ANP"
+What diuretics work at the collecting ducts?,K-Sparing
+What is TURP syndrome and when does it occur?,"When the pressure of the irrigation fluid overcomes venous pressure causing IV absorption of fluid
+Occurs 15-24 hours from irrigation"
+What are the symptoms of TURP syndrome?,"Hyponatremia
+Hypoosmolality causes CNS changes"
+What is the treatment for TURP syndrome?,"Terminate the procedure
+Give 20mg Lasix
+Send labs: BMP, Osm, ABG, EKG, Hct
+Na<110: give 3%
+Na 110-120: give NS
+1mg midaz for twitching
+control airwary and give blood as needed"
+"In turp syndrome, uptake of how 1L of irrigation fluid in an hour can decrease Na by ________?",8-May
+How much irrigation fluid is absorbed per minute?,10-30ml
+Absorption of how much fluid results in symptoms and requires treatment?,2L
+Hyponatremia symptoms (cascade),"<120: CNS changes, confusion, coma
+<115: EKG changes - wide QRS, low voltage, T wave inversion
+<110: ventricular arrhythmias"
+Risk factors for TURP syndrome,"Height of irrigation table 
+Abdominal pressure
+Keep resection <80 minutes
+Gland >80g"
+What happens to blood from TURP? What are the symptoms of these changes?,"Hemolysis and fibronolysis can cause DIC
+Anemia, chills, clammy skin, bronchospasm
+Can lead to ARF"
+Why is glycine relevant in TURP syndrome?,It is used in irrigation and it is broken down into ammonia which causes toxicity and encephalopathy
+What are the signs of glycine toxicity?,"Visual disturbances, HA, fixed, dilated pupils, weakness, N/V, discoodination"
+How should hyponatremia be corrected and why?,"No more than 1-2 mEq/hour, then 10-15mmol per 24 hours once stable"
+What happens if you correct hyponatremia too quickly? What are the symptoms of this?,"Osmotic demyelination.- seizures, paralysis, dysarthria, coma"
+Is RA or GA preferred for surgeries where TURP is a possibility and why?,RA- better able to recognize bladder perforation
+What are the signs of bladder perforation,"Shoulder pain, abd distension, tachycardia, diaphroesis, vomiting, HTN"
+How do you treat bladder perforation,"Stop surgery
+Achieve hemostasis
+Give IVF and pressors
+Transfuse PRN
+May need a cystourethrogram, a suprapubic cystoscopy, or an ex lap"
+All renal function tests are _______ related to GFR?,inversely
+What is normal BUN and what does it tell us? GFR?,"Normal is 10-20mg/dL
+Tells us about protein metabolism, but it is impacted by diet
+Only decreases when GFR is decreased by 50%"
+What is normal creatinine and what does it tell us? GFR?,"0.7-1.5
+Measures muscle metabolism, so will be lower in elderly and women
+It will double if GFR drops by 50%"
+What is normal creatinine clearance and what does it tell us?,"95-150 - it is the gold standard for GFR
+Tells us the ability of the glomerulie to excrete creatinine"
+Mild vs. moderate vs. severe decreased in Crt clearance?,"Mild: 50-80
+Mod: <15
+Dialysis: <10"
+"What should patients do prior to gynecologic surgery, in pre-op?",Void
+What level block is required for GYN?,"T10, T5 for hysterectomy"
+What is a consideration for procedures involving traction on the uterus?,It will cause a vagal response
+What is a potential complication of hysteroscopy associated with irrigation? When should the procedure be stopped?,"Similar to TURP: hypo-osmotic issues
+Stop if >500ml absorbed"
+What meds can be used to treat uterine atony - include their side effects,"20u/L pitocin (hypotension)
+0.2mg Mthergine (HTN - avoid in pre-eclampsia)
+250mcg IM Hemabate (bronchoconstriction - avoid in asthmatic)"
+What is a common post-op problem after GYN surgery?,PONV
+When do effects of the pneumoperitoneum plateau?,After 15-40 minutes
+Cardiovascular effects of pneumoperitoneum are increased in what two populations?,Elderly and CVD
+How is stroke volume impacted by pneumoperitoneum?,Decreased
+How are HR/MAP and SVR impacted by pneumoperitoneum?,Increased
+What body system is MOST impacted by pneumoperitoneum? Who has exaggerated effects?,"Respiratory: COPD, pre-existing disease"
+How is FRC and VC impacted by pneumoperitoneum ?,Decreased
+How is ETCO2 impacted by pneumoperitoneum ? what response does this cause in the body?,Increased - SNS activation
+How are lactate levels impacted by pneumoperitoneum ?,no change
+How can you prevent the effects of pneumoperitoneum on the cardiac system?,"Pre-hydrate
+Head up
+Insufflate 12-15mmHg"
+Max absorption of CO2 happens at what pressure of the pneumoperitoneum ?,10mmhg
+"How is UOP, GFR and renal perfusion impacted by the pneumoperitoneum?",Decreased (UOP transient)
+How is creatinine clearance impacted by pneumoperitoneum,increased (transient)
+"How are ADH, Renin, Aldosterone impacted by the pneumoperitoneum?",Increased
+Oxidative stress on the kidneys occurs with pneumoperitoneum at ________mmHg?,15
+"What metabolic change should be prevented with
+ pneumoperitoneum to protect the kidneys?",acidosis - it causes renal vasoconstriction
+When are GI effects of pneumoperitoneum seen? High or low pressure? what are the effects?,"High - increased free radicals, bacterial transloacation, and AST/ALT (50% in lap chole)"
+When are immunologic changes of pneumoperitoneum seen and what are they?,"High pressure - decreased post-op immune response, increased cancer growth"
+HOW HAPPY ARE YOU THAT LINDAS CLASS IS OVER,THE LIMIT DOES NOT EXIST
