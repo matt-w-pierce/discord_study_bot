@@ -5,7 +5,8 @@ from .. import scheduler, db
 from ..models import Question
 
 
-@scheduler.task(trigger='interval', id='do_post_question', seconds=30)
+@scheduler.task(trigger='cron', id='do_post_question_hourly', hour='8-20/2')
+@scheduler.task(trigger='cron', id='do_post_question_min', minute='0-59/1')
 def post_question():
     with scheduler.app.app_context():
 
