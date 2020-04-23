@@ -18,12 +18,14 @@ def post_question():
         q = choice(questions)
 
         # Posting the question to Discord
-        hook_url = 'https://discordapp.com/api/webhooks/702270009887555657/mytFno51Sq4fx0wvKyr22S8EwpSOFmLxyEUasKLoOnGoKurhWduq7uqRDpHBlNtMtL1C'
+        test_url = 'https://discordapp.com/api/webhooks/702270009887555657/mytFno51Sq4fx0wvKyr22S8EwpSOFmLxyEUasKLoOnGoKurhWduq7uqRDpHBlNtMtL1C'
+        prod_url = 'https://discordapp.com/api/webhooks/702887067625062451/ERkWP2WnZ9VHrXvi0jwyDQIMur_5teoU4kVESBh863wGffsDeQMc0Sqf2sw8mixFsrmm'
+
         msg_txt = f'_ _\n**Subject: **{q["set_name"]}\n**Question:**\n{q["prompt"]}\n\n**Answer:**\n||{q["answer"]}||\n_ _'
         data = {
             'content': msg_txt
         }
-        result = requests.post(hook_url, data=json.dumps(data), headers={"Content-Type": "application/json"})
+        result = requests.post(test_url, data=json.dumps(data), headers={"Content-Type": "application/json"})
 
         try:
             result.raise_for_status()
