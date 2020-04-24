@@ -9,9 +9,8 @@ ap_url = 'https://discordapp.com/api/webhooks/702887067625062451/ERkWP2WnZ9VHrXv
 pharm_url = 'https://discordapp.com/api/webhooks/703048422231375903/Q3dq_CWinB7KGGbCI9fNRtw6S2VNDqf404gebUQVv4Idw_M60kRTq-1hzhGMQs5n3OYN'
 
 
-# @scheduler.task(trigger='cron', id='post_ap_hour', hour='8-20/2')
-@scheduler.task(trigger='cron', id='post_ap_halfhour', minute='*/1', args=['Anesthesia Principles I', ap_url])
-@scheduler.task(trigger='cron', id='post_pharm_halfhour', minute='*/1', args=['Nagelhout Pharmacology II', pharm_url])
+@scheduler.task(trigger='cron', id='post_ap_hour', hour='8-20/2', args=['Anesthesia Principles I', ap_url])
+@scheduler.task(trigger='cron', id='post_pharm_halfhour', minute='*/30', args=['Nagelhout Pharmacology II', pharm_url])
 def post_question(set_name, hook_url):
     with scheduler.app.app_context():
 
