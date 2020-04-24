@@ -34,6 +34,7 @@ def post_question(set_name, hook_url):
             print(err)
         else:
             print("Payload delivered successfully, code {}.".format(result.status_code))
+            print(f"Question posted for {set_name} at {str(datetime.now())}")
 
             # Updating the last_asked value for this question and writing to database
             q_row = Question.query.get(q['id'])
