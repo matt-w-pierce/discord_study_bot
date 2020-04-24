@@ -1,56 +1,57 @@
-"What are 'major' cardiac risk factors for surgery?","Unstable coronary syndrome
+prompt,answer
+What are 'major' cardiac risk factors for surgery?,"Unstable coronary syndrome
 Class IV HF (decompensated)
 Significant arrhythmia
 Severe valvular disease"
-"What are 'intermediate' cardiac risk factors for surgery?","Mild angina
+What are 'intermediate' cardiac risk factors for surgery?,"Mild angina
 Previous MI
 Compensated HF
 IDDM
 CRT>2"
-"What are 'minor' cardiac risk factors for surgery?","Advanced age
+What are 'minor' cardiac risk factors for surgery?,"Advanced age
 Abnormal EKG
 Rhythm other than NS (AFib)
 <4 METS
 Hx of stroke
 *Uncontrolled HTN*"
-"What non-cardiac surgeries are considered high risk?","Major vascular, emergent major operations, prolonged procedures with large fluid shifts or high EBL"
-"What non-cardiac surgeries are considered intermediate risk?","Carotid endarterecomy
+What non-cardiac surgeries are considered high risk?,"Major vascular, emergent major operations, prolonged procedures with large fluid shifts or high EBL"
+What non-cardiac surgeries are considered intermediate risk?,"Carotid endarterecomy
 Endovascular aortic aneurysm
 head and neck surgery 
 Intraperitoneal & Intrathoracic
 Orthopedic surgery 
 Prostate surgery"
-"What non-cardiac surgeries are considered low-risk?","Superficial procedures
+What non-cardiac surgeries are considered low-risk?,"Superficial procedures
 Cataract surgery 
 breast surgery 
 ambulatory surgery"
-"How do class I anti-arrhythmics work? What are some examples?","Block sodium channels, depressing depolarization in the heart 
+How do class I anti-arrhythmics work? What are some examples?,"Block sodium channels, depressing depolarization in the heart 
 1A: Procainamide, Quinidine
 1B: Lidocaine, phenytoin, tocainide
 1C: Flecainide, Propafenone"
-"How do class II anti-arrhythmics work? What are some examples?","Beta blockers!
+How do class II anti-arrhythmics work? What are some examples?,"Beta blockers!
 Esmolol, Propronolol, Metoprolol, Carvedilol,"
-"How do class III anti-arrhythmics work? What are some examples?","Block K+ channels, delaying repolarization and prolonging action potential
+How do class III anti-arrhythmics work? What are some examples?,"Block K+ channels, delaying repolarization and prolonging action potential
 Amiodarone, Sotalol"
-"How does class IV anti-arrhythmics work? What are some examples?","CCBs, dominant in AV node
+How does class IV anti-arrhythmics work? What are some examples?,"CCBs, dominant in AV node
 Verapamil, diltiazem"
-"How does class V anti-arrhythmics work? What are some examples?","Miscellaneous/other
+How does class V anti-arrhythmics work? What are some examples?,"Miscellaneous/other
 Adenosine, ATP, Digoxin, Atropine"
-"What is the path of electricity through the heart?","SA - AV - Purkinje Fibers"
-"What class of anti-arrhythmics should be used for atrial vs. ventricular arrhtyhmias?","Class IV (CCB): atrial 
+What is the path of electricity through the heart?,SA - AV - Purkinje Fibers
+What class of anti-arrhythmics should be used for atrial vs. ventricular arrhtyhmias?,"Class IV (CCB): atrial 
 Class I or III (Na channel): ventricular"
-"What is the most common arrhythmia? This increases a patient's risk of what?","Afib
+What is the most common arrhythmia? This increases a patient's risk of what?,"Afib
 Clotting/stroke"
-"The first goal of treatment for Afib is _______? What classes of drugs should be considered to accomplish this goal?","Rate control!
+The first goal of treatment for Afib is _______? What classes of drugs should be considered to accomplish this goal?,"Rate control!
 Calcium channel blockers first, then beta blockers"
-"_____ are preferred for rate control in patients with COPD or asthma; where as ______ are preferred in patients with CAD or systolic dysfunction","CCB
+_____ are preferred for rate control in patients with COPD or asthma; where as ______ are preferred in patients with CAD or systolic dysfunction,"CCB
 B-Blockers"
-"What is the most effective way to URGENTLY convert someone from Afib to NSR?","Cardioversion"
-"Adenosine works on what kind of receptors? To do what?","Puranergic 
+What is the most effective way to URGENTLY convert someone from Afib to NSR?,Cardioversion
+Adenosine works on what kind of receptors? To do what?,"Puranergic 
 Interrupts conduction of the SA/AV node causing arrest"
-"Purinergic receptors are found where and are sensitive to what?","GI, vascular endotherlium
+Purinergic receptors are found where and are sensitive to what?,"GI, vascular endotherlium
 Adenosine (1) or ATP (2)"
-"What does stimulation of purinergic receptors produce?","Slowing of SA and AV node conduction
+What does stimulation of purinergic receptors produce?,"Slowing of SA and AV node conduction
 Bronchoconstriction
 Dilation of cerebral/coronary vessels
 Modulation of NT release"
@@ -69,86 +70,86 @@ Metoprolol 2.5-5mg (15 max)"
 Class I (2nd)
 Amiodarone 150mg over 10 minutes
 Lidocaine 1mg/kg over 2 minutes"
-"Drug of choice for SVT?","Adenosine 6, 12, 12 mg doses (rapid!)"
-"Drug of choice for Torsades?","Magnesium sulfate 1-2g over 5-60min"
-"Adenosine: Dose and side effects","6-12-12mg
+Drug of choice for SVT?,"Adenosine 6, 12, 12 mg doses (rapid!)"
+Drug of choice for Torsades?,Magnesium sulfate 1-2g over 5-60min
+Adenosine: Dose and side effects,"6-12-12mg
 Heart block, flushing, chest pain"
-"Atropine: Dose and side effects","0.4-1mg
+Atropine: Dose and side effects,"0.4-1mg
 Tachycardia, MI"
-"Diltiazem: Dose and side effects","10-20mg Bolus, 5-15mg/hr
+Diltiazem: Dose and side effects,"10-20mg Bolus, 5-15mg/hr
 Hypotension, CHF"
-"Esmolol: Dose and side effects","0.5mg/kg bolus
+Esmolol: Dose and side effects,"0.5mg/kg bolus
 0.05mg/kg/hr
 Bronchospasm, hypotension, exacerbation of CHF"
-"Metoprolol: Dose and side effects","5mgIV q5x 3
+Metoprolol: Dose and side effects,"5mgIV q5x 3
 Bronchospasm, hypotension, exacerbation of CHF"
-"Ibutilide: Dose and side effects","1mg over 10min (x2)
+Ibutilide: Dose and side effects,"1mg over 10min (x2)
 QT prolongation, Torsades"
-"Amiodarone: dose and side effects","150mg over 10 min
+Amiodarone: dose and side effects,"150mg over 10 min
 1mg/min x 6 hours, 0.5mg/min after
 Mild hypotension (bolus), heart block, bradycardia, nausea"
-"'Normal' BP","<120/<80"
-"'Elevated' BP","120-129/ <80"
-"Stage I HTN","130-139/ 80-89
+'Normal' BP,<120/<80
+'Elevated' BP,120-129/ <80
+Stage I HTN,"130-139/ 80-89
 Medicate if patient has had cardiac events or is at high risk
 Consider thiazide diuretic, aceI, arb, BB, CCB"
-"Stage 2 HTN",">140 (over 60 or with CKD/DM)
+Stage 2 HTN,">140 (over 60 or with CKD/DM)
 >150(under 60)/>90
 Use 2 drug combination therapy - diuretic + additional"
-"Hypertensive urgency",">180/>120
+Hypertensive urgency,">180/>120
 NO associated organ damage, reduce BP over hours to days"
-"Hypertensive emergency",">180/>120 with end organ damage
+Hypertensive emergency,">180/>120 with end organ damage
 reduce BP in minutes to hours"
 "What is the recommended BMI?
 How much does weight loss reduce your BP?","18.5-24.9
 5-20mm Hg per 10kg loss"
-"What is the DASH diet? How much does it reduce your BP?","Rich in fruits and vegetables, low-fat dairy, with reduced saturated and total fat
+What is the DASH diet? How much does it reduce your BP?,"Rich in fruits and vegetables, low-fat dairy, with reduced saturated and total fat
 8-14mmHg"
-"What is the recommended sodium restriction for HTN?","<100mmol/ day
+What is the recommended sodium restriction for HTN?,"<100mmol/ day
 2.4g Na or 6g NaCl
 2-8mmHg per week"
-"What are the recommendations for physical activity and how much can they drop your BP?","30min 5 days/week
+What are the recommendations for physical activity and how much can they drop your BP?,"30min 5 days/week
 4-9mmhg"
-"What are the recommendations for alcohol and how much can they drop your BP?","<2 drinks per day (men)
+What are the recommendations for alcohol and how much can they drop your BP?,"<2 drinks per day (men)
 <1 drink per day (women)
 2-4mmhg"
-"What types of antihypertensives are contraindicated in pregnancy?","ACE-inhibitors and ARBS"
-"How does the RAAS work?","Renin (kidneys) converts angiotensinogen to angiotensin 1
+What types of antihypertensives are contraindicated in pregnancy?,ACE-inhibitors and ARBS
+How does the RAAS work?,"Renin (kidneys) converts angiotensinogen to angiotensin 1
 ACE (lungs) converts angtiotensin 1 to angiotensin 2
 Adrenal cortex releases aldosterone, stimulating Na reabsorption"
-"What is Aliskiren?","Direct renin antagonist"
-"What are ACE inhibitors and what is a common side effect? Why?","Inhibit conversion of A1 to A2
+What is Aliskiren?,Direct renin antagonist
+What are ACE inhibitors and what is a common side effect? Why?,"Inhibit conversion of A1 to A2
 Coughing is common because ACE also breaks down bradykinin - accumulation of bradykinin= cough"
-"How do ARBS work?","Classic antgiotensin and aldosterone antagonist"
-"Which type of antihypertensive should be help prior to surgery and why?","ACE inhibitors can causes refractory hypotension that must be treated with vasopressin"
-"How do diuretics treat HTN?","Mechanism unknown, thought to be via K channel vasodilation."
-"'-pril' is what class of drug","ACE inhibitors"
-"'-sartan' is what class of drug","ARBs"
-"By what three mechanisms do beta blockers treat hypertension?","Block B1 in heart 
+How do ARBS work?,Classic antgiotensin and aldosterone antagonist
+Which type of antihypertensive should be help prior to surgery and why?,ACE inhibitors can causes refractory hypotension that must be treated with vasopressin
+How do diuretics treat HTN?,"Mechanism unknown, thought to be via K channel vasodilation."
+'-pril' is what class of drug,ACE inhibitors
+'-sartan' is what class of drug,ARBs
+By what three mechanisms do beta blockers treat hypertension?,"Block B1 in heart 
 Block renin in kidneys
 CNS depression"
-"Labetalol vs. Esmolol","L: Tachycardia
+Labetalol vs. Esmolol,"L: Tachycardia
 E: HTN
 L: Beta blocker, alpha blocker
 E: Beta blocker only
 L: longer acting, easily titratable
 E: Shorter acting, rapid metabolism in plasma by nonspecific esterase"
-"What kind of receptors does angiotension II act on?","Angiotensin I"
-"Hydralazine works primarily by _____?","Arterial vasodilation"
-"Nitroglycerine works primarily by ______?","Venous dilation"
-"How does Nipride work? What is a possible side effect?","Arterial and venous dilation via nitric oxide release 
+What kind of receptors does angiotension II act on?,Angiotensin I
+Hydralazine works primarily by _____?,Arterial vasodilation
+Nitroglycerine works primarily by ______?,Venous dilation
+How does Nipride work? What is a possible side effect?,"Arterial and venous dilation via nitric oxide release 
 Cyanide toxicity"
-"How is Nipride metabolized in the body?","In the plasma, by Hgb"
-"How does the cyanide from nipride get metabolized?","Some attaches to Hgb
+How is Nipride metabolized in the body?,"In the plasma, by Hgb"
+How does the cyanide from nipride get metabolized?,"Some attaches to Hgb
 Some enters blood, attaches to thiosulfate (B12) via the *rhodase enzyme* to form *thiocyanate* which is excreted in the kidneys"
-"What happens where there are excessive cyanide ions present? What do patients look like when this happens","Acidotic hypoxia with high venous oxygen!
+What happens where there are excessive cyanide ions present? What do patients look like when this happens,"Acidotic hypoxia with high venous oxygen!
 We run out of b12, so cyanide binds to cytochrome oxidase, which inhibits the USE of oxygen in cells. 
 Patients turn PINK because O2 is taken to tissues, not utilized, and then dumped into venous blood"
-"Dosing for Nipride","0.3-0.5mcg/kg/min
+Dosing for Nipride,"0.3-0.5mcg/kg/min
 Max 10 for 10 minutes"
 "Signs of cyanide toxicity (CNS, Cardiac, labs)","CNS: Mental status change, seizure, coma
 Cardiac: tachyphylaxis, HTN, ST Segment changes"
-"Treatment of cyanide poisoning","Stop infusion
+Treatment of cyanide poisoning,"Stop infusion
 100% FiO2
 Mechanical ventilation PRN
 Bicarb for acidosis
@@ -158,56 +159,56 @@ Vitamin B12 25mg/hr
 Monitor thiocyanate levels"
 "3 effects of beta blockers (B1, and 2 for B2)","Blocking B1: vasoconstriction, bradycardia, reduced renin release
 Blocking B2: Bronchoconstriction and hypoglycemia"
-"3 types of patients who should NOT receive beta blockers","Asthmatics
+3 types of patients who should NOT receive beta blockers,"Asthmatics
 Diabetics 
 Claudication"
-"Rule of thumb for beta blockers pre-op","Continue them, but do not start day of surgery"
-"What are ISA beta blockers and for which patients may these be considered?","They are beta partial-agonists - have weaker side effects
+Rule of thumb for beta blockers pre-op,"Continue them, but do not start day of surgery"
+What are ISA beta blockers and for which patients may these be considered?,"They are beta partial-agonists - have weaker side effects
 asthmatics"
 "Labetalol and Carveilol are beta blockers with _______, which promotes","alpha blockade, vasodilation"
 "Which beta blocker is 'cardioselective' (not really though), and therefore what kind of patients require caution when administering this drug","Esmolol, asthmatics"
-"Which HTN drug causes primarily arterial vasodilation? Venous?","Arterial: hydralazine
+Which HTN drug causes primarily arterial vasodilation? Venous?,"Arterial: hydralazine
 Venous: NTG"
-"Which HTN drug causes arterial AND venous vasodilation via nitric oxide?","Nipride"
-"Nicardipine, a CCB, is contraindicated in patients with _____?","Liver failure"
-"How does clonidine work and what are some side effects?","Alpha 2 pre-synaptic agonist
+Which HTN drug causes arterial AND venous vasodilation via nitric oxide?,Nipride
+"Nicardipine, a CCB, is contraindicated in patients with _____?",Liver failure
+How does clonidine work and what are some side effects?,"Alpha 2 pre-synaptic agonist
 CNS side effects and WITHDRAWAL"
-"Labetalol Dose","5-10mg"
+Labetalol Dose,5-10mg
 "Treat tachycardic HTN with ______, and bradycardic hypotension with ________","Brady: hydral
 Tachy: labetolol"
-"What kind of drug is phentolamine and what are the potential side effects?","Pure alpha antagonist, so a vasodilator
+What kind of drug is phentolamine and what are the potential side effects?,"Pure alpha antagonist, so a vasodilator
 Tachyarrhythmias, angina, postural hypotension, insulin hypersensitivity"
-"What causes angina? How is it treated (generally)","An imbalance between oxygen supply to the heart and demand. 
+What causes angina? How is it treated (generally),"An imbalance between oxygen supply to the heart and demand. 
 Demand is easier to treat but can also treat supply!"
-"What type of patients can present with atypical angina symptoms?","Women and the elderly"
-"What is the difference between stable and unstable angina?","Stable = <15 minutes and symptoms reside
+What type of patients can present with atypical angina symptoms?,Women and the elderly
+What is the difference between stable and unstable angina?,"Stable = <15 minutes and symptoms reside
 Unstable= >15 minutes and does NOT decrease with rest or NTG"
-"Under anesthesia, angina symptoms are hidden. What is the strongest indicator of perioperative iscehmia and causes the most cardiac demand?","Tachycardia"
-"What is the #1 treatment of someone with angina or any degree of CAD? How does this agent work to stop angina?","Beta blocker 
+"Under anesthesia, angina symptoms are hidden. What is the strongest indicator of perioperative iscehmia and causes the most cardiac demand?",Tachycardia
+What is the #1 treatment of someone with angina or any degree of CAD? How does this agent work to stop angina?,"Beta blocker 
 It is a vasoconstrictor, but it decrease the demand of the heart well enough (via HR and contractility) that the vasoconstriction doesn't increase ischemic risk"
-"What is the first line of therapy for acute angina? How do they work","Nitrates (NTG)
+What is the first line of therapy for acute angina? How do they work,"Nitrates (NTG)
 Decreases preload by causing blood to pool in the legs"
-"What class is used for chronic prophylaxis of angina?","Beta blockers"
+What class is used for chronic prophylaxis of angina?,Beta blockers
 "What is the treatment for variant angina, and how does it work?","CCBs - variant angina is spasmodic - so the vasoconstricting properties of beta blockers aren't effective 
 CCBs work by reducing preload and afterload"
-"How do are antiplatelets used for angina?","They inhibit platelet aggregation and endothelial cyclooxgenase, reducing risk of coronary thrombosis"
-"How do statins work for angina?","They are used to lower cholesterol by reducing CRP, thrombogenicity, and reduction of adverse cardiac events"
-"Diabetics with angina may be put on what type of medication? How does it work?","ACE inhibitors
+How do are antiplatelets used for angina?,"They inhibit platelet aggregation and endothelial cyclooxgenase, reducing risk of coronary thrombosis"
+How do statins work for angina?,"They are used to lower cholesterol by reducing CRP, thrombogenicity, and reduction of adverse cardiac events"
+Diabetics with angina may be put on what type of medication? How does it work?,"ACE inhibitors
 Prevent conversion of angiotensin I to angiotensin II, therefore blocking vasoconstriction"
-"What is Ranolazine used for and how does it work?","refractory angina
+What is Ranolazine used for and how does it work?,"refractory angina
 Blocks late inward Na current, reducing intracellular calcium overload"
-"Class 1 Angina","Does NOT occur with ordinary physical activity, but may occur with strenuous, rapid, or prolonged exertion"
-"Class II Angina","slight limitation of ordinary activity
+Class 1 Angina,"Does NOT occur with ordinary physical activity, but may occur with strenuous, rapid, or prolonged exertion"
+Class II Angina,"slight limitation of ordinary activity
 May occur after walking or climbing stairs, after meals, in the cold, under stress, etc"
-"Class III Angina","marked limitations of ordinary physical activity
+Class III Angina,"marked limitations of ordinary physical activity
 May occur after walking one or two blocks at a normal pace"
-"Class IV Angina","Inability to carry on any physical activity without discomfort, may be present at rest"
-"How does the ischemic cascade of angina occur?","Effort leads to ischemia
+Class IV Angina,"Inability to carry on any physical activity without discomfort, may be present at rest"
+How does the ischemic cascade of angina occur?,"Effort leads to ischemia
 Ischemia leads to diastolic dysfunction
 Diastolic leads to systolic dysfunction
 Systolic dysfunction causes ECG signs (late)
 ECG changes lead to dyspnea"
-"How does the recovery cascade from angina occur?","Symptoms occur so effort is stopped
+How does the recovery cascade from angina occur?,"Symptoms occur so effort is stopped
 Pain relief occurs
 ECG returns to normal
 Systolic function returns
@@ -215,396 +216,396 @@ Stunning occurs
 Full recovery"
 "So, under anesthesia, our tell tale sign of angina is what? How quickly should you intervene to achieve full recovery","EKG signs (which are late)
 15 minutes"
-"At 40 minutes, you're lost ______ of your cardiac tissue","50%"
-"Why does cardiac stunning occur?","As a protective mechanism of the heart via desensitization"
-"Which beta blocker has nitric oxide activity?","Nibinolol?"
+"At 40 minutes, you're lost ______ of your cardiac tissue",50%
+Why does cardiac stunning occur?,As a protective mechanism of the heart via desensitization
+Which beta blocker has nitric oxide activity?,Nibinolol?
 "What is the pathophysiology of stable/exertional asthma, and what would this look like on ECG?","Its a fixed lesion that causes pain with activity and sometimes at night
 NSTEMI (ST depression) on EKG"
-"What is the pathophysiology of unstable angina?","It is and occlusion combined with spasm causing fixed exertional and rest pain"
-"What is the pathophysiology of variant angina? What does it look like on EKG?","Spasm causing angina with or without exertion, sometimes in the morning
+What is the pathophysiology of unstable angina?,It is and occlusion combined with spasm causing fixed exertional and rest pain
+What is the pathophysiology of variant angina? What does it look like on EKG?,"Spasm causing angina with or without exertion, sometimes in the morning
 STEMI (ST elevation)"
 "Nitrates work by dilating _______, therefore reducing __________ more than _________?","veins in the legs, preload more than afterload"
-"How do CCBs work for angina?","They decrease the demand of the heard via cardiac depression, as well is decreasing supply via vasodilation"
-"Patients with RCRI risk > ___ should be put on beta blockers prior to surgery?","3"
-"How do HMG-CoA Reductase Inhibitors work? What are some possible side effects?","reduce endovascular inflammation and plaque build up 
+How do CCBs work for angina?,"They decrease the demand of the heard via cardiac depression, as well is decreasing supply via vasodilation"
+Patients with RCRI risk > ___ should be put on beta blockers prior to surgery?,3
+How do HMG-CoA Reductase Inhibitors work? What are some possible side effects?,"reduce endovascular inflammation and plaque build up 
 May cause increased liver enzymes and CK with myalgia and weakness"
-"What dietary medications/supplements influence coagulation?","Vitamin K and E, Coenzyme Q10, Zinc, Omega-3 FA"
-"How long should elective surgery be postponed for bare metal versus drug-eluting stent placement?","Bare-metal: 4-6 weeks
+What dietary medications/supplements influence coagulation?,"Vitamin K and E, Coenzyme Q10, Zinc, Omega-3 FA"
+How long should elective surgery be postponed for bare metal versus drug-eluting stent placement?,"Bare-metal: 4-6 weeks
 Drug-eluting: 12 months"
-"If thienopyridine therapy (Plavix) must be continued before surgery, then what should be continued?","Aspirin"
-"What are the indications for holding aspirin before surgery?","Eye surgery (closed-system)
+"If thienopyridine therapy (Plavix) must be continued before surgery, then what should be continued?",Aspirin
+What are the indications for holding aspirin before surgery?,"Eye surgery (closed-system)
 Intracranial operation
 Postrate surgery (excessive EBL)"
-"Class I CHF","No functional limitation"
-"Class II CHF","Slight limitation of physical activity, ordinary activity causes fatigue, palpitations, dyspnea"
-"Class III CHF","Marked limitation of physical activity
+Class I CHF,No functional limitation
+Class II CHF,"Slight limitation of physical activity, ordinary activity causes fatigue, palpitations, dyspnea"
+Class III CHF,"Marked limitation of physical activity
 Comfortable at rest, but less than ordinary activity causes symptoms"
-"Class IV CHF","Unable to carry out any physical activity without discomfort
+Class IV CHF,"Unable to carry out any physical activity without discomfort
 Symptoms present at rest"
 "What conditions are considered stage A, or high risk for developing CHF?","HTN, CAD, DM, Family Hx"
 "What conditions are considered stage B, or pre-CHF?","Previous MI, LV systolic dysfunction, asymptomatic valve disease"
-"What are the recommended medications for CHF?","Ace inhibitors (if EF <40%)
+What are the recommended medications for CHF?,"Ace inhibitors (if EF <40%)
 Beta blockers 
 ARB if patient can't tolerate ACE
 Diuretic if fluid overloaded 
 Hydralazine and isosorbide reduce mortality
 Digoxin reduces symptoms but not mortality"
-"Do drugs help CHF patients with preserved EF?","No"
-"5 ways to stimulate the heart per nagelhout (with drug examples)","1. Beta 1 agonist (Dopamine/Dobutamine)
+Do drugs help CHF patients with preserved EF?,No
+5 ways to stimulate the heart per nagelhout (with drug examples),"1. Beta 1 agonist (Dopamine/Dobutamine)
 2. Na/K/ATPase Inhibition (Digitalis)
 3. Increase Calcium (calcium chloride)
 4. PDE-III inhibition (Milrinone)
 5. Glucagon (hormonal)"
-"What are the two biggest anesthetic goals of patients in heart failure?","Minimize myocardial depression and peripheral vasodilation"
-"What is restrictive cardiomyopathy? What are the anesthetic implications?","Stiff ventricles that impair filling (RIGHT)
+What are the two biggest anesthetic goals of patients in heart failure?,Minimize myocardial depression and peripheral vasodilation
+What is restrictive cardiomyopathy? What are the anesthetic implications?,"Stiff ventricles that impair filling (RIGHT)
 Spontaneous ventilation, and adequate pre-load
 *Most difficult to treat*"
-"What is dilated cardiomyopathy? What are some anesthetic implications?","Large heart with poor contractility, SV is maintained. by dilation and increased LVEDV (valve issues)
+What is dilated cardiomyopathy? What are some anesthetic implications?,"Large heart with poor contractility, SV is maintained. by dilation and increased LVEDV (valve issues)
 These patients often have arrhythmias and require inotropic support"
-"What is hypertrophic cardiomyopathy? what are some anesthetic implications?","Outflow tract obstruction due to septal hypertrophy, impaired diastolic function so filling relies on atrial systole 
+What is hypertrophic cardiomyopathy? what are some anesthetic implications?,"Outflow tract obstruction due to septal hypertrophy, impaired diastolic function so filling relies on atrial systole 
 Keep patients in NSR and prevent tachycardia!
 Inotropes could worsen, best bet are vasodilators that do not cause tachycardia"
-"What two conditions are the current indications for digitalis?","CHF or Afib"
-"The half life of digoxin is _____","36 hours"
+What two conditions are the current indications for digitalis?,CHF or Afib
+The half life of digoxin is _____,36 hours
 "Normal digoxin level
 >_____ is always toxic","2
 >3 toxic"
-"How does digoxin work?","Inhibits Na/K-ATPase
+How does digoxin work?,"Inhibits Na/K-ATPase
 Na increases inside the cell due to blocked pump
 Decrease in exchange of Na/CA
 Increased Ca, increases contraction"
-"What is the most common symptom of dig toxicity","Arrhythmias"
-"What electrolyte imbalance potentiates dig toxicity","Hypokalemia"
-"Should digoxin be held before surgery","No, unless there is a particular contraindication to continuing it"
-"What are the hallmark visual symptoms of dig toxicity?","Colored vision (purple)
+What is the most common symptom of dig toxicity,Arrhythmias
+What electrolyte imbalance potentiates dig toxicity,Hypokalemia
+Should digoxin be held before surgery,"No, unless there is a particular contraindication to continuing it"
+What are the hallmark visual symptoms of dig toxicity?,"Colored vision (purple)
 Halo vision"
-"What medication can be given for dig toxicity and how does it work?","Digibond; it is a dig antibody"
+What medication can be given for dig toxicity and how does it work?,Digibond; it is a dig antibody
 "For how long is clopidogrel mandatory after placement of bare-metal stent, MI, and DES?","Bare-metal: 6 weeks
 MI: 3-6 months
 DES: 12 months"
-"Which LA is most cardiotoxic?","Bupivacaine"
-"How does adding bicarb affect neuraxial anesthesia?","Speeds the onset but with increased risk of hypotension"
-"How does adding an opioid affect neuraxial anethesia?","Increased block density, lower dose of LA required"
-"Which type of drugs have more spinal bioavailability - hydrophilic or hydrophobic?","Hydrophobic"
-"Most common side effects of neuraxial opioids","Pruritis, nausea and vomiting"
-"Effect of pregnancy on LA","Greater spread and depth due to progesterone levels"
-"How does mixture of local anesthetics work?","Used to combat short DOA of lidocaine and chloroprocaine
+Which LA is most cardiotoxic?,Bupivacaine
+How does adding bicarb affect neuraxial anesthesia?,Speeds the onset but with increased risk of hypotension
+How does adding an opioid affect neuraxial anethesia?,"Increased block density, lower dose of LA required"
+Which type of drugs have more spinal bioavailability - hydrophilic or hydrophobic?,Hydrophobic
+Most common side effects of neuraxial opioids,"Pruritis, nausea and vomiting"
+Effect of pregnancy on LA,Greater spread and depth due to progesterone levels
+How does mixture of local anesthetics work?,"Used to combat short DOA of lidocaine and chloroprocaine
 Give fast acting LA first, followed by one with long duration.
 Give 1/2 normal doses
 Re-dose q90 minutes"
-"Tumescent anesthesia","Subcutaneous injection of large volumes of dilute local anesthetic in combination with epinephrine or other agents (often used in liposuction)"
-"Lidocaine dose for tumescent anesthesia","35-55mg/kg"
-"Max dose of Lidocaine with Epi for tumescent anesthesia","28mg/kg"
-"Tumescent mixture contents","500mg Lidocaine
+Tumescent anesthesia,Subcutaneous injection of large volumes of dilute local anesthetic in combination with epinephrine or other agents (often used in liposuction)
+Lidocaine dose for tumescent anesthesia,35-55mg/kg
+Max dose of Lidocaine with Epi for tumescent anesthesia,28mg/kg
+Tumescent mixture contents,"500mg Lidocaine
 1mg Epinephrine
 12 mEq sodium bicarb
 1L NS"
-"How long before stimulus should you put on EMLA cream? What are the two most commonly used substances in emla?","45-60 minutes
+How long before stimulus should you put on EMLA cream? What are the two most commonly used substances in emla?,"45-60 minutes
 Lidocaine or Procaine (2.5%)"
-"How does hyaluronidase work?","Breaks down hyaluronic acid, increasing spread of LA (therefore decreasing duration)"
-"Maximum dose of cocaine","200mg"
-"Synthesis of ACh","Acetyl CoA + Chloline -->
+How does hyaluronidase work?,"Breaks down hyaluronic acid, increasing spread of LA (therefore decreasing duration)"
+Maximum dose of cocaine,200mg
+Synthesis of ACh,"Acetyl CoA + Chloline -->
 choline acetyl transferase --> 
 ACh"
-"Metabolism of Ach","ACh > Cholinesterase > Choline + Acetic Acid
+Metabolism of Ach,"ACh > Cholinesterase > Choline + Acetic Acid
 *Choline gets recycled"
-"What are the two enzymes that metabolize catecholamines?","MAO and COMT"
-"Stimulation of an alpha 2 PRE-synaptic receptor will have what effect on the SNS?","Sympatholytic - stimulates negative feedback of norepinephrine release"
-"Some NE diffuses out of the synapse and is metabolized by _______ enzyme?","COMT"
-"2 steps of NE reuptake","1. Enters the cytoplasm - near MAO
+What are the two enzymes that metabolize catecholamines?,MAO and COMT
+Stimulation of an alpha 2 PRE-synaptic receptor will have what effect on the SNS?,Sympatholytic - stimulates negative feedback of norepinephrine release
+Some NE diffuses out of the synapse and is metabolized by _______ enzyme?,COMT
+2 steps of NE reuptake,"1. Enters the cytoplasm - near MAO
 2. Transported from cytoplasm back into vessicle - a process that takes energy"
-"Sympatholytic or Sympathomimetic: Interference with transmitter synthesis","SYMPATHOLYTIC
+Sympatholytic or Sympathomimetic: Interference with transmitter synthesis,"SYMPATHOLYTIC
 If you block tyrosine hydroxylase, then it can't act on tyrosine to form dopamine - decreased catecholamines
 *a-methyl-tyrosine"
-"Sympatholytic or Sympathomimetic: Metabolic transformation by the same pathway as precursor of transmitter","SYMPATHOLYTIC
+Sympatholytic or Sympathomimetic: Metabolic transformation by the same pathway as precursor of transmitter,"SYMPATHOLYTIC
 Gives the body a false thing to synthesize - thinks its making catecholamines 
 *a-methyl-dopa"
-"Sympatholytic or Sympathomimetic: Blockade of transport system at nerve terminal membrane","SYMPATHOMIMETIC
+Sympatholytic or Sympathomimetic: Blockade of transport system at nerve terminal membrane,"SYMPATHOMIMETIC
 Blocking the re-uptake of NE at the synapse, so more stays there
 *Cocaine and Imipramine 
 *Hemicholinium -cholinergic"
-"Sympatholytic or Sympathomimetic: Blockade of transport system at the versicle","SYMPATHOLYTIC
+Sympatholytic or Sympathomimetic: Blockade of transport system at the versicle,"SYMPATHOLYTIC
 Catecholamine can't be stored in vessicle, so it ends up being metabolized
 *Vesamicol -cholinergic
 *Reserpine - adrenergic"
-"Sympatholytic or Sympathomimetic: Promotion of exocytosis or displacement of transmitter from axon terminal","SYMPATHOMIMETIC
+Sympatholytic or Sympathomimetic: Promotion of exocytosis or displacement of transmitter from axon terminal,"SYMPATHOMIMETIC
 INDIRECT stimulation of catecholamine release 
 *Latrotoxins -cholinergic 
 *Amphetamines, Ephedrine, Tryamine - adrenergic"
-"Sympatholytic or Sympathomimetic: prevention of release of transmitter","SYMPATHOLYTIC
+Sympatholytic or Sympathomimetic: prevention of release of transmitter,"SYMPATHOLYTIC
 Pre-synaptic alpha 2 stimulation
 *Botulin toxin - cholinergic
 *Clonidine and Dex - adrenergic"
-"Sympatholytic or Sympathomimetic: Mimicry of transmitter at post-junctal sites","SYMPATHOMIMETIC 
+Sympatholytic or Sympathomimetic: Mimicry of transmitter at post-junctal sites,"SYMPATHOMIMETIC 
 Direct agonists!"
 "Methacholine
-Bethanachol","Cholinergic (nicotinic) direct agonists"
-"Drug Class: Nicotine, Epibatidine","Cholinergic agonists"
-"Drug Class: Phenylephrine","Selective alpha 1 agonist"
-"Drug Class: Oxymetazoline","Alpha 1 and 2 (non-selective)"
-"Drug Class: Dobutamine","Beta 1 agonist"
-"Drug Class: Terbutaline & Albuterol","Beta 2 agonist"
-"Drug Class: Isoproterenol","Beta 1 and 2 agonist
+Bethanachol",Cholinergic (nicotinic) direct agonists
+"Drug Class: Nicotine, Epibatidine",Cholinergic agonists
+Drug Class: Phenylephrine,Selective alpha 1 agonist
+Drug Class: Oxymetazoline,Alpha 1 and 2 (non-selective)
+Drug Class: Dobutamine,Beta 1 agonist
+Drug Class: Terbutaline & Albuterol,Beta 2 agonist
+Drug Class: Isoproterenol,"Beta 1 and 2 agonist
 Selective inhibition of smooth muscle contraction"
-"Sympatholytic or Sympathomimetic: blockade of post-synaptic receptor","SYMPATHOLYTIC
+Sympatholytic or Sympathomimetic: blockade of post-synaptic receptor,"SYMPATHOLYTIC
 Classic antagonist"
-"Drug Class: Atropine","Cholinergic muscarinic antagonist"
-"Drug Class: D-turbocurarine (curare) & Atracurium","Cholinergic NM antagonist - neuromuscular blockade"
-"Drug Class: Trimethaphan","Cholinergic NN antagonist -ganglionic blockade"
-"Drug Class: Prazosin, Terazosin & Doxazosin","Alpha 1 antagonist"
-"Drug Class: Yohimbine","alpha 2 antagonist"
-"Drug Class: Phenoxybenzamine & Phentolaime","Alpha 1 and 2 antagonist"
-"Drug Class: Metoprolol & Atenolol","Beta 1 > B2 antagonist"
-"Drug Class: Propranolol","Beta 1 and 2 antagonist (non-selective)"
-"PNS and SNS Mechanism of Action: inhibition of enzymatic breakdown of transmitter","PARASYMPATHOMIMETIC AND SYMPATHOMIMETIC 
+Drug Class: Atropine,Cholinergic muscarinic antagonist
+Drug Class: D-turbocurarine (curare) & Atracurium,Cholinergic NM antagonist - neuromuscular blockade
+Drug Class: Trimethaphan,Cholinergic NN antagonist -ganglionic blockade
+"Drug Class: Prazosin, Terazosin & Doxazosin",Alpha 1 antagonist
+Drug Class: Yohimbine,alpha 2 antagonist
+Drug Class: Phenoxybenzamine & Phentolaime,Alpha 1 and 2 antagonist
+Drug Class: Metoprolol & Atenolol,Beta 1 > B2 antagonist
+Drug Class: Propranolol,Beta 1 and 2 antagonist (non-selective)
+PNS and SNS Mechanism of Action: inhibition of enzymatic breakdown of transmitter,"PARASYMPATHOMIMETIC AND SYMPATHOMIMETIC 
 Drug is messing with the enzyme responsible for the breakdown of either ACh or catecholamines"
-"AChE Inhibitors (Neostigmine, Edrophonium) work on what receptors","Cholinergic muscarinic receptors - let ACh buildup in the synapse"
-"Drug Class: Paragyline & Nialamide","MAO-I 
+"AChE Inhibitors (Neostigmine, Edrophonium) work on what receptors",Cholinergic muscarinic receptors - let ACh buildup in the synapse
+Drug Class: Paragyline & Nialamide,"MAO-I 
 Non-selective adrenergic
 Potentiates tyramine"
-"Drug Class: Selegeline","MAO(B)-I, selective
+Drug Class: Selegeline,"MAO(B)-I, selective
 Adjunct to Parkinson's"
-"Drug Class: Entacapone","Peripheral COMT inhibitor
+Drug Class: Entacapone,"Peripheral COMT inhibitor
 Adjunct to parkinsons"
-"Drug Class: Tolcapone","peripheral and central COMT inhibitor
+Drug Class: Tolcapone,"peripheral and central COMT inhibitor
 Adjunct to Parkinson's"
 "Sympatholytic or Sympathomimetic: Interference with second messenger system
 *Example drug","SYMPATHOMIMETIC
 If you inhibit PDE, then C-AMP can't be broken down, increasing the function of the second messenger
 *milrinone"
-"Dose milrinone work indirectly or directly?","Indirectly. This is why the body does not build tolerance to it when compared to other vasopressor drips"
+Dose milrinone work indirectly or directly?,Indirectly. This is why the body does not build tolerance to it when compared to other vasopressor drips
 "Milrinone enters cell and attaches to _______, to prolong the life of C-AMP. This increase in the second messenger eventually results in an increase in the third messenger __________, producing a stronger ____________.","Phosphodiesterase enzyme
 Calcium release
 Inotropic contraction"
-"Milrinone Dose","Bolus: 37 .5-75 mcg/kg
+Milrinone Dose,"Bolus: 37 .5-75 mcg/kg
 Maintenance: .375-.75mcg/min"
-"How does milrinone affect SVR?","Decreases it"
+How does milrinone affect SVR?,Decreases it
 "cAMP works on ______ nerves
 cGMP works on ______ nerves","cAMP: adrenergic
 cGMP: cholinergic"
-"Adenylyl cyclase","Converts ATP to cyclic AMP in response to an extracellular signal."
-"Which phosphdiesterase enzymes break down cAMP?","3,4,7"
-"Which phosphodiesterase enzymes break down cGMP?","1,5,6"
-"Tardive Dyskinesia","involuntary movements of the facial muscles, tongue, and limbs; a possible neurotoxic side effect of long-term use of antipsychotic drugs that target certain dopamine receptors"
-"How does valbenazine work?","Inhibits VMAT2 - or vesicular MAO, reducing MAO levels which causes increased catecholamine"
-"How do Tyrosine Hydroxylase inhibitors work? What condition might warrant treatment with this drug?","inhibit the enzyme that converts tyrosine to catecholamines 
+Adenylyl cyclase,Converts ATP to cyclic AMP in response to an extracellular signal.
+Which phosphdiesterase enzymes break down cAMP?,"3,4,7"
+Which phosphodiesterase enzymes break down cGMP?,"1,5,6"
+Tardive Dyskinesia,"involuntary movements of the facial muscles, tongue, and limbs; a possible neurotoxic side effect of long-term use of antipsychotic drugs that target certain dopamine receptors"
+How does valbenazine work?,"Inhibits VMAT2 - or vesicular MAO, reducing MAO levels which causes increased catecholamine"
+How do Tyrosine Hydroxylase inhibitors work? What condition might warrant treatment with this drug?,"inhibit the enzyme that converts tyrosine to catecholamines 
 Pheochromocytoma"
-"How do COMT Inhibitors work? What is an example of this kind of drug? What condition might warrant treatment with this drug?","Tolapone
+How do COMT Inhibitors work? What is an example of this kind of drug? What condition might warrant treatment with this drug?,"Tolapone
 Inhibits breakdown of catecholamines 
 Parkinson's"
-"What kind of receptors are affected by the vagus nerve?","Muscarinic"
-"Eye: Alpha receptor action","Alpha agonist: mydriasis 
+What kind of receptors are affected by the vagus nerve?,Muscarinic
+Eye: Alpha receptor action,"Alpha agonist: mydriasis 
 Alpha antagonist: miosis"
-"Eye: Beta receptor action","Beta agonist: none
+Eye: Beta receptor action,"Beta agonist: none
 Beta antagonist: decreased IOP"
-"Effect of cholinergics on the eye","Parasympathomimetic
+Effect of cholinergics on the eye,"Parasympathomimetic
 Miosis 
 Decreased IOP"
-"Effect of anti-cholinergics on the eye","Parasympatholytic
+Effect of anti-cholinergics on the eye,"Parasympatholytic
 Mydriasis
 Cyloplegia
 Increased IOP"
-"Heart: Alpha receptor action","Alpha agonist: reflex bradycardia
+Heart: Alpha receptor action,"Alpha agonist: reflex bradycardia
 Alpha antagonist: reflex tachycardia"
-"Vessels: alpha receptor action","Alpha agonist: constriction
+Vessels: alpha receptor action,"Alpha agonist: constriction
 Alpha antagonist: dilation"
-"Vessels: beta receptor action","Beta agonist: dilation
+Vessels: beta receptor action,"Beta agonist: dilation
 Beta blocker: constriction"
-"What is the effect of cholinergic drugs on the lungs? Anti-cholinergics?","Cholinergics: constriction
+What is the effect of cholinergic drugs on the lungs? Anti-cholinergics?,"Cholinergics: constriction
 Anticholinergics: dilation (slight)"
-"GI: alpha receptor aciton","Alpha agonist: decreased motility and secretions"
-"How do cholinergic drugs impact the GI system?","Increased motility and secretions"
-"How do alpha receptors affect the uterus?","Alpha agonist causes contraction"
-"What receptors cause tocolysis?","Relaxation of the uterus - beta agonists"
-"Liver: beta receptor effect","Agoinst: increased glucose
+GI: alpha receptor aciton,Alpha agonist: decreased motility and secretions
+How do cholinergic drugs impact the GI system?,Increased motility and secretions
+How do alpha receptors affect the uterus?,Alpha agonist causes contraction
+What receptors cause tocolysis?,Relaxation of the uterus - beta agonists
+Liver: beta receptor effect,"Agoinst: increased glucose
 Antagonist: hypoglycemia"
 "Phenylephrine (alpha agonist) will only produce ______ in the eye, whereas Atropine (anticholinergic) will produce ______ and ______ in the eye","Phenylephrine: mydriasis
 Atropine: mydriasis and cylcoplegia"
-"Mydriasis (dilation) from alpha 1 stimulation in the eye is from the action of which muscle?","Radial (Iris)"
-"Miosis (constriction) from alpha 1 blockade in the eye is from the action of which muscle?","Sphincter (Iris)"
-"Which muscle in the eye is responsible for accomodation? How does it adapt for near and far vision?","Ciliary
+Mydriasis (dilation) from alpha 1 stimulation in the eye is from the action of which muscle?,Radial (Iris)
+Miosis (constriction) from alpha 1 blockade in the eye is from the action of which muscle?,Sphincter (Iris)
+Which muscle in the eye is responsible for accomodation? How does it adapt for near and far vision?,"Ciliary
 Near: contraction, lens is rounded
 Far: relaxation, lens is elliptical"
 "All _____ receptors function in the heart, with the exception of some that reside in the _______ to produce ________.","Beta 1, Kidney, Renin"
-"Drugs that are dromotropic affect what?","Conduction velocity"
-"How does Beta 1 stimulation affect the heart?","Increased HR, contractility, conduction, and automaticity"
-"Dose & Drug Class : Phenylephrine (Neo-Synephrine)","Pure alpha agonist
+Drugs that are dromotropic affect what?,Conduction velocity
+How does Beta 1 stimulation affect the heart?,"Increased HR, contractility, conduction, and automaticity"
+Dose & Drug Class : Phenylephrine (Neo-Synephrine),"Pure alpha agonist
 Dose: 20-200mcg/min, 40-80mcg push"
-"Dose & Drug Class: Norepinephrine","Alpha > beta
+Dose & Drug Class: Norepinephrine,"Alpha > beta
 1-20mcg/min"
-"How will NE impact your BP and HR?","Will increase SBP>DBP
+How will NE impact your BP and HR?,"Will increase SBP>DBP
 Slight HR increase"
-"Dose & Drug Class: Epinephrine","Beta>alpha
+Dose & Drug Class: Epinephrine,"Beta>alpha
 Dose: 1-20mcg/min"
-"How will epinephrine impact HR and BP?","Will increase HR > BP
+How will epinephrine impact HR and BP?,"Will increase HR > BP
 Will increase SBP, not DBP"
-"How will low dose Epi impact SVR?","Slight decrease"
-"Dose & Drug Class: Dobutamine","Pure beta agonist
+How will low dose Epi impact SVR?,Slight decrease
+Dose & Drug Class: Dobutamine,"Pure beta agonist
 Dose: 1-20mcg/min"
-"How will dobutamine impact your HR and BP?","It will increase HR
+How will dobutamine impact your HR and BP?,"It will increase HR
 Will decrease BP d/t no alpha stimulation"
 "Dopamine (receptors at low, med, and high doses)","Low: Dopamine
 Med: + beta
 High: + alpha"
-"How will dopamine impact your BP?","Low-medium doses will slightly increase BP
+How will dopamine impact your BP?,"Low-medium doses will slightly increase BP
 High doses will increase BP with alpha effect"
-"Dose & Drug Class: Vasopressin","V1 and V2 receptors 
+Dose & Drug Class: Vasopressin,"V1 and V2 receptors 
 Dose: .04-.1unit/min"
-"What hemodynamic measurement will be increased by the addition of vasopressin?","SVR"
-"How does stimulation of the SNS impact adipocytes and by what receptors?","increased lipolysis via alpha and beta receptors"
-"What is considered a 'renal dose' of dopamine and what does this mean?","Low dose = 2-5mcg/kg/min
+What hemodynamic measurement will be increased by the addition of vasopressin?,SVR
+How does stimulation of the SNS impact adipocytes and by what receptors?,increased lipolysis via alpha and beta receptors
+What is considered a 'renal dose' of dopamine and what does this mean?,"Low dose = 2-5mcg/kg/min
 This dose only impacts dopamine receptors, which cause renal artery dilation and therefore increased blood flow. Does NOT improve GFR"
-"What receptor is PREDOMINANTLY effected by high dose Dopamine?","alpha 1"
-"How does the parasympathetic nervous system impact blood vessels?","It doesn't"
-"Stimulation of alpha 1 and alpha 2 receptors does what to blood vessels?","Vasoconstriction"
-"Stimulation of beta 2 receptors does what to blood vessels?","Vasodilation"
-"Alpha 2 receptors impact blood vessels at what two locations?","Skin, salivary glands"
-"V1 receptors impact blood vessels at what locations?","Skin, kidneys"
-"V2 receptors impact blood vessels at what locations?","Coronaries and abdominal viscera"
-"What does stimulation of alpha.1 receptors do in the cerebral vasculature?","Causes SLIGHT constriction"
-"How are salivary glands impacted by sympathetic and parasympathetic stimulation?","SNS: reduced secretions
+What receptor is PREDOMINANTLY effected by high dose Dopamine?,alpha 1
+How does the parasympathetic nervous system impact blood vessels?,It doesn't
+Stimulation of alpha 1 and alpha 2 receptors does what to blood vessels?,Vasoconstriction
+Stimulation of beta 2 receptors does what to blood vessels?,Vasodilation
+Alpha 2 receptors impact blood vessels at what two locations?,"Skin, salivary glands"
+V1 receptors impact blood vessels at what locations?,"Skin, kidneys"
+V2 receptors impact blood vessels at what locations?,Coronaries and abdominal viscera
+What does stimulation of alpha.1 receptors do in the cerebral vasculature?,Causes SLIGHT constriction
+How are salivary glands impacted by sympathetic and parasympathetic stimulation?,"SNS: reduced secretions
 PNS: increased secretions"
-"Alpha 1 and 2 receptors have what effect on renal vasculature?","heavy vasoconstriction"
-"B1 and 2, as well as V1 receptors have what effect on renal vasculature?","dilation"
-"How does ephedrine work?","Peripherally and centrally - crosses bbb
+Alpha 1 and 2 receptors have what effect on renal vasculature?,heavy vasoconstriction
+"B1 and 2, as well as V1 receptors have what effect on renal vasculature?",dilation
+How does ephedrine work?,"Peripherally and centrally - crosses bbb
 Directly and indirectly: acts on receptor, and also stimulates exocytosis of transmitter from exon terminal (stimulates catecholamine release)
 Alpha and Beta receptors"
 "If a patient is on an MAO Inhibitor, what OR pressor is the better choice and why?","Phenylephrine will have a more predictable response because it acts directly, whereas ephedrine acts both directly and indirectly - the indirect action is less predictable as MAO is inhibited and you are unable to breakdown the catecholamines that will be produced with ephedrine administration"
-"Why would ephedrine be less effective in a patient undergoing a prolonged stress response?","If the patient is depleted of catecholamines, ephedrine will lose its indirect effect"
-"What is the treatment for acute relief of asthma exacerbation?","SABA (short-acting-beta-agonist)
+Why would ephedrine be less effective in a patient undergoing a prolonged stress response?,"If the patient is depleted of catecholamines, ephedrine will lose its indirect effect"
+What is the treatment for acute relief of asthma exacerbation?,"SABA (short-acting-beta-agonist)
 Albuterol/Solumedrol"
-"How does beta 2 stimulation impact patients with asthma?","Bronchodilation and relaxation"
-"What is the treatment for persistent chronic asthma to reduce the risk of excerbation?","Inhaled corticosteroids"
+How does beta 2 stimulation impact patients with asthma?,Bronchodilation and relaxation
+What is the treatment for persistent chronic asthma to reduce the risk of excerbation?,Inhaled corticosteroids
 "If an asthmatic patient is on an ICS and also taking a SABA but is still experiencing symptoms, what should they be treated with?","LABA (long acting beta agonist)
 *avoid unless severe*"
-"If ICS dose has been increased with no result, what is the last treatment you can try for asthma?","LAMA (long acting muscarinic antagonist)"
-"Top 3 things that cause an allergic reaction: Most to Least","1. NMBA
+"If ICS dose has been increased with no result, what is the last treatment you can try for asthma?",LAMA (long acting muscarinic antagonist)
+Top 3 things that cause an allergic reaction: Most to Least,"1. NMBA
 2. Latex
 3. Antibiotics"
-"If a patient has a spasm before placing the tube, what is it likely caused by?","Allergic reaction"
-"Smoking cessation for asthmatic patients should be encouraged for at least how long?","8 weeks"
-"Pre-treatment for asthma","Steroid"
-"Induction agent of choice for active wheezing","Ketamine"
-"Intraoperative Bronchospasm treatment","Deepen anesthetic 
+"If a patient has a spasm before placing the tube, what is it likely caused by?",Allergic reaction
+Smoking cessation for asthmatic patients should be encouraged for at least how long?,8 weeks
+Pre-treatment for asthma,Steroid
+Induction agent of choice for active wheezing,Ketamine
+Intraoperative Bronchospasm treatment,"Deepen anesthetic 
 100% FiO2
 B2 Agonist (albuterol)
 IV Epi (severe)
 IV Corticosteroid
 Aminophylline if long term mech. ventilation"
-"What medications are contraindicated in asthma? Why?","H2 blockers (-tidine)
+What medications are contraindicated in asthma? Why?,"H2 blockers (-tidine)
 Phenanthrene opioids: morphine, dilaudid, demerol
 Histamine-releasing NMBs: succinylcholine, atracurium
 Non-cardioselective beta blockers"
-"GI motility and tone are controlled via what receptors","A1-2
+GI motility and tone are controlled via what receptors,"A1-2
 B1-2
 V1"
-"GI Sphincters are controlled by what receptors?","A1"
-"GI secretions are controlled by what receptors?","A2"
-"Gallbladder is controlled by what receptors?","B2"
-"Liver is controlled by what receptors","a1, B2"
-"Lipolysis is controlled predominantly by what receptor?","B3"
-"Islet cells are controlled by what receptors","B2"
-"What receptor causes decreased insulin secretion","a2"
-"What receptors cause renin secretion","B1"
-"Which receptors cause water reabsorption in the kidneys","V2"
-"Which receptor causes contraction of the bladder","a1"
-"Which receptor causes relaxation of the bladder","B2"
-"Which receptor causes contraction of the uterus","a1"
-"Which receptor causes relaxation of the uterus (tocolysis)","b2"
-"Which anticholinergic causes the most sedation?","Scopolamine"
-"Which anticholinergic is the best antisialogogue?","Glycopyrrolate"
-"Which anticholinergic increases HR the most?","Atropine"
-"Which anticholinergic does NOT cross the BBB?","Glycopyrrolate"
-"What kind of nausea is scopolamine best for?","motion induced"
-"Which anticholinergic is best to use in a pregnant mom?","Glycopyrrolate"
-"M1 receptor: location and effects","CNS, Stomach
+GI Sphincters are controlled by what receptors?,A1
+GI secretions are controlled by what receptors?,A2
+Gallbladder is controlled by what receptors?,B2
+Liver is controlled by what receptors,"a1, B2"
+Lipolysis is controlled predominantly by what receptor?,B3
+Islet cells are controlled by what receptors,B2
+What receptor causes decreased insulin secretion,a2
+What receptors cause renin secretion,B1
+Which receptors cause water reabsorption in the kidneys,V2
+Which receptor causes contraction of the bladder,a1
+Which receptor causes relaxation of the bladder,B2
+Which receptor causes contraction of the uterus,a1
+Which receptor causes relaxation of the uterus (tocolysis),b2
+Which anticholinergic causes the most sedation?,Scopolamine
+Which anticholinergic is the best antisialogogue?,Glycopyrrolate
+Which anticholinergic increases HR the most?,Atropine
+Which anticholinergic does NOT cross the BBB?,Glycopyrrolate
+What kind of nausea is scopolamine best for?,motion induced
+Which anticholinergic is best to use in a pregnant mom?,Glycopyrrolate
+M1 receptor: location and effects,"CNS, Stomach
 Increased cognition, gastric acid production"
-"M2 receptor: location and effects","CNS, Heart
+M2 receptor: location and effects,"CNS, Heart
 Bradycardia, Smooth muscle contraction"
-"M3 receptor: location and effects","CNS, glands
+M3 receptor: location and effects,"CNS, glands
 Salivary secretion
 Bladder contraction"
-"M4 receptor: location and effects","CNS, Heart
+M4 receptor: location and effects,"CNS, Heart
 Promotes dopamine release"
-"M5 receptor: location and effects","CNS
+M5 receptor: location and effects,"CNS
 Dopamine release, cerebral dilation"
-"Effects of Atropine at 0.5mg","Slight cardiac slowing (via brain)
+Effects of Atropine at 0.5mg,"Slight cardiac slowing (via brain)
 Anhidrosis"
-"Effects of Atropine at 1mg","Dry mouth, thirst
+Effects of Atropine at 1mg,"Dry mouth, thirst
 acceleration of heart
 mild pupil dilation"
-"Effects of Atropine at 2mg","Dry as a bone, blind as a bat!
+Effects of Atropine at 2mg,"Dry as a bone, blind as a bat!
 Vagus nerve completely blocked
 Rapid HR
 Marked dry mouth
 Mydriasis, cycloplegia"
-"Effects of Atropine at 5mg","Red as a beat, hot as a hare!
+Effects of Atropine at 5mg,"Red as a beat, hot as a hare!
 Dry, hot skin
 Headache, restlessness, fatigue
 Difficulty speaking and swallowing"
-"Effects of Atropine at 10 mg","Mad as a hatter!
+Effects of Atropine at 10 mg,"Mad as a hatter!
 Skin flushed, hot, dry, scarlet
 Iris obliterated
 Hallucinations and delirium
 Coma"
-"What type of muscles to NMBDs work on? What areas of the body are included?","Skeletal muscle, including upper larynx and sphincters of GI tract. They have no effect on the uterus"
-"Patients can have normal resp. function and still be _____% paralyzed? This correlated with how many TOF twitches?","80%; 2/4 TOF"
-"Which NMDB has the highest efficacy?","None, they are all the same (100%)"
-"How does succinylcholine work?","It is essentially acetylcholine - acts on cholinergic receptor and causes muscle depolarization and contraction"
-"How do non-depolarizing NMBDs work?","Like antagonists, block ACh receptors so other agents (including ACh) cannot act on them. Works at both pre- and post-synaptic ACh receptors"
-"How does the single twitch test work? What do we use it for?","Single twitch up to 1 Hz, all or nothing response. Use it for establishing a baseline and onset of paralytic"
-"How does the TOF test work? What does it reflect?","4 twitches at 2 Hz, given every half second for 2 seconds. Reflects blockade from 70-100%."
-"How does the DBS work?","2 bursts of 50 hz, separated by 0.75 seconds"
-"How does tetanus work? What is it used for?","Rapid delivery of 30-, 50-, or 100 Hz. Used for assessment of deep block"
-"How does PCT work? What is it used for?","50Hz. tetanus for 5 seconds, a 3 second pause, single twitches of 1Hz each (up to 20 twitches). Used to assess >100% paralysis, <8 twitches signifies a deep block"
+What type of muscles to NMBDs work on? What areas of the body are included?,"Skeletal muscle, including upper larynx and sphincters of GI tract. They have no effect on the uterus"
+Patients can have normal resp. function and still be _____% paralyzed? This correlated with how many TOF twitches?,80%; 2/4 TOF
+Which NMDB has the highest efficacy?,"None, they are all the same (100%)"
+How does succinylcholine work?,It is essentially acetylcholine - acts on cholinergic receptor and causes muscle depolarization and contraction
+How do non-depolarizing NMBDs work?,"Like antagonists, block ACh receptors so other agents (including ACh) cannot act on them. Works at both pre- and post-synaptic ACh receptors"
+How does the single twitch test work? What do we use it for?,"Single twitch up to 1 Hz, all or nothing response. Use it for establishing a baseline and onset of paralytic"
+How does the TOF test work? What does it reflect?,"4 twitches at 2 Hz, given every half second for 2 seconds. Reflects blockade from 70-100%."
+How does the DBS work?,"2 bursts of 50 hz, separated by 0.75 seconds"
+How does tetanus work? What is it used for?,"Rapid delivery of 30-, 50-, or 100 Hz. Used for assessment of deep block"
+How does PCT work? What is it used for?,"50Hz. tetanus for 5 seconds, a 3 second pause, single twitches of 1Hz each (up to 20 twitches). Used to assess >100% paralysis, <8 twitches signifies a deep block"
 "Define onset, clinical duration, and total duration of NMBDs","Onset: administration to max effect
 Clinical Duration: administration to 25% recovery
 Total Duration: administration to 90% recover"
-"What is the Gold-Standard TOFR to findicate recovery?","TOFR >0.9"
-"Define recovery index","Time from 25% to 75% recovery of the twitch response"
-"How do you correctly place PNS electrodes?","Red (positive) goes proximal
+What is the Gold-Standard TOFR to findicate recovery?,TOFR >0.9
+Define recovery index,Time from 25% to 75% recovery of the twitch response
+How do you correctly place PNS electrodes?,"Red (positive) goes proximal
 Black (negative) goes distal"
 "What is the best site to measure onset? 
 What is the goal of this reflex?","Onset is measured at the facial nerve.
 Orbicularis oculi muscle controls eyelid movement"
-"What is the best site to measure recovery? What is the goal of this reflex?","Recovery at the ulnar nerve
+What is the best site to measure recovery? What is the goal of this reflex?,"Recovery at the ulnar nerve
 Adductor policis muscle controls thumb adduction"
-"Why do we measure onset at the facial nerve?","It gets similar cardiac output to the diaphragm, good indicator of when patient is ready for intubation"
-"Why don't you place leads directly on the muscle?","It will stimulate the muscle directly! We are not paralyzing muscle, we are paralyzing the nerve-to-muscle connection"
-"The upper airway muscles are _______ (more/less) sensitive than peripheral muscle?","More"
-"In what muscle sequence do NMBDs produce paralysis?","1. Eyelids
+Why do we measure onset at the facial nerve?,"It gets similar cardiac output to the diaphragm, good indicator of when patient is ready for intubation"
+Why don't you place leads directly on the muscle?,"It will stimulate the muscle directly! We are not paralyzing muscle, we are paralyzing the nerve-to-muscle connection"
+The upper airway muscles are _______ (more/less) sensitive than peripheral muscle?,More
+In what muscle sequence do NMBDs produce paralysis?,"1. Eyelids
 2. Extremities
 3. Chest/intercostals
 4. Abdominal muscles
 5. Diaphragm"
-"In what order do muscles recover from NMBDs?","1. Diaphragm
+In what order do muscles recover from NMBDs?,"1. Diaphragm
 2. Abdominal muscles
 3. Chest/intercostals
 4. Extremities
 5. Eyelids"
-"What is the minimum PNS output we should use?","30 mA"
-"What are the quantitative measurements of extubation criteria?","TOFR >0.9, DBS >0.9"
-"What are the qualities of a phase I block (depolarizing)?","Muscle fasciculation
+What is the minimum PNS output we should use?,30 mA
+What are the quantitative measurements of extubation criteria?,"TOFR >0.9, DBS >0.9"
+What are the qualities of a phase I block (depolarizing)?,"Muscle fasciculation
 Sustained response to tetanus
 No post-tetanic potentiation
 No fade to TOF or DBS
 Antagonized by pre-treatment of ND-NMBD
 Potentiated by anticholinesterase"
-"What are the qualities of a phase II block (non-depolarizing)?","No muscle fasciculation
+What are the qualities of a phase II block (non-depolarizing)?,"No muscle fasciculation
 Tetanic fade
 Post-tetanic potentiation
 TOF and DBS fade
 May be produced by overdose and desensitization with succ > 6ml/kg
 Anticholinesterase reverses"
-"What is the TOF ratio when fade is no longer detected in DBS?","0.6-0.7"
-"What is the TOFR when fade is no longer detected in 100Hz tetanus?","0.8-0.9"
-"What % of receptors are occupied by NMBD when Vt > 5ml/kg?","80%"
-"What % of receptors are occupied by NMBD when single twitch is at baseline?","75-80%"
-"What % of receptors are occupied by NMBD when TOF has no fade?","70-75%"
-"What % of receptors are occupied by NMBD when 50hz tetany has no fade or vital capacity >20ml/kg?","70%"
-"What % of receptors are occupied by NMBD when DBS has no fade?","60%"
-"What % of receptors are occupied by NMBD when 100Hz tetany has no fade","50%"
-"What are subjective tests that signify 50% receptor NMBD blockade?","Head lift >5 sec
+What is the TOF ratio when fade is no longer detected in DBS?,0.6-0.7
+What is the TOFR when fade is no longer detected in 100Hz tetanus?,0.8-0.9
+What % of receptors are occupied by NMBD when Vt > 5ml/kg?,80%
+What % of receptors are occupied by NMBD when single twitch is at baseline?,75-80%
+What % of receptors are occupied by NMBD when TOF has no fade?,70-75%
+What % of receptors are occupied by NMBD when 50hz tetany has no fade or vital capacity >20ml/kg?,70%
+What % of receptors are occupied by NMBD when DBS has no fade?,60%
+What % of receptors are occupied by NMBD when 100Hz tetany has no fade,50%
+What are subjective tests that signify 50% receptor NMBD blockade?,"Head lift >5 sec
 Sustained bite (jaw clench on tongue blade)
 Hand grip at baseline
 NIF <-40cm H2O"
@@ -616,71 +617,71 @@ NIF <-40cm H2O"
 2. 1= 90-95% paralyzed; 30 minutes
 3. 2-3= 75-80% paralyzed; 3-15minutes (30 panc.)
 4. 4=70-75% paralyzed; <5min (neostigmine, 2-3 edroph.)"
-"What % paralyzed are you if your TOFR is >0.9?","<70%"
-"Why does fade occur with ND-NMBDs?","Because they block both pre- and post-synaptic ACh receptors. At the pre-synaptic receptors, they inhibit the positive feedback loop of ACh, therefore decreasing the amount of ACh present in the synapse leading to progressive muscle weakness"
-"Why DOESN'T fade occur with succinylcholine?","It works only on post-synaptic ACh receptors"
-"What is the strongest stimulation test you can use from the PNS box?","Tetany"
-"If you give tetany and have no hand movement, what does this signify?","Patient is over paralyzed"
-"What nerve stimulation test do you use when the others don't work?","Post-tetanic count"
-"Why does post-tetanic potentiation occur?","Tetany causes local ACh release"
+What % paralyzed are you if your TOFR is >0.9?,<70%
+Why does fade occur with ND-NMBDs?,"Because they block both pre- and post-synaptic ACh receptors. At the pre-synaptic receptors, they inhibit the positive feedback loop of ACh, therefore decreasing the amount of ACh present in the synapse leading to progressive muscle weakness"
+Why DOESN'T fade occur with succinylcholine?,It works only on post-synaptic ACh receptors
+What is the strongest stimulation test you can use from the PNS box?,Tetany
+"If you give tetany and have no hand movement, what does this signify?",Patient is over paralyzed
+What nerve stimulation test do you use when the others don't work?,Post-tetanic count
+Why does post-tetanic potentiation occur?,Tetany causes local ACh release
 "How long until 1 twitch comes back with a PTC of 1?
 PTC of 7-8?","PTC 1= 8 minutes (intermediates) or 30 minutes (long)
  PTC 7-8=twitch is imminent"
-"How is succinylcholine broken down?","Rapid hydrolysis in the plasma by plasma (aka pseudo-) cholinesterase. THIS IS WHY IT HAS A BRIEF DURATION
+How is succinylcholine broken down?,"Rapid hydrolysis in the plasma by plasma (aka pseudo-) cholinesterase. THIS IS WHY IT HAS A BRIEF DURATION
 Goes from succ > succ. monocholine > succ. acid and choline"
-"Define cholinesterases","A family of enzymes that hydrolyze esters more quickly than enzymes do at normal conditions"
-"What is the main function of cholinesterase?","To terminate the action of ACh at cholinergic nerve endings in effector organs"
-"What are the two main types of cholinesterase enzymes and where do they work?","1. Acetylcholinesterase (Type I): synapse of muscle
+Define cholinesterases,A family of enzymes that hydrolyze esters more quickly than enzymes do at normal conditions
+What is the main function of cholinesterase?,To terminate the action of ACh at cholinergic nerve endings in effector organs
+What are the two main types of cholinesterase enzymes and where do they work?,"1. Acetylcholinesterase (Type I): synapse of muscle
 2. Pseudocholinesterase (Type II): plasma"
-"What is an esterase enzyme that is NOT a cholinesterase called? What are the 3 types?","Called a 'non-esterase' or 'other' type
+What is an esterase enzyme that is NOT a cholinesterase called? What are the 3 types?,"Called a 'non-esterase' or 'other' type
 1. RBC esterase
 2. Paraxonase
 3. Albumin esterase"
 "Assuming there is no inhibitor present, what does a decrease in esterase enzyme activity signify?","Impaired synthesis of the enzyme, for example, liver disease"
-"What are some common anesthesia drugs that are dependent on pseudocholinesterase?","Succinylcholine
+What are some common anesthesia drugs that are dependent on pseudocholinesterase?,"Succinylcholine
 Mivacurium
 Ester LA's (drugs with 1 i in name - procaine, tetracaine, etc.)
 Neostigmine
 Edrophonium"
-"What are some common anesthesia drugs that are dependent on non-specific esterases?","Atracurium (& Cis.)
+What are some common anesthesia drugs that are dependent on non-specific esterases?,"Atracurium (& Cis.)
 Remifentanil
 Clevidipine
 Remimazolam"
-"What drug is dependent on RBC esterase?","Esmolol"
-"If a patient experiences prolonged apnea following succinylcholine or mivacurium administration, what are the 2 conditions you must differentiate between?","Atypical genetic variant of AChE or low levels of normal AChE"
-"What is 'atypical cholinesterase'? Who has it? What does it cause?","It is just a normal human variant
+What drug is dependent on RBC esterase?,Esmolol
+"If a patient experiences prolonged apnea following succinylcholine or mivacurium administration, what are the 2 conditions you must differentiate between?",Atypical genetic variant of AChE or low levels of normal AChE
+What is 'atypical cholinesterase'? Who has it? What does it cause?,"It is just a normal human variant
 It is an atypical form of the cholinesterase enzyme causing slowed metabolism of succinycholine"
-"What is the most common test we use to look for atypical cholinesterase?","Dibucaine Inhibition Test"
-"How does the Dibucaine Inhibition test work? What is a normal test result and what does it signify?","Dibucaine is an amide LA that inhibits typical pseudocholinesterase, but NOT atypical. 
+What is the most common test we use to look for atypical cholinesterase?,Dibucaine Inhibition Test
+How does the Dibucaine Inhibition test work? What is a normal test result and what does it signify?,"Dibucaine is an amide LA that inhibits typical pseudocholinesterase, but NOT atypical. 
 Normal DIT= 80% - 80% of AChE activity was inhibited"
-"What does a dibucaine number of 20 mean?","Patient has atypical cholinesterase since Dibucaine didn't inhibit the patient's enzyme activity"
-"For people who have atypical cholinesterase, how long does it take them to recover from succinylcholine?","6-12 hours"
-"What two numbers do you get from the Dibucaine inhibition test and what do they mean","1. Amount of plasma cholinesterase inhibition - this signifies normal vs. abnormal enzyme
+What does a dibucaine number of 20 mean?,Patient has atypical cholinesterase since Dibucaine didn't inhibit the patient's enzyme activity
+"For people who have atypical cholinesterase, how long does it take them to recover from succinylcholine?",6-12 hours
+What two numbers do you get from the Dibucaine inhibition test and what do they mean,"1. Amount of plasma cholinesterase inhibition - this signifies normal vs. abnormal enzyme
 2. Acetylcholine activity level - this signifies normal vs. low levels of the enzyme present"
-"Dibucaine Inhibition Test Results: Low Dibucaine Number + Normal Activity = _________","Atypical enzyme and prolonged apnea"
-"Dibucaine Inhibition Test Results: Normal Dibucaine Number + Low Activity = _________","Normal enzyme with low levels present and prolonged apnea"
-"Dibucaine Inhibition Test Results: Low Dibucaine Dumber + Low Activity = _________","Atypical enzyme with low levels present and prolonged apnea"
-"Dibucaine Inhibition Test Results: Normal Dibucaine Number + Normal Activity =","Normal enzyme and amount (another reason for prolonged apnea must be investigated)"
+Dibucaine Inhibition Test Results: Low Dibucaine Number + Normal Activity = _________,Atypical enzyme and prolonged apnea
+Dibucaine Inhibition Test Results: Normal Dibucaine Number + Low Activity = _________,Normal enzyme with low levels present and prolonged apnea
+Dibucaine Inhibition Test Results: Low Dibucaine Dumber + Low Activity = _________,Atypical enzyme with low levels present and prolonged apnea
+Dibucaine Inhibition Test Results: Normal Dibucaine Number + Normal Activity =,Normal enzyme and amount (another reason for prolonged apnea must be investigated)
 "If patient is heterozygous for Ea (atypical cholinesterase), what does this mean for them? What will their dibucaine number be?","They have the trait - mildly decreased enzyme activity and 50% longer duration of succinylcholine
 DIT = 50-69"
 "If a patient is homozygous for Ea (atypical cholinesterase), what does this mean for them? What will their dibucaine number be?","They have the atypical enzyme - decreased enzyme activity by 70%, significantly longer duration of succinylcholine (4-24 hours)
 DIT= 16-30"
-"What if the patient is a homozygote F (fluoride PCHe)","Enzyme activity decreased by 60%, moderate prolongation of succinylcholine"
-"What if the patient is a homozygote S (silent PCHe)","NO enzyme activity, significant prolongation of succ"
-"Side Effects of Succinylcholine & Rationale","Hyperkalemia: Transient increase of 0.5mEq/L 
+What if the patient is a homozygote F (fluoride PCHe),"Enzyme activity decreased by 60%, moderate prolongation of succinylcholine"
+What if the patient is a homozygote S (silent PCHe),"NO enzyme activity, significant prolongation of succ"
+Side Effects of Succinylcholine & Rationale,"Hyperkalemia: Transient increase of 0.5mEq/L 
 Dysrhythmias: Secondary to hyperkalemia
 Myalgia: Fasciculation
 Myoglobinemia (Rare): Secondary to MH or Fasiculation
 Elevated Intragastric Pressure 
 Elevated ICP & IOP
 Masseter Spasm: May indicate MH"
-"What conditions are succinylcholine contraindicated in related to up-regulation of ACh receptors?","Motor neuron deficit (paralyzed)
+What conditions are succinylcholine contraindicated in related to up-regulation of ACh receptors?,"Motor neuron deficit (paralyzed)
 Prolonged chemical denervation
 Muscle trauma, tumore, inflammation
 Thermal trauma/burns (starting 24 hr after)
 Disuse atrophy
 Severe infection"
-"Do NOT administer Succinylcholine in the following patient populations: _____________","Hyperkalemia
+Do NOT administer Succinylcholine in the following patient populations: _____________,"Hyperkalemia
 Burns >35% TBSA, 3rd degree
 Trauma/Rhabdomylosis
 Neurological Injury
@@ -694,40 +695,40 @@ Children under 8 (except emergencies)
 Atypical pseudocholinesterase
 Statins?
 Allergy"
-"Why does mylagia happen with succinylcholine and who is most at risk? What can we do to prevent it? What does this prevention cause?","Due to asynchronous fasciculation of muscle groups. Most common in healthy, young women.
+Why does mylagia happen with succinylcholine and who is most at risk? What can we do to prevent it? What does this prevention cause?,"Due to asynchronous fasciculation of muscle groups. Most common in healthy, young women.
 Give small dose of non-depolarizer - will require 20% more succinylcholine"
 "Which relaxants are considered Benzyisoquinolines? 
 Which cause histamine release?","-Curium drugs
 Atracurium (most) and mivacurium cause histamine release"
-"Which relaxants are considered steroidals? What drug can be given to reverse them?","-onium drugs (Panc, Vec, Roc)
+Which relaxants are considered steroidals? What drug can be given to reverse them?,"-onium drugs (Panc, Vec, Roc)
 Sugammadex can reverse them"
-"How are atracurium and cisatracurium metabolized?","Hofmann elimination, nonspecific ester hydrolysis. This makes them good choice in renal and hepatic failure patients. 
+How are atracurium and cisatracurium metabolized?,"Hofmann elimination, nonspecific ester hydrolysis. This makes them good choice in renal and hepatic failure patients. 
 Bloodstream initiates hydrolysis when it senses a change in pH and temp upon drug administration"
-"Where are the metabolites of Atracurium eliminated from?","Through urine and bile"
-"Where is vecuronium metabolized?","Both the liver and kidneys"
-"Where are the metabolites of rocuronium eliminated from?","There are no metabolites from rocuronium!"
-"How is pancuronium eliminated from the body? For who is it contraindicated?","It is eliminated 85% in the kidneys, so contraindicated in renal failure"
-"Why are atracurium and cisatracurium so consistent in their durations among differing populations?","Becuase they have non-organ-dependent elimination (Hoffman's)"
-"Vecuronium's action is prolonged with _______ disease?","Liver"
-"Pancuronium's action is prolonged with _______ disease?","Renal"
-"How are succinylcholine and mivacurium metabolized?","Plasma Cholinesterase"
-"The amount of histamine released by atracurium and mivacurium is dependent on what two things?","Dose and Speed of injection"
-"In order to prophylactically treat drug-induced-histamine release, which receptors must we block?","Both H1 AND H2"
-"What do H1 receptors do? Which drug is an H1-Antagonist?","Increased capillary permeability
+Where are the metabolites of Atracurium eliminated from?,Through urine and bile
+Where is vecuronium metabolized?,Both the liver and kidneys
+Where are the metabolites of rocuronium eliminated from?,There are no metabolites from rocuronium!
+How is pancuronium eliminated from the body? For who is it contraindicated?,"It is eliminated 85% in the kidneys, so contraindicated in renal failure"
+Why are atracurium and cisatracurium so consistent in their durations among differing populations?,Becuase they have non-organ-dependent elimination (Hoffman's)
+Vecuronium's action is prolonged with _______ disease?,Liver
+Pancuronium's action is prolonged with _______ disease?,Renal
+How are succinylcholine and mivacurium metabolized?,Plasma Cholinesterase
+The amount of histamine released by atracurium and mivacurium is dependent on what two things?,Dose and Speed of injection
+"In order to prophylactically treat drug-induced-histamine release, which receptors must we block?",Both H1 AND H2
+What do H1 receptors do? Which drug is an H1-Antagonist?,"Increased capillary permeability
 Bronchoconstriction
 Intestinal contraction
 Negative dromotropic effects
 Example: Benadryl"
-"What do H2 receptors do? Which drug is an H2-Antagonist?","Increase gastric acid production
+What do H2 receptors do? Which drug is an H2-Antagonist?,"Increase gastric acid production
 Systemic and cerebral vasodilation
 Positive inotropic effects
 Positive chronotropic effects
 Example: Famotidine"
-"Atracurium and mivacurium both cause histamine release, what does this do to the cardiovascular system?","Causes tachycardia and hypotension"
-"How does pancuronium affect the cardiovascular system?","It causes catecholamine release - it indirectly causes a sympathomimetic response because it is vagolytic effect"
-"How does succinylcholine affect the cardiovascular system?","First dose produces tachycardia and arrhythmias
+"Atracurium and mivacurium both cause histamine release, what does this do to the cardiovascular system?",Causes tachycardia and hypotension
+How does pancuronium affect the cardiovascular system?,It causes catecholamine release - it indirectly causes a sympathomimetic response because it is vagolytic effect
+How does succinylcholine affect the cardiovascular system?,"First dose produces tachycardia and arrhythmias
 Repeat dosing may cause sudden bradycardia"
-"What drugs can prolong paralytics?","AMINOGLYCOSIDE ABX (-mycin)
+What drugs can prolong paralytics?,"AMINOGLYCOSIDE ABX (-mycin)
 PCN
 Antihypertensives
 Antidysrhythmics
@@ -735,8 +736,8 @@ VA's
 Dantrolene
 Mg
 Lithium"
-"How do aminoglycoside abx prolong paralytics?","They bind to calcium, which causes muscle relaxation"
-"Intubating dose of drugs is usually _______ the ED95?","3x"
+How do aminoglycoside abx prolong paralytics?,"They bind to calcium, which causes muscle relaxation"
+Intubating dose of drugs is usually _______ the ED95?,3x
 "Pancuronium: ED95, Intubating Dose, Onset, Duration","ED95: 0.05
 Intubation: 0.8-1.8 
 Onset: 2-4min
@@ -765,18 +766,18 @@ DOA: 20-40"
 Intubation: 1-1.5
 Onset: 30-60sec
 DOA: 5-15min"
-"Why do muscle relaxants have such predictable onsets and durations?","Because they are extremely hydrophilic so their properties do not change drastically in various patient populations"
-"What are some signs of RESIDUAL neuromuscular blockade?","Asynchronus breathing, flapping extremities"
-"What do NMBDs do to airway upper airway volumes and airway flow?","Decrease them"
-"What is your TOF goal during surgery?","1/4 or 2/4 Twitches or 80-90% Blockade"
-"What metabolic derangements can make it harder to reverse NMBDs?","Acidosis, hypercarbia, hypoxia, hypothermia"
-"What PACU drugs can be additive to NMBDs and therefore make reversal difficult?","Opioids and aminoglycoside abx"
-"What are some patient factors putting patients at higher risk for residual NMB?","Elderly, renal or hepatic disease, NM disorders, anti-seizure meds, gender"
-"What are some intraoperative factors putting patients at higher risk for residual NMB?","Long acting paralytics, qualitative (vs. quantitative) monitoring, TOF 1-2 deep (vs. TOF 3-4 light), inhalation anesthesia (vs. IV)"
-"What metabolic derangements put patients at higher risk for residual NMB?","Respiratory Acidosis
+Why do muscle relaxants have such predictable onsets and durations?,Because they are extremely hydrophilic so their properties do not change drastically in various patient populations
+What are some signs of RESIDUAL neuromuscular blockade?,"Asynchronus breathing, flapping extremities"
+What do NMBDs do to airway upper airway volumes and airway flow?,Decrease them
+What is your TOF goal during surgery?,1/4 or 2/4 Twitches or 80-90% Blockade
+What metabolic derangements can make it harder to reverse NMBDs?,"Acidosis, hypercarbia, hypoxia, hypothermia"
+What PACU drugs can be additive to NMBDs and therefore make reversal difficult?,Opioids and aminoglycoside abx
+What are some patient factors putting patients at higher risk for residual NMB?,"Elderly, renal or hepatic disease, NM disorders, anti-seizure meds, gender"
+What are some intraoperative factors putting patients at higher risk for residual NMB?,"Long acting paralytics, qualitative (vs. quantitative) monitoring, TOF 1-2 deep (vs. TOF 3-4 light), inhalation anesthesia (vs. IV)"
+What metabolic derangements put patients at higher risk for residual NMB?,"Respiratory Acidosis
 Metabolic Alkalosis
 Hypothermia"
-"If it has been less than ________ since you gave your relaxant, you should give at least a small dose of Neostigmine, even if recovery appears adequate","4 hours"
+"If it has been less than ________ since you gave your relaxant, you should give at least a small dose of Neostigmine, even if recovery appears adequate",4 hours
 "Neostigmine: Dose, Onset, Duration, Adverse effects, Max","Dose: 25-75 mcg/kg (.025-0.075mg/kg)
 Onset: 5-15min
 Duration: 45-90min
@@ -800,26 +801,26 @@ Onset: 2 min
 Duration: 2-4 hour
 AE: dry mouth, no CNS effects
 Often administered with Neostigmine"
-"Sugammadex","Dose: 2-8mg/kg
+Sugammadex,"Dose: 2-8mg/kg
 Onset: 1-2min
 Duration: 2-16 hour
 AE: ONLY reverses steroidals (-oniums)"
-"How does neostigmine work?","It is an alternate substrate, it acts like ACh. AChE is busy breaking down neostigmine SLOWLY, it can't break down ACh. This allows ACh to build up in the synapse, and eventually take the place of the paralytic at the receptors due to the law of mass action"
-"Why can't you use Edrophonium for deep blocks?","It does not have 100% efficacy"
-"Why are the max doses of the reversal agents relevant?","Because at the max dose, 100% inhibition of AChE occurs. Anything above this dose will only increase side effects. If the max dose doesn't work, the reversal isn't the issue!"
-"Why do we give glycopyrrolate with neostigmine?","Neostigmine allows ACh to build up EVERYWHERE, including muscarinic receptors in the parasympathetic nervous system - this will cause a vagal effect (bradycardia, increased GI motility, bronchoconstriction)
+How does neostigmine work?,"It is an alternate substrate, it acts like ACh. AChE is busy breaking down neostigmine SLOWLY, it can't break down ACh. This allows ACh to build up in the synapse, and eventually take the place of the paralytic at the receptors due to the law of mass action"
+Why can't you use Edrophonium for deep blocks?,It does not have 100% efficacy
+Why are the max doses of the reversal agents relevant?,"Because at the max dose, 100% inhibition of AChE occurs. Anything above this dose will only increase side effects. If the max dose doesn't work, the reversal isn't the issue!"
+Why do we give glycopyrrolate with neostigmine?,"Neostigmine allows ACh to build up EVERYWHERE, including muscarinic receptors in the parasympathetic nervous system - this will cause a vagal effect (bradycardia, increased GI motility, bronchoconstriction)
 Glyco will counteract the vagal effect at the muscarinic receptors (anti-cholinergics should really be called anti-muscarinics!)"
-"What type of drug is Sugammadex? How does it work?","It is a Selective Relaxant Binding Agent (SRBA) - also called an extended cyclodextrin
+What type of drug is Sugammadex? How does it work?,"It is a Selective Relaxant Binding Agent (SRBA) - also called an extended cyclodextrin
 It works by irreversibly binding to steroidal relaxants, forming a water-soluble complex that is then excreted renally"
-"What is an emergent dose of Sugammadex? When is this indicated?","16mg/kg
+What is an emergent dose of Sugammadex? When is this indicated?,"16mg/kg
 Cannot intubate, Cannot ventilate scenario!"
-"If a patient has a deep block (TOF 1-2) what is an appropriate dose of Sugammadex?","4mg/kg"
-"What is the most common dose of sugammadex?","2mg/kg"
-"What is the dose of sugammadex used for a TOFR= 0.5","0.22mg/kg"
+If a patient has a deep block (TOF 1-2) what is an appropriate dose of Sugammadex?,4mg/kg
+What is the most common dose of sugammadex?,2mg/kg
+What is the dose of sugammadex used for a TOFR= 0.5,0.22mg/kg
 "What is the clearance, Vd, and HL of Sugammadex?","Clearance=120ml/min
 Vd=18L (water soluble)
 HL: 2.3hours (80% eliminated within 24 hrs)"
-"What are the adverse effects of sugammadex?","Dry mouth
+What are the adverse effects of sugammadex?,"Dry mouth
 N/V
 Coughing
 Hypotension
@@ -828,20 +829,20 @@ hyperkalemia
 chills/temp changing sensation
 Acetylglucosamanidase in urine"
 "If somebody is allergy to sugammadex, what symptoms will they have?","Flushing, tachycardia, erythematous rash"
-"What are the drug interactions to be cautious of with sugammadex?","Binds to both steroids and oral contraceptives
+What are the drug interactions to be cautious of with sugammadex?,"Binds to both steroids and oral contraceptives
 Patient must use protection for 30 days after receiving sugammadex"
 "There are 2 populations of nicotinic receptors at the NMJ, which do non-depolarizing NMBs work on and which do succinylcholine work on?","ND-NMBD compete with ACh for post-synaptic alpha subunits
 Succ produces depolarization, therefore decreasing the sensitivity of post-synaptic nicotinic ACh receptors and inactivation of Na channels"
-"Decreased response to a single twitch is caused by blockade of _______ nicotinic ACh receptors?","Post-synaptic"
-"Fade in response to TOF is caused by blockade of _______ nicotinic ACh receptors?","Pre-synaptic"
-"Why does Succ have rapid onset and ultrashort duration of action?","Rapid hydrolysis by plasma cholinesterase (butyrylcholinesterase)"
-"Speed of onset is ________ proportional to the potency of the NMBD? Why?","Inversely
+Decreased response to a single twitch is caused by blockade of _______ nicotinic ACh receptors?,Post-synaptic
+Fade in response to TOF is caused by blockade of _______ nicotinic ACh receptors?,Pre-synaptic
+Why does Succ have rapid onset and ultrashort duration of action?,Rapid hydrolysis by plasma cholinesterase (butyrylcholinesterase)
+Speed of onset is ________ proportional to the potency of the NMBD? Why?,"Inversely
 More potent = giving less = fewer molecules present = takes longer for molecules to circulate"
-"NMBD onsets and offset is ______ in centrally located compartments, as compared to peripherally located ones.","Faster"
-"Why do intermidiate acting NMBDs have more rapid clearance than long acting ones?","Long acting NMBDs are cleared mostly unchanged by the kidneys. 
+"NMBD onsets and offset is ______ in centrally located compartments, as compared to peripherally located ones.",Faster
+Why do intermidiate acting NMBDs have more rapid clearance than long acting ones?,"Long acting NMBDs are cleared mostly unchanged by the kidneys. 
 Intermediate acting NMBDs have multiple pathways of clearance and elimination, making them clear faster"
-"If myalgia is a concern or the patient is very muscular, what can you do when giving succ to prevent fasciculation?","Give small dose of intermediate acting ND-NMBD"
-"How fast can a high dose (RSI) of Roc create intubating conditions?","60 seconds"
+"If myalgia is a concern or the patient is very muscular, what can you do when giving succ to prevent fasciculation?",Give small dose of intermediate acting ND-NMBD
+How fast can a high dose (RSI) of Roc create intubating conditions?,60 seconds
 "If a patient comes in with open eye surgery requiring RSI, can you give Succ?","Yes! But it will increase the IOP. Give propofol first to decrease it, then succinylcholine."
-"What class of drugs prolong succinylcholine due to their anticholinesterase activity in the brain?","Alzheimer's Drugs: Donepezil, Rivastigmine, Galantamine, Tacrine"
-"What is phsyostigmine and how does it work?","An anticholinesterase that CAN pass the BBB, unlike neostigmine - it increases ACh in the brain, creating a stimulatory effect"
+What class of drugs prolong succinylcholine due to their anticholinesterase activity in the brain?,"Alzheimer's Drugs: Donepezil, Rivastigmine, Galantamine, Tacrine"
+What is phsyostigmine and how does it work?,"An anticholinesterase that CAN pass the BBB, unlike neostigmine - it increases ACh in the brain, creating a stimulatory effect"

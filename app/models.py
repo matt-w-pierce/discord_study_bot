@@ -1,5 +1,5 @@
 from . import db
-from datetime import datetime
+from datetime import datetime, date
 
 
 class Question(db.Model):
@@ -8,14 +8,14 @@ class Question(db.Model):
     set_name = db.Column(db.String(128), nullable=False)
     prompt = db.Column(db.Text, nullable=False)
     answer = db.Column(db.Text, nullable=False)
-    last_asked = db.Column(db.DateTime, default=datetime.now())
+    last_asked = db.Column(db.DateTime, default=date(1900, 1, 1))
 
     @staticmethod
     def from_dict(d):
         set_name = d['set_name']
         prompt = d['prompt']
         answer = d['answer']
-        new_q = Question(set_name=set_name, prompt=prompt, answer=answer, last_asked=datetime.now())
+        new_q = Question(set_name=set_name, prompt=prompt, answer=answer, last_asked=date(1900, 1, 1))
         return new_q
 
     def to_dict(self):
