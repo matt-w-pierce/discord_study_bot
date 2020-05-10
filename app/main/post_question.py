@@ -7,10 +7,12 @@ from ..models import Question
 test_url = 'https://discordapp.com/api/webhooks/702270009887555657/mytFno51Sq4fx0wvKyr22S8EwpSOFmLxyEUasKLoOnGoKurhWduq7uqRDpHBlNtMtL1C'
 ap_url = 'https://discordapp.com/api/webhooks/702887067625062451/ERkWP2WnZ9VHrXvi0jwyDQIMur_5teoU4kVESBh863wGffsDeQMc0Sqf2sw8mixFsrmm'
 pharm_url = 'https://discordapp.com/api/webhooks/703048422231375903/Q3dq_CWinB7KGGbCI9fNRtw6S2VNDqf404gebUQVv4Idw_M60kRTq-1hzhGMQs5n3OYN'
+anat_url = 'https://discord.com/api/webhooks/703048779632476240/tRHSEwV9B_BcopXa69-vImpzvVSavBLlvFNcHiO_S_2uRd2jalSOL0MHz2zFUMuYrZFt'
 
 
 @scheduler.task(trigger='cron', id='post_ap_hour', hour='8-20/2', args=['Anesthesia Principles I', ap_url])
-@scheduler.task(trigger='cron', id='post_pharm_halfhour', minute='*/30', args=['Nagelhout Pharmacology II', pharm_url])
+@scheduler.task(trigger='cron', id='post_pharm_hour', hour='8-20/2', args=['Nagelhout Pharmacology II', pharm_url])
+@scheduler.task(trigger='cron', id='post_anat_hour', hour='8-20/2', args=['Intro and Back Anatomy', anat_url])
 def post_question(set_name, hook_url):
     with scheduler.app.app_context():
 
