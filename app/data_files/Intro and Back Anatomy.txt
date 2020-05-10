@@ -1,0 +1,682 @@
+"Anatomy is the branch of knowledge concerned with _____________ .","structure or morphology"
+"2 methods of study of the human body","Regional
+Systemic"
+"12 body systems","Articular 
+Circulatory
+Digestive
+Endocrine
+Integumentary
+Lymphatic
+Muscular
+Nervous
+Reproductive
+Respiratory
+Skeletal
+Urinary"
+"8 regions of the body","Head
+Neck
+Thorax (chest)
+Abdomen (belly)
+Pelvis
+Back (posterior thorax, abd, pelvis)
+trunk (thorax, abd, pelvis, back)
+Upper limb/extremity
+Lower limb/extremity"
+"5 criteria for anatomical position","1. Body longitudinal
+2. Upper limbs by sides
+3. Eyes directed forward
+4. Palms directed forward
+5. toes directed forward"
+"Which plane divides the body into equal right and left halves, vertically?","Median (Midsagittal)"
+"Which plane divides the body into unequal right and left parts, vertically? How many of these planes can exist?","Sagittal; Infinity"
+"Which plane divides the body into front and back parts?","Frontal (Coronal)"
+"Which plane divides the body into upper and lower parts?","Transverse"
+"Which plane runs parallel to the median plane?","Sagittal"
+"Which plane runs vertical and perpendicular to the median plane?","Frontal"
+"Which plane runs perpendicular to both the median and the frontal planes?","Transverse"
+"Medial vs. Lateral","Medial: nearer to midline 
+Lateral: farther from midline"
+"Anterior vs. Posterior (secondary names and definition)","Anterior: ventral - near the front
+Posterior: dorsal - near the back"
+"Superior vs. Inferior (secondary names and definition)","Superior: cephalad - near the head
+Inferior: caudal - near the tail"
+"Proximal vs. Distal","Proximal: nearer to attached end or origin
+Distal: farther from attached end or origin"
+"Internal vs. External","Internal: nearer to center of organ or cavity
+External: farther from center or organ or cavity"
+"Superficial vs. Deep","Superficial: nearer to surface of body
+Deep: farther from surface of body"
+"Supine position","Lying on back, belly upward"
+"Prone position","Lying on front, back upward"
+"What is the smallest unit of living matter?","Cell"
+"Cytology","Study of cells"
+"Tissue","Collection of cells of similar structure and function"
+"Histology","Study of tissues"
+"Collection of one or more tissues that can perform a function is called an ________?","Organ"
+"Organ system","One or more organs that act together"
+"Body is composed of _________ organ systems?","12"
+"Gross anatomy vs. Microanatomy","GA is seen with unaided eye, whereas MA must be seen with a microscope"
+"Organization of body","Cells < Tissues < Organs < Organ Systems < Body"
+"Which organ system functions to protect the body by purifying fluid and contains white blood cells?","Lymphatic"
+"Which body system secretes chemicals that serve as messengers between body parts and maintains proper function of reproductive organs?","Endocrine"
+"The liver, gallbladder, and pancreas are part of which body system?","Digestive"
+"Which 3 body systems are responsible for movement of the body?","Skeletal, Muscular, and Articular"
+"Which body system rids the body of nitrogenous waste and helps regulate the fluid level and chemical content of the blood?","Urinary"
+"Which body system removes waste molecules that are excreted from the body?","Circulatory"
+"Which body system provides support and protection for underlying tissues, helps regulate body temperature, and contains receptors?","Integumentary"
+"How many intervertebral discs are there in the human body?","23"
+"Articulations between vertebral bodies (i.e. discs) connect the ______ surface of the superjacent vertebral body to the _________ surface of the infrajacent vertebral body","Inferior; Superior"
+"Intervertebral discs are classified as which type of joint?","Fibrocartilagenous"
+"Intervertebral discs account for what percent of the entire length of the vertebral column?","25%"
+"The superior most intervertebral disc lies between the _____ and the ________ .","Axis (C2); CV3"
+"The inferior most intervertebral disc lies between ______ and the ________ .","LV5; Sacrum"
+"Discs are named and numbered according to the vertebrae in which they lie ________.","Below"
+"In which regions do intervertebral discs tend to be higher anteriorly than posteriorly?","Cervical and Lumbar"
+"When discs are ________ anteriorly than posteriorly, it results in secondary curvature.","Higher"
+"Secondary curvature can also be defined as being concave __________ .","Posteriorly"
+"In which region are the discs about the same height measured anteriorly and posteriorly?","Thoracic"
+"What forms the periphery of the disc (outer portion) and is composed of fibrocartilage in which collagen fiber component predominates?","Anulus Fibrosus"
+"In the anulus fibrosus, ________ are arranged primarily in _______ rings.","Collagen Fibers; Concentric"
+"Fibers of each lamella run ______ to adjacent lamella, resulting in additional strength.","Obliquely"
+"Internal fibers of the anulus fibrosus blend with the _________ , whereas external fibers blend with the __________ .","Nucleus Pulposus; Longitudinal Ligaments"
+"Is the anulus fibrosus thicker anteriorly or posteriorly?","Anteriorly"
+"Is the nucleus pulposus concentrically or eccentrically placed?","Eccentrically"
+"Is it more common fo the nucleus pulposus to protrude anteriorly or posteriorly after damage to the anulus fibrosus?","Posteriorly"
+"Functions of the Anulus Fibrosis","1. Binding together of vertebral bodies
+2. Joint Stability
+3. Movement between two adjacent vertebrae 
+4. Retention of the Nucleus Pulposus"
+"What forms the center of the intervertebral disc?","Nucleus Pulposus"
+"The typical nucleus pulposus consists of what percent water?","80%"
+"The percentage water of the nucleus pulposus of the fetus is _________ than that of the elderly (88% vs 70%)","Greater"
+"What contributes to shortened stature as one ages across the lifespan?","Disc Dehydration"
+"Despite popular belief, the nucleus pulposus is _________ because of its high water content. Compression causes flattening and consequent peripheral bulging of the __________ .","Incompressible; Anulus Fibrosus"
+"Both the articulations between vertebral bodies and those between articular processes are supported by ______ .","Ligaments"
+"A broad, thick ligament that courses along the anterior-lateral surfaces of the vertebral column","Anterior Longitudinal Ligament"
+"The anterior longitudinal ligament extends from the base of the _______ to the ________ .","Occipital Bone; Sacrum"
+"The anterior longitudinal ligament fuses with the _________ of vertebral bodies and the outer lamella of the anterior part of the __________ .","Periosteum; Anulus Fibrosus"
+"What ligament lies on the posterior surfaces of the vertebral bodies and intervertebral discs?","Posterior Longitudinal Ligament"
+"The anterior longitudinal ligament tends to resist _______ as the body weight attempts to increase _________ curvature in the _______ region.","Extension; Secondary; Lumbar"
+"The posterior longitudinal ligament ________ when passing over the vertebral bodies (loosely attached) and __________ when passing over intervertebral discs, giving it distinctive repeating hourglass shape","Narrows; Widens"
+"The posterior longitudinal ligament lies ________ to the vertebral bodies while creating the _______ border of the vertebral canal (spinal cord and meninges)","Posterior; Anterior"
+"The posterior longitudinal ligament extends from the body of the ________ down to the ________ .","Axis (C2); Sacrum"
+"The upper end of the posterior longitudinal ligament is directly continuous with the ________ .","Membrana Tectoria"
+"The posterior longitudinal ligament tends to resist _______ as the body weight attempts to increase _________ curvature in the _________ region (i.e. Kyphosis)","Flexion; Primary; Thoracic"
+"Often referred to as the yellow ligament due to its many elastic fibers
+"Connects lamina to lamina to lamina"","Ligamentum Flavum"
+"The ligamentum flavum extends from the ________ portion of the lamina _________ , to the _________ portion of the lamina _________ .","Anterior; Above; Posterior; Below"
+"Is the ligamentum flavum a continuous sheath or comprised of separate segments?","Separate"
+"In what region is the ligamentum flavum the thickest?","Lumbar"
+"Which thin, strong ligament interconnects the tips of the spinous processes?","Supraspinous Ligament"
+"The supraspinous ligament extends from the _______ down to the _________ .","Axis (C2); Sacrum"
+"Supraspinous ligaments above _______ are referred to as _________ (Neck).","CV7; Ligamentum Nuchae"
+"What is the thin membrane that fills the intervals BETWEEN spine to spine and from the deep ligamentum flavum to the supraspinal ligaments superficially?","Interspinous Ligament"
+"The ________ lies anterior to the interspinous ligaments, whereas the ________ lies posterior to the interspinous ligament.","Ligamentum Flavum; Supraspinal Ligaments"
+"Interspinous ligaments are poorly developed in the _________ region.","Cervical"
+"Which ligaments lie between adjacent transverse processes?","Intertransverse Ligaments"
+"Define the area of cell bodies with their associated neuron parts within the CNS","Grey Matter"
+"Gray matter contains enlargements known as the dorsal and ventral ________ .","Horns"
+"Dorsal horns are primarily ________ , whereas ventral horns are primarily ________ .","Sensory; Motor"
+"Define the area of primarily myelinated axons within the CNS","White Matter"
+"Columns of nerve bundles in white matter containing tracts that course up and down, to and from the brain are known as what?
+(Examples: spinothalamic or corticospinal tract)","Funiculi"
+"Which tract is responsible for voluntary movement?","Corticospinal"
+"Which nerve root arises from the back surface of the spinal cord and exists in the PNS?","Dorsal Root"
+"The dorsal root contains _______ neurons only!","Sensory"
+"An enlarged portion of the dorsal root defined as an area of sensory neuronal cell bodies OUTSIDE of the CNS","Dorsal Root Ganglion"
+"Which nerve root arises from the ventral surface of the spinal cord as part of the PNS?","Ventral Root"
+"The ventral root contains axons of _______ neurons only!","Motor"
+"The ________ root joins with the ________ root to form the spinal nerve.","Ventral; Dorsal"
+"What structure divides into the ventral and dorsal rami?","Spinal Nerve"
+"Supplies innervation to the entire ANTERIOR trunk as well as the appendages (upper and lower); Contains both sensory AND motor neurons","Ventral Ramus"
+"Supplies innervation to structures of the BACK and contains both sensory AND motor neurons","Dorsal Ramus"
+"The dorsal ramus is _______ than the ventral ramus.","Smaller"
+"_________ contain specific function neurons (sensory OR motor) whereas _______ contain both sensory AND motor neurons, but differ instead based on the location they supply!","Roots; Rami"
+"Sensory neuron cell bodies reside in the _______ root ganglion and are also known as ______ neurons.","Dorsal; Afferent"
+"Which nerves deliver signals from the PNS to CNS?","Afferent Nerves"
+"Which nerves are often shown synapsing with motor neuron, crossing over to other side of spinal cord, leaving grey matter, entering white matter, and beginning to ascend through the cord?","Interneurons"
+"Motor neuron cell bodies reside in the _______ matter of the spinal cord (ventral horn), and its axon passes though the white matter into the ________ root to the dorsal OR ventral ramus.","Gray; Ventral"
+"Motor neurons are also known as _______ neurons.","Efferent"
+"Which nerves deliver signals from the CNS to the PNS?","Efferent Nerves"
+"The body contains the largest number of _________ neurons.","Interneurons"
+"If a patient complains of PAIN in their back, the impulse is entering through the _________ ramus (Location of Back), where the sensory neuron passes through the spinal nerve and finally through the ________ root (Sensory/Motor)","Dorsal; Dorsal"
+"If a patient is GRABBING their back, the impulse courses through the _______ neuron (Sensory/Motor) to the spinal nerve and exits through the ___________ ramus (Location of Arm)","Ventral; Ventral"
+"Step on a Bee = Pain in foot!
+Sensory neuron will pass through the ________ ramus (Location of Foot) through the spinal nerve and past the ________ root (Sensory/Motor)","Ventral; Dosal"
+"Tense Back = Motor in Foot
+Motor neuron passes though the _______ root (Sensory/Motor) to the spinal nerve through the _______ ramus (Location of Back)","Ventral; Dorsal"
+"The spinal cord is a long cylindrical mass of nervous tissue that occupies the upper _________ of the vertebral canal.","2/3"
+"By injecting local anesthetic into the subarachnoid space during a spinal, you are blocking both ________ and _______ roots / ganglion to produce both motor AND sensory inhibition","Dorsal; Ventral"
+"The ________ root & ganglion are targeted with an epidural to inhibit the sensation of pain but NOT effect motor ability","Dorsal"
+"The spinal cord is connected to the ________ superiorly, and extends inferiorly to the level of _________ .","Brain; LV2"
+"What do we call thee lower end of the cord that is conical in shape?","Conus Medullaris"
+"At what level does the conus medullaris begin?","L2"
+"The cervical enlargement is located from the ________ to ________ spinal segments.","C5-T1"
+"In which two regions does the spinal cord present enlargements? 
+(Hint: its where the cell bodies of neurons for upper and lower limbs are located)","Cervical and Lumbar"
+"The lubosacral enlargement is located from the _________ to _________ spinal segments.","L2-S3"
+"What occupies the vertebral column below the vertebral level of LV2","Cauda Equina"
+"What descends in a bundle from the conus medullaris and anchors the spinal cord?","Filum Terminale"
+"Because of the difference in length of the spinal cord and the vertebral canal, the level of attachment of the spinal root to the cord is _______ than the level of emergence of the spinal nerve.","Higher"
+"Does bone or nervous tissue grow faster? This causes lengthening of nerve root.","Bone"
+"The dorsal and ventral root join to form the _______ .","Spinal Nerve"
+"How many PAIRS of spinal nerves are there? (or flavors at Baskin Robins)","31"
+"The first pair of spinal nerves (C1) emerge between the ________ and the _______ .","Atlas; Skull"
+"The C2-C7 nerves emerge ______ the corresponding numbered vertebrae.","Above"
+"The C8 pair emerges _____ CV7.","Below"
+"There are ________ cervical vertebrae, but ________ cervical spinal nerves","7; 8"
+"The remaining spinal nerves (T1-Cx1) emerge _______ the correspondingly numbered vertebrae","Below"
+"How many pairs of cervical spinal nerves are there?","8"
+"How many pairs of thoracic spinal nerves are there?","12"
+"How many pairs of Lumbar spinal nerves are there?","5"
+"How many pairs of Sacral spinal nerves are there?","5"
+"How many pairs of coccygeal spinal nerves are there?","1"
+"Which spinal nerve can be found exiting just superior to SV3?","S2"
+"Which spinal nerve can be found exiting just inferior to T10?","T10"
+"Which spinal nerve emerges just superior to the vertebra prominens?","C7"
+"Arteries supplying the spinal cord include ONE _________ spinal artery and TWO _______ spinal arteries.","Anterior; Posterior"
+"In which meningeal layer do the vertebral arteries exist?","Subarachnoid Space"
+"A blockage in the _________ spinal artery would be more concerning when compared to its counterpart.","Anterior"
+"The 3 protective layers of connective tissue surrounding the brain and spinal cord are known as _______ .","Meninges"
+"From external to internal , the meninges consist of ______ , _________ , and _________ mater.","Dura; Arachnoid; Pia"
+"Outermost meninx composed of dense, tough fibrous connective tissue","Dura"
+"The dura of the spinal cord extends from the _________ where it is continuous with dura mater of the brain, down to the _________ .","Foramen Magnum; Dural Sac"
+"At which level is the dural sac?","SV2"
+"What is the inferior-most attachment of the dural sac.","Filum"
+"The space external to the spinal dura mater is termed the _______ space.","Epidural"
+"This Maize-and-Blue space contains adipose tissue in the form of fat globules and the vertebral venous plexus","Epidural"
+"Connect SUPERIORLY with the dural sinuses of the cranial cavity and are often referred to as Batson's veins","Vertebral Venous Plexus"
+"What prenatal vitamin can help prevent spina bifida?","Folic Acid"
+"Batson's veins communicate with veins external to the vertebrae via _________ .","Intervertebral Veins"
+"Intermediate Meninx that is a delicate, loose, netlike membrane that surrounds the brain","Arachnoid"
+"Arachnoid mater surrounds the ________ and extends to _______ .","Brain; SV2"
+"Which space exists between the pia and arachnoid mater and contains CSF?","Subarachnoid"
+"Innermost layer of the meninges and consists of delicate connective tissue that adheres TO SURFACE of brain and spinal cord","Pia"
+"Extension of the pia mater that forms series of toothlike lateral extensions from the lateral surface of the spinal cord","Denticulate Ligament"
+"The denticulate ligament is made up of ________ mater and separate the ventral roots of the spinal nerves from dorsal roots","Pia"
+"Extension of pia mater that attaches inferiorly at the coccyx; 
+Silver band that anchors inferiorly to dura-arachnoid","Filum Terminale"
+"What structures does the integumentary system contain?","Skin (epidermis and dermis) and underlying subcutaneous tissue"
+"What is the largest organ in the body? What % of total body weight does it comprise?","Skin; 15%"
+"5 functions of skin","1. Protection 
+2. Sensory receptors
+3. Regulation of body temperature
+4. Water excretion
+5. Formation of vitamin D"
+"Skin protects underlying structures from what things?","1. UV light
+2. Water
+3. Bacteria
+4. Radiation"
+"2 methods the skin uses to regulate body temperature","Erect hairs
+Sweat"
+"Where is the thickest skin on the body and how thick is it?","Back; 1/2cm"
+"Where is the thinnest skin on the body and how thin is it?","Eyelid; 1/2mm"
+"What is the outermost layer of the skin?","Epidermis"
+"What is the epidermis made of?","Stratified squamous keratinized epithelium"
+"Does the epidermis contain blood vessels? What about nerves?","Avascular; Does contain nerves"
+"How long does it take skin cells to go from birth to sloughing?","30 days"
+"What layer of the skin is constantly regenerating?","Epithelial cells of the Epidermis"
+"When cells deep in the epidermis undergo mitosis and migrate to the outer layer, what do they convert to before they are sloughed off?","Keratin"
+"What kind of cells produce melanin? where do they reside?","Melanocytes; Deeper layers of epidermis"
+"Melanin is responsible for the pigment that protects skin from ______?","UV light"
+"What forms fingerprints and toe prints?","Papillary ridges made of thick keratin"
+"What lies deep to the epidermis?","Dermis"
+"What is the dermis composed of?","Dense irregular connective tissue"
+"What % of skin thickness is made up of the dermis and epidermis, respectively?","80/20"
+"Does the dermis contain blood vessels? nerves?","Yes; Both"
+"Collagen fibers, sweat glands, and hair follicles lie in what layer of the skin?","Dermis"
+"What lies deep to the dermis?","Subcutaneous tissue"
+"What is subcutaneous tissue made of?","Loose connective tissue and adipose cells"
+"Does subcutaneous tissue contain blood vessels? what about nerves?","Yes; Both"
+"Adipose tissue is more prevalent in which gender?","Females"
+"Name 5 associated structures of the integumentary system","1. Hair follicles
+2. Sweat glands
+3. Sebaceous glands
+4. Arrector pilorum muscles 
+ 5. Nails"
+"Hair follicles are derived from what layer of the skin?","Epidermis"
+"Hairs are formed by what kind of cells?","Follicle cells undergoing mitosis"
+"What happens when a follicle becomes inactive?","Hair it produces becomes lost"
+"Oil-producing glands resulting from disintegration of gland cells are called ___________ .","Sebaceous glands"
+"What is the substance that is secreted by sebaceous glands into the neck of the hair follicle?","Sebum"
+"Smooth muscles responsible for making your hair stand up when it's cold","Arrector pilorum muscles"
+"Arrector pilorum muscles are connected to _________ and the _________ junction.","Hair Follicles; Epidermal-dermal"
+"What function does it serve when your hair stands up in the cold?","Traps a layer of air within the hairs, causing insulation"
+"Integumentary glands that secrete NaCl into the pores are known as _________ .","Sweat Glands"
+"The secretion part of sweat glands lies in the ________ layer of the skin, whereas the ducts pass though the _________ and open at ___________ .","Dermis; Epidermis; Pores"
+"Sweat cools the body via the process of ___________ .","Evaporation"
+"What are nails made of?","Hard Keratin"
+"Skeletal system is composed of what two things?","Bones and Cartilage"
+"5 functions of skeletal system","1. Support 
+2. Attachment for skeletal muscles
+3. Protect vital organs
+4. Hemopoeisis
+5. Storage of certain chemical substances (Ca/phos)"
+"4 types of bone","Long, Short, Flat, Irregular"
+"How is a bone defined if the length exceeds the width?","Long Bone (i.e. Humerus)"
+"Long bones, by definition, contain a __________ .","Medullary (Marrow) Canal"
+"How is a bone defined if the length equals width?","Short Bone (i.e. Carpal)"
+"How is a bone defined if the mass is expanded into one plane?","Flat Bone (i.e. Scapula)"
+"If a bone does not fit into any defined categories, it is referred to as a ___________ . An example of this is the ________ .","Irregular Bone; Vertebrae"
+"Which division of the skeleton occupies the central axis of the body? How many bones does it contain?","Axial; 80"
+"Skull and hyoid is part of which skeleton? How many bones does it contain?","Axial; 23"
+"Vertebral column is part of which skeleton? How many bones does it contain after fusion? Before fusion?","Axial; 26; 33"
+"Ribs and sternum are part of which skeleton? How many bones do they contain?","Axial; 25"
+"Bones of the middle ear are part of which skeleton? How many are there?","Axial; 6"
+"Which skeleton comprises the appendages? How many bones does it contain?","Appendicular; 126"
+"How many bones are considered bones of the upper limb?","64"
+"How many carpal bones are there?","8"
+"How many metacarpal (palm) bones are there?","5"
+"How many phalanges (fingers) are there?","14"
+"How many bones are considered part of the lower limb?","62"
+"How many tarsal (ankle) bones are there?","7"
+"How many metatarsal bones are there?","5"
+"How many phalanges are there in the lower limb?","14"
+"How many named bones are there?","206"
+"What 2 bones exist outside of the 206 named bones? Examples?","Sesamoid bone in tendons - patella
+ectopic bone - pathological"
+"Define the two ends of a long bone that are wider than the shaft and take part in the formation of a joint","Epiphysis"
+"Define the shaft of a long bone","Diaphysis"
+"Bone laid down in concentric layers, forms the outer surface of all bones and is found in the diaphysis","Compact Bone"
+"Thin plates of bone that meet other plates of bone at various angles, found in the epiphysis and metaphysis","Spongy Bone"
+"Connective tissue sheath of bones","Periosteum"
+"What is the outer layer of the periosteum made of and what is its function?","Tough Fibrous layer
+Place of insertion for muscle tendons"
+"What is the inner layer of the periosteum made of and what is its function?","Delicate cellular layer
+Growth in DIAMETER of bone"
+"The __________ is responsible for growth in width (diameter), whereas the ___________ is responsible for growth in height.","Periosteum; Epiphyseal Disc"
+"Which thin cellular layer lines the medullary canal and destroys bone, allowing for growth in diameter of the medullary canal?","Endosteum"
+"Cavity running the length of the diaphysis","Medullary Cavity"
+"Red marrow produces ________ cells through the process of ________ .","Blood; Hemopoesis"
+"Yellow marrow is responsible for the _______ of adipose tissue.","Storage"
+"The articular cartilage covering the surface of each epiphysis is characterized as ____________ cartilage. What is its function?","Hyaline cartilage 
+Cushions joint during movement"
+"Capsule connecting two bones and COMPLETELY encircling the joint","Articular Capsule"
+"The outer layer of the articular capsule is composed of ________ tissue and is continuous with the ________ .","Fibrous; Periosteum"
+"The inner layer of the articular capsule can be defined as the ________ membrane.","Synovial"
+"Which layer of the articular capsule is very vascular?","Synovial Membrane (Inner)"
+"What is responsible for the production of synovial fluid?","Synovial Membrane"
+"What is the purpose of synovial fluid?","Lubricates the joint cavity 
+Nourishes articular cartilage"
+"Cartilaginous plate that allows for growth in length of bone is known as the _________ .","Epiphyseal Disc"
+"Spongy bone tissue located at the junction of the diaphysis and the epiphyseal disc is known as the ___________ .","Metaphysis"
+"In an adult, the metaphysis is continuous with what?","Epiphysis"
+"Tough connective tissue that is composed of cells embedded in a firm, gel-like substance is known as _________ .","Cartilage"
+"Does cartilage have nerves? Blood vessels?","No; No"
+"How does cartilage receive nutrients?","Diffusion"
+"The process of bone formation during which cartilage is replaced by bone is known as _________ .","Ossification"
+"3 types of cartilage","1. Hyaline
+2. Elastic
+3. Fibrocartilage"
+"Which type of cartilage has a glassy, translucent appearance?","Hyaline"
+"What 2 places in the body contain fibrocartilage?","Interpubic discs
+Intervertebral discs"
+"Auricle, auditory tubes, and epiglottis are all examples of which types of cartilage?","Elastic"
+"How does cartilage differ from bone?","Not as hard and more flexible"
+"What kind of cartilage is found within the embryo?","Hyaline"
+"When is the only time there will be movement at the pubic synthesis?","Childbirth"
+"What is the name for the external part of the ear?","Pinna"
+"What kind of cartilage is the pinna?","Elastic"
+"The auditory tube connects the ________ to the ___________. It is also referred to as the ____________ .","Ear; Pharynx; Pharyngotympanic Tube"
+"What prevents the bone from becoming too solid and heavy?","Endosteum"
+"The connection between components of the skeletal system is known as __________ .","Articulation"
+"The study of joints is called __________ .","Arthrology"
+"Inflammation of a joint is referred to as __________ .","Arthritis"
+"Joint classification is based on what?","The nature of the intervening tissue"
+"3 types of joints","1. Fibrous
+2. Cartilaginous
+3. Synovial"
+"A fibrous joint is held together by what?","Fibrous connective tissue"
+"A ____________ is formed by 2 bones whose articulating surfaces are serrated with interdigitations.","Suture"
+"The interdigitating borders of a suture are held together by what?","Fibrous connective tissue"
+"Where are sutures located? What is an example?","Skull; Sagittal"
+"True or False: sutures are immovable","True"
+"A ___________ is a fibrous joint in which the intervening connective tissue is greater than that found in a suture.","Syndesmosis"
+"Where are two locations you'd find a sydnesmosis?","Between two bones of arm
+Between two bones of leg"
+"What is an example of a syndesmosis?","Radio-ulnar"
+"What is the connective tissue of the radio-ulnar syndesmosis called?","Interosseous Membrane"
+"A cartilaginous joint is united by what?","Cartilage"
+"Where would you find a hyaline cartilage joint within a bone? What is this called?","Between the epiphysis and diaphysis of a growing bone; Epiphyseal Disc"
+"True or false: a hyaline cartilage joint is immovable?","True"
+"Where would you find a fibrocartilaginous joint? (2 locations)","Intervertebral discs
+Pubic symphysis"
+"True or false: a fibrocartilaginous joint is immovable?","False; Slightly Movable"
+"Which type of joint is specialized to permit free movement?","Synovial Joint"
+"The ends of articulating bones are covered in what?","Articular Cartilage"
+"Articular cartilage is what kind of cartilage?","Hyaline"
+"True or false: articular cartilage lacks both blood vessels and nerves","True"
+"Articular cartilage cannot be seen on x-ray, and is therefore explained to be _____________ .","Radiolucent"
+"Synovial fluid is derived from _______.","blood"
+"A type of movement of a synovial joint that involves slipping of one bone over another, usually with flat surfaces","Gliding Movements"
+"5 types of angular movement of a synovial joint","1. Flexion
+2. Extension
+3. Abduction
+4. Adduction
+5. Circumduction"
+"Flexion vs. Extension","Flexion: bending of a joint
+Extension: straightening of flexed joint"
+"The angle of a joint becomes more __________ during flexion.","Acute"
+"Abduction and adduction occur in what plane?","Frontal"
+"aBduction vs aDduction","aBduction: away from median
+aDduction: toward median"
+"A combination of flexion, extension, abduction, and adduction can be described as ____________ .","Circumduction"
+"Name 4 angular movements of the foot and ankle joint","1. Dorsiflexion
+2. Plantar flexion
+3. Inversion
+4. Eversion"
+"Dorsiflexion vs. Plantar Flexion","Dorsiflexion: dorsum of foot toward anterior leg
+Plantar flextion: dorsum of foot away from anterior leg"
+"Eversion vs. Inversion","Eversion: move lateral foot superiorly
+Inversion: move medial foot superiorly"
+"4 types of Rotational Movement","1. Medial
+2. Lateral
+3. Pronation
+4. Supination"
+"Medial Rotation vs. Lateral Rotation","Medial: anterior aspect of limb rotates medially
+Lateral: anterior aspect of limb rotates laterally"
+"Pronation vs. Supination","Pronation: medial rotation of forearm
+Supination: lateral rotation of forearm"
+"3 limiting factors to joint movement","1. Shape 
+2. Ligaments and capsule
+3. Muscles that act on joint"
+"How are synovial joints classified?","According to the shape of the adjoining articular surfaces"
+"A joint in which a round process of bone fits into a bony ligamentous socket, allowing rotation?","Pivot"
+"Is a pivot joint multiaxial or uniaxial?","Uniaxial"
+"A joint in which a rounded head fits into a concavity, which permits movement on several axes?","Ball and Socket"
+"Is a ball and socket joint multiaxial or uniaxial?","Multiaxial"
+"A joint that permits gliding or sliding movements?","Plane"
+"Is a plane joint multiaxial or uniaxial?","Uniaxial (usually)"
+"A joint that permits only flexion and extension","Hinge"
+"A joint in which saddle-shaped heads permit movement in two different planes?","Saddle Joint"
+"A joint that permits flexion, extension, abduction, adduction, and circumduction?","Condyloid"
+"The atlantoaxial joint is a _________ joint and permits _________ movement.","Pivot; Rotational"
+"What type of joint is the hip joint?","Ball and Socket"
+"What type of joint is the metacarpophalangeal joint?","Condyloid"
+"What type of joint is the carpometacarpal joint?","Saddle"
+"What type of joint is the elbow joint?","Hinge"
+"What type of joint is the acromioclavicular joint?","Plane"
+"Which joint contains articulating surfaces that are almost flat?","Plane"
+"Plane joint allows what types of movement?","Sliding or Gliding"
+"Which joint has articulating surfaces with one or more convex projections?","Hinge"
+"Which joint allows flexion and extension across the sagittal plane?","Hinge"
+"Hinge joints allow movement in the _________ plane.","Sagittal"
+"Which joint has articulating surfaces with rounded projections?","Pivot"
+"Which joint allows medial and lateral rotation across the longitudinal axis?","Pivot"
+"Pivot joints allow movement around the _________ axis.","Longitudinal"
+"Articulating surfaces in a condyloid joint are what shapes?","Condyloid projections"
+"Which joint allows flexion, extension, abduction, adduction, and circumduction in both the frontal and sagittal planes?","Condyloid"
+"Which joints have articulating surfaces that are reciprocally convex and concave?","Saddle"
+"Condyloid joints allow movement in the _________ and ________ planes.","Frontal; Sagittal"
+"Which joint allows flexion, extension, abduction, adduction, circumduction, AND rotation in both the fontal and sagittal planes?","Saddle"
+"Saddle joint allows movement in which two planes?","Frontal and Sagittal"
+"A saddle joint allows _________ movement, whereas a condyloid joint does not.","Rotational"
+"Which joint allows flexion, extension, abduction, adduction, circumduction, and rotation in an infinite number of planes?","Ball and Socket"
+"As degrees of freedom of movement of a joint increases, stability of that joint ___________________ ?","Decreases"
+"Small connective tissue sac lined with synovial membrane is known as a ___________ . Its job is to minimize __________ and facilitate movement.","Bursa; Friction"
+"Inflammation of a bursa","Bursitis"
+"What is a bursa lined with?","Secretory synovial membrane"
+"An elongated bursa that encloses a tendon is known as a _________ .","Synovial Sheath"
+"Where can you find a synovial sheath?","Between the tendons of the wrist and ankle and the retinacula"
+"Connective tissue structures that retain tendons are known as ___________ .","Retinacula"
+"What is an example of where a bursa is found between skin and bone?","Elbow, Knee"
+"What is an example of where a bursa is found between tendon and bone?","Ankle"
+"What is an example of where a bursa is found between muscle and bone?","Shoulder"
+"What is an example of where a bursa is found between tendons and retinacula?","Wrist and Ankle"
+"Which two types of joints are immovable?","Suture (fibrous)
+Hyaline cartilage (cartilaginous)"
+"Which two types of joints are slightly movable?","Syndesmosis (fibrous)
+Fibrocartilaginous (cartilaginous)"
+"A sagittal suture is an example of what type of joint?","Suture (fibrous)"
+"The radioulnar joint (the interosseous membrane) is an example of what type of joint?","Syndesmosis (fibrous)"
+"The epiphyseal disc is an example of what type of joint?","Hyaline cartilage (cartilaginous)"
+"The intervertebral and interpubic discs are examples of what type of joint?","Fibrocartilaginous"
+"What type of joint lies between carpal and tarsal bones?","Plane (synovial)"
+"What type of joint is in the elbow, interphalangeal areas, knees, and ankles?","Hinge (synovial)"
+"The radioulnar joint (NOT the interosseous membrane) is an example of what type of joint?","Pivot (synovial)"
+"The wrist contains what type of joint?","Condyloid (synovial)"
+"The carpometacarpal joint of the thumb is what type of joint?","Saddle (synovial)"
+"The shoulder and hip are examples of what type of joint?","Ball and Socket (synovial)"
+"Synarthroses is another name for what type of joint?","Fibrous"
+"Amphiarthroses is another name for what type of joint?","Cartilaginous"
+"Diarthroses is another name for what type of joint?","Synovial"
+"5 properties of muscle","1. Contractility
+2. Extensibility
+3. Elasticity
+4. Irritability
+5. Tonus"
+"The ability of muscle tissue to shorten or contract","Contractility"
+"The ability of muscle tissue to be extended or stretched","Extensibility"
+"The ability of muscle tissue to return to its original state","Elasticity"
+"The susceptibility of the muscle to react to external stimuli","Irritability"
+"The state in which muscle is partially contracted, can react instantly","Tonus"
+"Which two types of muscle are involuntary?","Smooth and Cardiac"
+"Muscle type that consists of long spindles thick in the center and pointed at the ends","Smooth"
+"Which type of muscle cell is multinucleated?","Skeletal"
+"Which type of muscle cell has no striations?","Smooth"
+"___________ muscle exists in the walls of internal organs and blood vessels.","Smooth"
+"When smooth muscle is circularly arranged around and organ or vessel, resulting contraction does what?","Obliterates the cavity or lumen"
+"__________ muscle cells are up to 4cm in length.","Skeletal"
+"Which muscle cell contains highly visible striations?","Skeletal"
+"The connective tissue layer that surrounds muscles is known as the _________ .","Fascia"
+"Fascia is external to the __________ , and is often fused with it.","Epimysium"
+"3 Functions of Fascia","1. Permits gliding
+2. Pathways for vessels and nerves
+3. Rich blood and nerve supply"
+"7 criteria for Muscle Classification","1. Direction
+2. Function
+3. Location
+4. Shape
+5. Size
+6. Number of heads
+7. Points of attachment"
+"Individual muscles can be described by indicating what 4 criteria?","1. Origin
+2. Insertion
+3. Action
+4. Innervation"
+"The NON-movable point of attachment is known as the _________ .","Origin"
+"Movable point of attachment is known as the _____________ .","Insertion"
+"Movement that muscles produce is known as the ___________ .","Action"
+"Nerve Supply to a specific muscle is known as the ______________ .","Innervation"
+"7 types of Muscle Attachments","1. Bone
+2. Cartilage
+3. Skin
+4. Fascia
+5. Ligament
+6. Tendon
+7. Aponeurosis"
+"Ligament attaches _______ to _______ .","Bone; Bone"
+"Tendon attaches ______ to _______ .","Muscle; Bone"
+"A flattened tendon is known as a ____________ .","Aponeurosis"
+"Muscle attachment refers to what two properties of the muscle?","Origin and Insertion"
+"The membrane of the muscle cell is known as the _____________ , whereas the cytoplasm is known as the ___________ .","Sarcolemma; Sarcoplasm"
+"2 types of myofilaments found within myofibril","Actin (thin) and Myosin (thick)"
+"Each muscle fiber is made up of thousands of _______ .","myofibrils"
+"The functional unit of the muscle","Sarcomere"
+"Sensory nerve fibers carry nerve impulses from ________ to _________ .","Receptors in Muscle; CNS"
+"In evaluating the skeletal system: lever is to ___________ , where fulcrum is to ___________ , and applied force is to ___________ .","Bone; Joint; Weight"
+"4 functions of the vertebral column","1. Posture
+2. Support weight
+3. Protect spinal cord and nerves
+4. Partially protect thoracic and abdominal organs"
+"3 types of bones in the vertebral column, and how many of each are there?","24 Moveable Presacral Vertebrae
+5 fused sacrum
+4 fused coccyx"
+"How many cervical, thoracic, and lumbar vetebrae are there","7 Cervical
+12 Thoracic
+5 Lumbar"
+"How many total pre-fusion vertebrae are there?","33"
+"Fibrocartilaginous structures found between bodies of adjacent vertebrae are known as _________ .","Intervetebral discs"
+"In the fetus, the vertebral column exhibits _________ curvature(s) referred to as ___________ .","One; Primary Curvature (1 degree)"
+"Primary curvature is concave _________ and a result of the height differences between anterior and posterior aspects of the ____________ .","Anteriorly; Vertebral Bodies"
+"In the adult, the vertebral column exhibits _________ curvature(s)","4"
+"Which two curvatures retain primary curvature in the adult?","Thoracic and Sacral"
+"Which two curvatures exhibit secondary curvature in the adult?","Cervical and Lumbar"
+"Secondary curvature is concave _________ and a result of the height differences between anterior and posterior aspects of the ____________ .","Posteriorly; Intervertebral Discs"
+"The large round mass which forms anterior aspect of vertebra","Body"
+"The vertebral arch lies ___________ to the vertebral body.","Posterior"
+"What two structures form the vertebral arch?","Pedicles (2) and Laminae (2)"
+"Bridges of bone extending from the posterior aspect of the body are known of as _________ .","Pedicles"
+"The flat plate of bone extending from the pedicle is defined as the _______ .","Lamina"
+"Two lamina fuse with each other in which plane?","Median"
+"The hole in the center of the vertebra in which the spinal cord passes is known as the ______________ .","Vertebral Foramen"
+"What is housed in the vertebral foramen?","Spinal Cord"
+"The __________ of the vertebrae makes up thee anterior border of vertebral foramen, the __________ makes up the posterior aspect, and the ________ make up the lateral aspects.","Body; Laminae; Pedicles"
+"What is formed by the individual vertebral foramina when the 24 presacral vertebrae are articulated?","Vertebral Canal"
+"What structures project posteriorly from each vertebral arch at the junction of the two laminae?","Spinous Processes"
+"The spinous processes project __________ from each vertebral arch at the junction of two ___________ .","Posteriorly; Laminae"
+"The transverse processes project laterally from the junction of the _________ and _________ .","Lamina; Pedicle"
+"Project superiorly to articulate with the inferior articular process of the supraadjacent vertebra","superior articular processes"
+"Which processes project inferiorly to articulate with the superior articular process of the infraadjacent vertebra?","Inferior Articular"
+"What joint lies between the superior and inferior articular processes (2 names)?","Facet (Zygapophyseal)"
+"What structure is found on the superior and inferior surface of the pedicle?","Vertebral Notches"
+"When two vertebrae articulate, the vertebral notches form ___________ , which transmit __________ .","Intervertebral Foramen; Spinal nerves"
+"_______________ are unique to transverse processes in all cervical vertebrae and provide transit for the _____________ from the level of ________ to _________ .","Transverse Foramen; Vertebral Artery; CV6; CV1"
+"Vertebral artery extends through the transverse foramen from _______ to _______","CV6; CV1"
+"Part of the CERVICAL vertebrae that divides the spinous process into two smaller portions is known as ________.","Bifid spinous process"
+"Bifid spinous processes are found on ___________ vertebrae from the level of _________ to _______","Cervical; CV2; CV6"
+"Aside from the bifid spinous process, what other part of CERVICAL vertebrae can be bifid?","Bifid Transverse Process"
+"The bifid transverse process in cervical vertebrae are divided into two projections, what are they?","Anterior and Posterior Tubercles"
+"Bifid transverse processes are found in cervical vertebrae ______ to _______?","CV3; CV6"
+"What are the 3 specialized cervical vertebrae and what are their names?","CV1: Atlas
+CV2: Axis
+CV7: Vertebra prominens"
+"Which cervical vertebrae has no body? 
+What is the body replaced by?","CV1 (Atlas)
+Dens of CV2"
+"CV1 lacks 3 things, what are they?","Body, Laminae, and Spinous Process"
+"What replaces the missing laminae and spinous processes of CV1?","Posterior Arch"
+"The superior articular processes of CV1 are ___________ so that they can articulate with the _________ .","Concave; Occiptal Condyles"
+"Prominent superior projection from CV2 (2 names)","Dens Process (Odontoid Process)"
+"Which vertebrae has the longest and most prominent spinous process? Does it bifurcate?","CV7; No"
+"What is the only vessel that passes through the transverse foramen of CV7?","Vertebral Vein"
+"These exist on the transverse processes of THORACIC vertebrae for the purpose of articulation with the ribs","Transverse Costal Facets"
+"How many thoracic vertebrae are there? How many ribs are there?","12"
+"True or False: transverse processes of thoracic vertebrae contain foramina","False"
+"2 type of artculations of the rib (from the thoracic vertebrae)","Costovertebral joint
+Costotransverse joint"
+"In a costovertebral joint, the head of the _________ articulates with the ________ of the vertebrae.","Rib; Body"
+"In a costotransverse joint, the _______ of the rib arrticulates with the __________ of the vertebrae","Tubercle; Transverse Process"
+"Which vertebrae have transverse processes that do NOT contain foramina or facets?","Lumbar"
+"Which vertebrae are the largest in size?","Lumbar"
+"Pre-sacral vertebrae _________ in size moving inferiorly to support the weight of superior structures, whereas the sacral and coccygeal vertebrae ____________ in size.","Increase; Decrease"
+"What shape are the spinous processes in lumbar vertebrae?","Quadrangular"
+"The sacrum consists of _________ fused vertebrae?","5"
+"How many articulations does the sacrum have? What are they?","3
+Superior, Lateral, Inferior"
+"In the superior articulation of the sacrum, the intervertebral disc inferior to LV5 articulate with the ____________ .","Sacral Promontory"
+"What two things articulate on the lateral articulation of the sacrum?","Ala of sacrum
+Ilium of hip bone"
+"The smooth surface on the lateral portion of the ala of the sacrum that joins the ilium to form the sacro-iliac joint is known as the _________ .","Auricular Surface"
+"The inferior articulation of the Sacrum is called the _____________ .","coccyx"
+"The sacrum has how many surfaces? What are they?","2 surfaces
+Pelvic and Dorsal"
+"What is the pelvic surface of the sacrum called?","Pelvic Sacral Foramina"
+"A ridge on the dorsal surface of the sacrum that is remnant of the spinous processes of the superior 3 to 4 sacral vertebrae is known as the __________ .","Median Sacral Crest"
+"The median sacral crest is found on the ___________ surface of the sacrum.","Dorsal"
+"The PELVIC sacral foramina contains 4 pairs of openings for the __________ Rami, whereas the DORSAL sacral foramina contains foramina for the ___________ Rami. Both span from the level of _________ to ________ .","Ventral; Dorsal; S1; S4"
+"The sacral hiatus is an opening due to the absence of ________ on the 5th sacral ligament.","Laminae"
+"Coccyx is made of ________ fused vertebrae?","4"
+"How many bones make up the vertebral column AFTER fusion?","26"
+"When a baby begins to hold their head erect, ________ curvature begins to form.","Secondary"
+"How many processes come off the vertebral arch?","7"
+"True or false: The sacral foramina would have been intervertebral foramen if the bones of the sacrum were not fused","True"
+"Cervical vertebrae have __________, thoracic vertebrae have ___________, and lumbar vertebrae have NEITHER.","Transverse Foramina; Transverse Costal Facets"
+"7 bones involved in back muscle attachments","1. Occipital skull
+2. Vertebrae
+3. Sacrum
+4. Hip bone (iliac crest)
+5. Clavicle 
+6. Scapula
+7. Humerus"
+"The ledge of scapula that overlies the shoulder joint is known as the _________ .","Acromion"
+"Prominent ridge of scapula that is laterally continuous with the acromion is known as the _________ .","Scapular Spine"
+"The posterior surface of the scapular spine is known as the ___________ . It is defined by the upper and lower __________ .","Crest; Lip"
+"The __________ border of the scapula parallels the vertebral column.","Medial"
+"What is found between greater tubercle and lesser tubercle of humerus?","Intertubercular Groove"
+"3 origins of trapezius","1. Occipital bone (posterior skull)
+2. Spinous process of all cervical vertebrae
+3. Spinous process of all thoracic vertebrae"
+"Which ligament connects the trapezius to all spinous processes of all cervical vertebrae?","Ligamentum Nuchae"
+"3 insertion points of trapezius","1. Lateral third of clavicle
+2. Acromion
+3. Crest of scapular spine, superior lip"
+"Trapezius allows _________ rotation of the scapula, which allows the inferior angle to move __________ .","Upward; Laterally"
+"What movement is caused by the upper fibers of the trapezius?","Elevation of scapula and lateral clavicle"
+"What movement is caused by the lower fibers of the trapezius?","Depression of scapula and lateral clavicle"
+"Trapezius is innervated by the _____________ nerve (CNXI) and the ventral rami of _________ and _________ .","Accessory; C3; C4"
+"The insertion of the trapezius embraces the origin of the _________.","Deltoid"
+"Latissimus dorsi originates at which ribs?","Lower 3-4"
+"Latissimus dorsi originates at the lower ________ thoracic vertebrae, and the lumbar and sacral via _________ .","6; Aponeurosis"
+"Latissmus dorsi originates at what part of the hip?","Iliac Crest"
+"What is the insertion of the latissimus dorsi?","Intertubercular groove or Sulcus of humerus"
+"3 actions of latissimus dorsi","1. Adduction of arm at shoulder joint
+2. Extension of arm at shoulder joint
+3. Medial rotation of arm at shoulder joint"
+"Innervation of latissimus dorsi","Thoracodorsal Nerve"
+"The levator scapulae originates from _______ to ________ vertebrae.","CV1; CV4"
+"The insertion of the levator scapula lies on the medial border of the scapula, ________ to the scapular spine","Superior"
+"What is the action of levator scapulae?","Elevation of scapula"
+"The levator scapulae is innervated by the ventral rami of which vertebrae?","C3 and C4"
+"The rhomboid minor originates at the spinous processes of _______ and _________ vertebrae?","CV7; TV1"
+"The insertion of the rhomboid minor lies on the medial border of the scapula ________ to the scapular spine","Level"
+"What is the action of the rhomboid minor?","Adduction of scapula?"
+"What innervates the rhomboid minor?","Dorsal Scapular Nerve"
+"Rhomboid major originates at the spinous processes of ______ to _______ vertebrae?","T2; T5"
+"The insertion of the rhomboid major lies on the medial border of the scapula ________ to the scapular spine","Inferior"
+"Which 3 muscles insert on the medial border of the scapula?","1. Levator Scapulae (Superior)
+2. Rhomboid Minor (Level with Spine)
+3. Rhomboid Major (Inferior)"
+"Action of Rhomboid Major","Adduction of scapula"
+"Innervation of Rhomboid Major","Dorsal Scapular Nerve"
+"The largest muscular mass of the back (2 names) is the __________ .","Erector Spinae (Sacrospinalis)"
+"Column of the erector spinae that is the most medial, and is a centimeter-wide muscle alone the spinous processes","Spinalis"
+"The spinalis muscle is the most _______ of the erector spinae, and runs along the ____________ of the vertebral column.","Medial; Spinous Processes"
+"Column of the erector spinae that is the longest, it is the intermediate column extending to the skull","Longissiumus"
+"The longissimus is the __________ column of the erector spinae and extends to the _________ .","Longest; Skull"
+"Column of the erector spinae that is the most lateral, extending from the ilium to the ribs","Iliocostalis"
+"The iliocostalis is the most __________ muscle of the erector spinae and extends from the __________ to the _______ .","Lateral; Ilium; Ribs"
+"What is the purpose of the erector spinae?","Holds the spine erect"
+"What is the innervation of the erector spinae?","Segemental from the Dorsal Rami"
+"What are the 3 columns of the erector spinae/ sacrospinalis?","1. Spinalis 
+2. Longissimus 
+3. Iliocostalis"
+"Deep back muscle located in the neck are referred to as the _________ .","Splenius"
+"The splenius muscle has 2 parts: the splenius _________ and the __________ cervicis.","Capitis; Splenius"
+"Splenius capitis extends from the ______________ ligament at the vertebral level ___________ to ________ up to the skull.","Ligamentum Nuchae; C7; T4"
+"Splenius cervicis courses from _________ - T6 vertebrae to _______ - C3?","T3; C1"
+"Splenius capitus and cervicis are continuous at their _________, and seperable at their ________","Origin
+Insertion"
+"When a single side of the splenius muscle acts, the head and cervical column rotate toward the _________ side.","Same"
+"When both sides of the splenius act together, the head and the cervical column _________ .","Extend"
+"What is the innervation of the splenius muscle?","Segmental from Dorsal Rami"
+"Which 3 muscles are included in the transversospinal group?","1. Semispinalis
+2. Multifidus
+3. Rotatores"
+"The transversospinal muscles originate from the ___________ and insert at the ___________ .","Transverse Process; Spinous Process"
+"The Semispinalis muscle courses how many vertebral segments?","4-6"
+"Deep back muscle that occupies upper half of vertebral column is known as the ________ .","Semispinalis"
+"What is the regional part of semispinalis that contains a prominent intervening tendon (2 names)?","Semispinalis Capitis (Biventer Cervicis)"
+"The semispinalis capitis is __________ to the semispinalis cervicis.","Superficial"
+"Which muscle is deep to semispinalis capitis?","Semispinalis Cervicis"
+"Which muscle is inferior to the semispinalis capitis in the thoracic region?","Semispinalis Thoracis"
+"The semispinalis capitis is __________ to the semispinalis thoracis in the _______ region.","Superior; Thoracic"
+"What is the action of the semispinalis capitis?","Extends head and rotates toward same side"
+"What is the action of semispinalis cervicis and thoracis?","Rotates vertebrae toward opposite side"
+"What provides innervation to the semispinalis?","Segmental from Dorsal Rami"
+"The multifidus muscle lies ________ to the erector spinae and are best developed in the _______ region.","Deep; Lumbar"
+"What is the action of the mutlfidus?","Rotate vertebral column toward opposite side"
+"What provides innervation of the multifidus?","Segmental from Dorsal Rami"
+"The multifidus courses how many vertebral segments?","2-4"
+"Of the deep back muscles, the _____________ lies deep to the semispinalis thoracis and is best developed in the __________ region.","Rotatores; Thoracic"
+"What is the deepest back muscle?","Rotatores"
+"Rotatores lie directly on the __________ , in the groove between the spines and the ______________ .","Laminae; Transverse Processes"
+"Rotatores that crosses two vertebrae are known as ________ .","Rotatores Longus"
+"Rotatores that attaches to the next vertebra are known as ________ .","Rotatores Brevis"
+"The rotatores muscles rotate the vertebral column to the _________ side.","Opposite"
+"The segmental innervation of the rotatores is provided by ___________ .","Dorsal Rami (Segmental)"
+"4 suboccipital muscles that lie deep in the neck","1. Rectus capitis posterior major
+2. Rectus capitis posterior minor
+3. Obliquus capitis inferior
+4. Obliquus capitis superior"
+"Which suboccipital muscle is NOT part of the suboccipital triangle?","Rectus capitis posterior minor"
