@@ -10,14 +10,15 @@ pharm_url = 'https://discordapp.com/api/webhooks/703048422231375903/Q3dq_CWinB7K
 anat_url = 'https://discord.com/api/webhooks/703048779632476240/tRHSEwV9B_BcopXa69-vImpzvVSavBLlvFNcHiO_S_2uRd2jalSOL0MHz2zFUMuYrZFt'
 
 
-@scheduler.task(trigger='cron', id='post_ap_hour', hour='8-20/2', args=['Anesthesia Principles I', ap_url])
-@scheduler.task(trigger='cron', id='post_pharm_hour', hour='8-20/2', args=['Nagelhout Pharmacology II', pharm_url])
-@scheduler.task(trigger='cron', id='post_anat_hour', hour='8-20/2', args=['Intro and Back Anatomy', anat_url])
-def post_question(set_name, hook_url):
+@scheduler.task(trigger='cron', id='post_ap_hour', hour='8-20/2', args=[['Anesthesia Principles I', 'NA2 Exam 1'], ap_url])
+@scheduler.task(trigger='cron', id='post_pharm_hour', hour='8-20/2', args=[['Nagelhout Pharmacology II'], pharm_url])
+@scheduler.task(trigger='cron', id='post_anat_hour', hour='8-20/2', args=[['Head and Neck'], anat_url])
+# @scheduler.task(trigger='cron', id='post_anat_hour', hour='8-20/2', args=[['Intro and Back Anatomy', 'Head and Neck'], anat_url])
+def post_question(set_name_l, hook_url):
     with scheduler.app.app_context():
 
         # Getting the 20 questions that we asked the least recently
-        q_query = Question.query.filter(Question.set_name == set_name).order_by(Question.last_asked).limit(20).all()
+        q_query = Question.query.filter(Question.set_name.in_(set_name_l)).order_by(Question.last_asked).limit(20).all()
         questions = [q.to_dict() for q in q_query]
 
         # Randomly picking a question from this list to be displayed
@@ -36,7 +37,7 @@ def post_question(set_name, hook_url):
             print(err)
         else:
             print("Payload delivered successfully, code {}.".format(result.status_code))
-            print(f"Question posted for {set_name} at {str(datetime.now())}")
+            print(f"Question posted for {q['set_name']} at {str(datetime.now())}")
 
             # Updating the last_asked value for this question and writing to database
             q_row = Question.query.get(q['id'])
