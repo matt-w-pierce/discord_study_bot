@@ -1,5 +1,5 @@
 import requests, json
-from random import choice
+from random import choice, choices
 from datetime import datetime
 from .. import scheduler, db
 from ..models import Question
@@ -10,15 +10,24 @@ pharm_url = 'https://discordapp.com/api/webhooks/703048422231375903/Q3dq_CWinB7K
 anat_url = 'https://discord.com/api/webhooks/703048779632476240/tRHSEwV9B_BcopXa69-vImpzvVSavBLlvFNcHiO_S_2uRd2jalSOL0MHz2zFUMuYrZFt'
 
 
-@scheduler.task(trigger='cron', id='post_ap_hour', hour='8-20/2', args=[['Anesthesia Principles I', 'NA2 Exam 1'], ap_url])
-@scheduler.task(trigger='cron', id='post_pharm_hour', hour='8-20/2', args=[['Nagelhout Pharmacology II'], pharm_url])
-@scheduler.task(trigger='cron', id='post_anat_hour', hour='8-20/2', args=[['Head and Neck'], anat_url])
-# @scheduler.task(trigger='cron', id='post_anat_hour', hour='8-20/2', args=[['Intro and Back Anatomy', 'Head and Neck'], anat_url])
-def post_question(set_name_l, hook_url):
+@scheduler.task(trigger='cron', id='post_ap_hour', hour='8-20/2', args=[['Anesthesia Principles I', 'NA2 Exam 1'], None, ap_url])
+@scheduler.task(trigger='cron', id='post_pharm_hour', hour='8-20/2', args=[['Nagelhout Pharmacology II'], None, pharm_url])
+@scheduler.task(trigger='cron', id='post_anat_hour', hour='8-20/2', args=[['Intro and Back Anatomy', 'Head and Neck'], [0.1, 0.9], anat_url])
+def post_question(set_name_l, set_weights, hook_url):
     with scheduler.app.app_context():
 
+        if set_weights is not None:
+            # If set weights are supplied, then choose a topic based on the weights
+            set_name = choices(population=set_name_l, weights=set_weights, k=1)
+            print(set_name)
+
+        else:
+            # If weights are not provided, then just pick a set randomly
+            set_name = choice(set_name_l)
+            print(set_name)
+
         # Getting the 20 questions that we asked the least recently
-        q_query = Question.query.filter(Question.set_name.in_(set_name_l)).order_by(Question.last_asked).limit(20).all()
+        q_query = Question.query.filter(Question.set_name == set_name).order_by(Question.last_asked).limit(20).all()
         questions = [q.to_dict() for q in q_query]
 
         # Randomly picking a question from this list to be displayed
@@ -37,7 +46,7 @@ def post_question(set_name_l, hook_url):
             print(err)
         else:
             print("Payload delivered successfully, code {}.".format(result.status_code))
-            print(f"Question posted for {q['set_name']} at {str(datetime.now())}")
+            print(f"Question posted for {set_name} at {str(datetime.now())}")
 
             # Updating the last_asked value for this question and writing to database
             q_row = Question.query.get(q['id'])
