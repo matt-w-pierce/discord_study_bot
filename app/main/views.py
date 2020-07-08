@@ -35,7 +35,7 @@ def convert_txt_to_csv():
 
 
 @main.route('/load_existing_csv', methods=['GET'])
-def load_new_data():
+def load_existing_csv():
 
     # Retrieves the filename from the request
     filename = request.args.get('filename', type=str)

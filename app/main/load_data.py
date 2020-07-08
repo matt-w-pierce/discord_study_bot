@@ -28,7 +28,7 @@ def txt_to_csv(in_file, base_path='data_files'):
     in_path = os.path.join(base_path, in_file)
 
     out_file = f'{os.path.splitext(in_file)[0]}.csv'
-    out_path = os.path.join('app', 'data_files', out_file)
+    out_path = os.path.join(base_path, out_file)
 
     txt_in = open(in_path, 'rt')
     txt_out = open(out_path, 'wt')
