@@ -1,0 +1,79 @@
+"prompt","answer"
+"The primary function of the breathing circuit is to deliver _______ and anesthetic agent to the patient while eliminating CO2 to prevent _________ .","Oxygen; Rebreathing"
+"CO2 is removed from the breathing circuit by _______ with a high fresh gas flow or through a chemical reaction with a CO2 _________ .","Washout; Absorbent"
+"Name that Breathing Circuit: No Rebreathing and No Reservoir","Open"
+"Name that Breathing Circuit: Insufflation, SFM, Nasal Cannula, Open Drop","Open"
+"Name that Breathing Circuit: No Rebreathing with Reservoir","Semi-Open"
+"Name that Breathing Circuit: Mapelson Circuit, Circle System in which FGF > Minute Ventilation","Semi-Open"
+"Name that Breathing Circuit: Partial Rebreathing with Reservoir","Semi-Closed"
+"Name that Breathing Circuit: Circle System in which FGF < Minute Ventilation","Semi-Closed"
+"Name that Breathing Circuit: Complete Rebreathing with Reservoir","Closed"
+"Name that Breathing Circuit: Circle System with very low FGF and Closed APL valve","Closed"
+"Name that Breathing Circuit: A non-contained system where the patient exchanges gas with the atmosphere","Open"
+"Name that Breathing Circuit: Does NOT allow rebreathing of exhaled gases","Semi-Open"
+"Name that Breathing Circuit: FGF > Minute Ventilation","Semi-Open"
+"Name that Breathing Circuit: Allows re-breathing of exhaled gas; Contains unidirectional valves increase airway resistance","Semi-Closed"
+"Name that Breathing Circuit: FGF < Minute Ventilation","Semi-Closed"
+"Name that Breathing Circuit: There is complete rebreathing of exhaled gas","Closed"
+"Name that Breathing Circuit: Uses very low FGF","Closed"
+"In a closed circuit, the amount of gas that needs to be replaced is the sum of the patient's oxygen _______ plus the amount of agent that is _________ by the patient.","Consumption; Absorbed"
+"T/F: Expired gases are disposed of via the scavenger system in a closed circuit","False; Since the volume of inspired and expired gases are equally matched, gas does NOT exit the scavenger"
+"T/F: the utilization of a closed circuit allows rapid change in gas concentration.","False; Low FGF delivers very slow gas concentration exchange"
+"What are the advantages of a circle system? (5)","1. Consistent inspired gas concentrations
+2. Maintains heat and humidity
+3. Low resistance 
+4. Can be used as semi-open, semi-closed and closed systems
+5. Minimizes OR pollution"
+"What are the disadvantages of a circle system? (4)","1. Multiple places where disconnect may occur
+2. Less portable than NRB circuits
+3. Unidirectional valve malfunction
+4. Increased dead space"
+"In a circle system, a unidirectional valve that is stuck open will produce _________ .","Rebreathing"
+"In a circle system, a unidirectional valve that is stuck closed will produce airway ___________ .","Obstruction"
+"In a circle system, dead space ends at the ___________ .","Y-Piece"
+"If the CO2 absorbent exhausts during a procedure and you cannot change the granules, a closed or semi-closed circuit should be converted to a semi-open circuit by increasing the FGF to ________ L/min","5-8"
+"If CO2 is increasing while using a circle system and FGF does not fix the problem, it is likely that a _________ valve is incompetent.","Unidirectional"
+"T/F: When you experience CO2 absorber exhaustion while using a circle system, increasing minute ventilation is the first action to improve patient respiration.","False; The patient will continue to rebreathe the exhaled CO2"
+"With a failed ________ valve, the beta angle of the capnogram becomes wider during the inspiratory phase and the baseline does not return to zero.","Expiratory"
+"In a circle system, the purpose of the ________ valve is to ensure that gas moves in one direction.","Unidirectional"
+"Components of Mapleson Circuits (5)","1. Reservoir Bag
+2. Fresh Gas Inlet
+3. Corrugated Tubing
+4. APL valve
+5. Mask"
+"The Mapleson ______ does NOT have an APL valve or reservoir bag.","E (Think Except)!"
+"Which components of a circle system are absent in the Mapleson circuit? (2)","1. Unidirectional Valve
+2. CO2 Absorber"
+"Advantages of the Mapleson Circuit (4)","1. Less Airway Resistance
+2. Convenient
+3. Easily Scavenged
+4. Bain circuit prevents heat loss"
+"Disadvantages of Mapleson Circuit (7)","1. Increased Apparatus Dead Space
+2. Requires high FGF to prevent rebreathing
+3. Loss of heat and humidity
+4. Inefficient use of inhaled anesthetic 
+5. Risk of environmental pollution
+6. Unrecognized kinking of fresh gas hose in Bain Circuit"
+"The ______ test can be used to assess for the kinking of the fresh gas hose in the Bain breathing circuit.","Pethick"
+"When using a Mapleson circuit, since inhaled and exhaled gases travel through the same tubing, there is a risk of __________ .","Rebreathing"
+"To prevent rebreathing while using a Mapleson circuit, use a FGF ______ times the patient's minute ventilation.","2.5"
+"Name that Mapleson Circuit: Best for spontaneous ventilation","A"
+"Name that Mapleson Circuit: Worst for spontaneous ventilation","B"
+"Name that Mapleson Circuit: Best for controlled ventilation","D"
+"Name that Mapleson Circuit: Worst for controlled ventilation","A"
+"Name that Mapleson Circuit: Order from best to worse in the spontaneously breathing patient","A > DFE > C > B"
+"Name that Mapleson Circuit: Order from best to worse in the controlled ventilation patient","D > FE > BC > A"
+"Name that Mapleson Circuit: Jackson-Rees","F"
+"Name that Mapleson Circuit: Ayre's T Piece","E"
+"The Bain system uses a modified Mapleson ______ .","D"
+"T/F In the Bain system, FGF is delivered through an inner tube, whereas exhaled gas travels through the outer corrugated tubing.","True"
+"Rebreathing in a Mapleson is minimized by ______ FGF.","Higher"
+"Rebreathing in a Mapleson is minimized by __________ tidal volumes.","Smaller"
+"Rebreathing in a Mapleson is minimized by ________ expiratory times.","Longer"
+"Evaluating _______ is the best method of determining the amount of FGF required to prevent re-breathing in a Mapleson circuit.","ETCO2"
+"Describe the steps to performing the Pethick Test (4)","1. Occlude the elbow at the patient end of the circuit
+2. Close the APL valve
+3. Use the oxygen flush valve to fill the circuit 
+4. Remove the occlusion of the elbow while flushing the circuit"
+"When performing the Pethick test, if the inner tubing is _________ , the venturi effect will cause the reservoir bag to collapse and the Bain system is ________ to use.","Patient; Safe"
+"When performing the Pethick test, If the inner tubing is _________ , the reservoir bag will remain inflated and the Bain system is ________ to use.","Occluded; Unsafe"
