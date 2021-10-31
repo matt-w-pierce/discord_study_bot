@@ -1,0 +1,50 @@
+Which muscles adjust length (Tension) of the vocal ligaments?|Cricothyroid (Cords Tense)
+Thyroarytenoid (They Relax) 
+Vocalis<!>Shortening of the vocal cords cause them to _________, Lengthening of the vocal cords cause them to ________.|Relax; Tense<!>Which two muscles shorten or relax the vocal cords and what is the innervation?|Vocalis (RLN)
+Thyroarytenoid (RLN)<!>Which muscles cause the vocal cords to lengthen or tense and what is the innervation?|Cricothyroid - SLN (External)<!>What happens to the glottis when muscles adduct the vocal cords?|Narrows the glottis<!>What happens to the glottis when muscles abduct the vocal cords?|Widens the glottis<!>Which muscles adduct the vocal cords?|Thyroarytenoid
+Lateral Cricoarytenoid (Let's close away)<!>Which muscles abduct the vocal cords?|Posterior Cricoarytenoid (please come apart)<!>All muscles that abduct or adduct the vocal cords are innervated by which nerve?|RLN<!>Which muscle closes laryngeal vestibule?|Aryepiglottic (RLN)<!>Which muscle closes the posterior commissure of glottis?|Interarytenoid (RLN)<!>Which muscles Elevates The Larynx?|Stylohyoid
+Mylohyoid
+Thyrohyoid
+Geniohyoid
+Digastric
+Stylopharyngeus<!>Which muscles depress the Larynx?|Sternohyoid
+Sternothyroid
+Omohyoid<!>The SLN branches off of the __________ nerve, just beyond the ____________ ________ at the skull base.|Vagus; Jugular Foramen<!>The SLN divides into internal and external branches at the level of the ________ .|Hyoid<!>The internal branch of the SLN penetrates the _____ membrane between the _______ ________ of the hyoid bone.|Thyrohyoid; Greater Cornu<!>The External branch of the SLN enters the _____________ muscle.|Cricothyroid<!>Which muscle relaxes AND adducts the vocal cords?|Thyroarytenoid<!>The RLN Branches off from the vagus nerve inside of the _________ .|Thorax<!>The right RLN loops under the _______________ artery, whereas the left RLN loops under the ________ __________|Subclavian; Aortic Arch<!>After looping, both the right and left RLN ascend through the ___________________ groove to join the larynx|Tracheoesophageal<!>Which is more susceptible to injury RLN/SLN? Why?|RLN - More susceptible to injury due to location in thorax<!>What are the three parts of the trigeminal nerve?|V1 - Ophthalmic (anterior ethmoidal)
+V2 - Maxillary (sphenopalatine)
+V3 - Mandibular (lingual)<!>Which part of the trigeminal nerve innervates the nares and anterior 1/3 of the nasal septum?|V1 ophthalmic (anterior ethmoidal)<!>Which part of the trigeminal nerve innervates the anterior 2/3 of the tongue?|V3 mandibular (lingual)<!>What part of the trigeminal nerve innervates the turbinates and nasal septum?|V2 Maxillary (sphenopalatine)<!>What six structures are innervated by the glossopharyngeal nerve?|Soft palate 
+Tonsils 
+Oropharynx 
+Posterior 1/3 of tongue 
+Vallecula 
+Anterior Epiglottis<!>Which nerve innervates the afferent limb of the gag reflex?|Glossopharyngeal<!>The external branch of the SLN innervates the _____________ muscle.|Cricothyroid<!>The internal branch of the SLN innervates the ____________ epiglottis to the top of the vocal cords.|Posterior<!>The recurrent laryngeal nerve innervates all ________ muscles except for the _________ muscle|Intrinsic; Cricothyroid<!>A glossopharyngeal block should be placed at the ___________ arch near the anterior tonsillar pillars.|Palatoglossal<!>__________ injection is a major risk of a glossopharyngeal block and may be characterized by the onset of seizures.|Carotid<!>Which three infiltration blocks can be performed for the larynx?|Glossopharyngeal 
+Transtracheal 
+Superior Laryngeal<!>A transtracheal block can be placed into the ________ membrane and is spread by encouraging the patient to _________ .|Cricothyroid; Cough<!>A _________ _______ block is placed at the inferior corner of the greater cornu of the hyoid bone|Superior Laryngeal<!>The epiglottis is a mechanical barrier between which two structures?|Pharynx and laryngeal opening<!>The _______ is located between the anterior epiglottis and the tongue.|Vallecula<!>The _______ cartilage serves primarily to protect the larynx and is known as the largest cartilage of the larynx. It is also known as the Adam's Apple.|Thyroid<!>What is the only cartilaginous ring in the airway?|Cricoid<!>What cartilages are commonly mistaken for the arytenoids during airway management?|Corniculate<!>What is the narrowest part of the airway (infant and adult)?|Adult: Vocal cords 
+Infant: Cricoid ring<!>Sustained and involuntary contraction of the laryngeal muscles resulting in inability to ventilate is known as _________ .|Laryngospasm<!>The sensory innervation involved in laryngospasm is via the afferent limb of the ________. The motor branch is the efferent limb of the ________ branch of the SNL in addition to the RLN.|SLN; External<!>The motor response of a laryngospasm is tensing of the vocal cords via the _________ muscle, in addition to adduction of the vocal cords via the lateral cricoarytenoid and _________ muscles.|Cricothyroid; Thyroarytenoid<!>Risk factors for laryngospasm?|Active or recent URI (<2 weeks)
+Exposure to second hand smoke
+Reactive airway disease
+GERD
+Age <1 year
+Light anesthesia + airway manipulation
+Saliva/blood in upper airway
+Hyperventilation
+Hypocapnia
+Surgical procedures involves the airway<!>Signs of Laryngospasm|Inspiratory stridor
+Suprasternal and supraclavicular retraction
+Rocking horse appearance of chest wall
+Increased diaphragmatic excursion 
+Lower rib flailing<!>What measures can be taken to reduce incidence of laryngospasm?|1. Avoidance of airway manipulation during light anesthesia
+2. CPAP 5-10cm/H2O during inhalation induction and post-extubation
+3. Remove pharyngeal secretions and blood before extubation
+4. Tracheal extubation when deeply anesthetized or fully awake, not in between!
+5. Laryngeal lidocaine (lasts ~30 min)
+6. IV lidocaine before extubation
+7. Hypercapnia/Hypoventilation
+8. PaO2 < 50 mmHg<!>Treatment of laryngospasm (6)?|1. Remove noxious stim
+2. 100% FiO2
+3. Deepen anesthesia
+4. CPAP 15-20cm H2O
+5. Succinylcholine (IV or submental)
+6. Atropine (in children <5 with succinylcholine<!>The ______ _______ muscle opens the nasopharynx.|Tensor Palatine<!>The _________ muscle opens the oropharynx.|Genioglossus<!>The _________ muscle opens the hypophayrnx.|Hyoid<!>The trachea begins at level of _____ and ends at the level of ___________ at the carina|C6; T4-T5<!>The trachea is _________ cm long and ________ cm wide.|10-13; 2-5<!>The trachea is composed of semicircular rings that open __________ .|Posteriorly<!>Name that Epithelium: Trachea|Ciliated columnar epithelium<!>Name that Epithelium: Bronchi|Cuboidal epithelium<!>Name that Epithelium: Alveoli|Squamous epithelium<!>Name that Epithelium: Carina|Ciliated columnar epithelium<!>Sensory innervation of the trachea is provided by the _________ nerve.|Vagus<!>Which 4 vessels provide tracheal blood supply?|1. Internal thoracic artery 
+2. Bronchial artery 
+3. Inferior thyroid artery 
+4. Superior thyroid artery<!>The Pores of _______ allow for air movement between alveoli.|Kohn<!>Type I Pneumocytes cover ________% of the alveolar surface and form tight junctions between cells.|80<!>Type ______ Pneumocytes produce surfactant and are resistant to oxygen toxicity.|II<!>T/F: Type II Pneumocytes are able to divide and form type 1 cells|True<!>Type ________ Pneumocytes are macrophages that fight infection and produce an inflammatory response in the lungs.|III<!>The carina is located at the level of _____ and corresponds with the ___________ of __________ .|T4-5; Angle of Louis<!>The right main bronchus is ___ cm long, with ____ degree take off|2.5; 25<!>The left main bronchus is ___ cm long with ____ degree take off|5; 45<!>
