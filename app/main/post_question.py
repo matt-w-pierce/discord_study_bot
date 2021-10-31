@@ -13,6 +13,9 @@ anat_url = 'https://discord.com/api/webhooks/703048779632476240/tRHSEwV9B_BcopXa
 @scheduler.task(trigger='cron', id='post_ap_hour', hour='8-20/2', args=[['Anesthesia Principles I', 'NA2 Exam 1'], None, ap_url])
 @scheduler.task(trigger='cron', id='post_pharm_hour', hour='8-20/2', args=[['Nagelhout Pharmacology II'], None, pharm_url])
 @scheduler.task(trigger='cron', id='post_anat_hour', hour='8-20/2', args=[['Intro and Back Anatomy', 'Head and Neck', 'Thorax, Abdomen and Pelvis', 'Upper and Lower Limb'], [0.07, 0.07, 0.06, 0.8], anat_url])
+
+
+
 def post_question(set_name_l, set_weights, hook_url):
     with scheduler.app.app_context():
 
