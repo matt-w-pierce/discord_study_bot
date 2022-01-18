@@ -24,6 +24,9 @@ unit_12_url = 'https://discord.com/api/webhooks/904474343713697812/G4NrLfhWbJCp4
 @scheduler.task(trigger='cron', id='unit_4', hour='8-20/2', args=[['Pharmacokinetics', 'Pharmacodynamics', 'IV Anesthetics', 'Volatile Anesthetics I', 'Volatile Anesthetics II'], None, unit_4_url])
 @scheduler.task(trigger='cron', id='unit_5', hour='8-20/2', args=[['Local Anesthetics', 'Neuromuscular Blockers', 'NMBD Reversal', 'Opioid Agonists and Antagonists'], None, unit_5_url])
 @scheduler.task(trigger='cron', id='unit_6', hour='8-20/2', args=[['AGM', 'Breathing Circuit', 'Monitoring I (Respiratory)', 'Monitoring II (HD)', 'Monitoring III (CV)', 'Monitoring IV (Misc)'], None, unit_6_url])
+@scheduler.task(trigger='cron', id='unit_7', hour='8-20/2', args=[['Brain', 'Spine', 'Musculoskeletal'], None, unit_7_url])
+@scheduler.task(trigger='cron', id='unit_8', hour='8-20/2', args=[['Neuraxial Anesthesia', 'Upper Extremity RA', 'Lower Extremity RA'], None, unit_8_url])
+@scheduler.task(trigger='cron', id='unit_9', hour='8-20/2', args=[['Fluids and Electrolytes', 'Coagulation', 'Transfusion'], None, unit_9_url])
 def post_question(set_name_l, set_weights, hook_url):
     with scheduler.app.app_context():
 
