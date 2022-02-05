@@ -1,0 +1,51 @@
+Epiglottitis vs. Laryngotracheobronchitis: Most often of bacterial etiology|Epiglottitis<!>Epiglottitis vs. Laryngotracheobronchitis: Onset between 2-6 years of age|Epiglottitis<!>Epiglottitis vs. Laryngotracheobronchitis: Rapid onset, often less than 24 hours|Epiglottitis<!>Epiglottitis vs. Laryngotracheobronchitis: Presents with high fever and the 4 D's (Drooling, Dysphonia, Dyspnea and Dysphagia)|Epiglottitis<!>What are the "4 D's" of Epiglottitis? (4)|1. Drooling
+2. Dysphonia
+3. Dyspnea
+4. Dysphagia<!>Epiglottitis vs. Laryngotracheobronchitis: Treatment includes oxygen, emergent airway, antibiotics and likely ICU stay|Epiglottitis<!>When securing an airway for the pediatric patient with epiglottitis, _________ respirations should be maintained and an ________ surgeon must be present.|Spontaneous; ENT<!>Epiglottitis vs. Laryngotracheobronchitis: Most often viral in origin|LTB<!>Epiglottitis vs. Laryngotracheobronchitis: Occurs most commonly in children under the age of 2|LTB<!>Epiglottitis vs. Laryngotracheobronchitis: Gradual onset between 24-72 hours|LTB<!>Epiglottitis vs. Laryngotracheobronchitis: Supraglottic structures affected|Epiglottitis<!>Epiglottitis vs. Laryngotracheobronchitis: Laryngeal structures affected|LTB<!>Epiglottitis vs. Laryngotracheobronchitis: Thumb Sign on X-Ray due to swollen epiglottis from the lateral view|Epiglottitis<!>Epiglottitis vs. Laryngotracheobronchitis: Steeple Sign on X-Ray due to subglottic narrowing from frontal view|LTB<!>Epiglottitis vs. Laryngotracheobronchitis: presents as mild fever, inspiratory stridor and barking cough|LTB<!>Epiglottitis vs. Laryngotracheobronchitis: treated with oxygen, racemic epinephrine, corticosteroids, humidification, and fluids.|LTB<!>T/F: To secure the airway of the child with laryngotracheobronchitis, rapid intubation should be performed upon entry to ED.|False; Intubation rarely required<!>Post-intubation laryngeal edema is more common in _______ children and often caused by an ETT that is too _________ .|Small; Large<!>Tracheal mucosa perfusion pressure is ________ cmH2O.|25<!>Name that Condition: Patient presents with hoarseness, a barking cough and/or stridor within 30-60 minutes following extubation.|Post-Intubation Laryngeal Edema<!>Those under the age of ________ are at increased risk of developing Post-Intubation Laryngeal Edema.|4<!>Name ten risk factors for the development of Post-Intubation Laryngeal Edema (10)|1. Age <4
+2. ETT too large
+3. Traumatic intubation
+4. Prolonged intubation
+5. Coughing
+6. Head or neck surgery
+7. Repositioning of head during surgery
+8. History of croup
+9. Trisomy 21
+10. URI<!>T/F: Post-Intubation Laryngeal Edema occurs only with cuffed ETT, thus when appropriate uncuffed ETT should be used.|False; Occurs with both<!>To avoid the development of Post-Intubation Laryngeal Edema, you should maintain an air leak < ________ cmH20.|25<!>Heliox is a helium/oxygen mixture that improves ________ flow by reducing Reynold's number.|Laminar<!>What are the four steps to treating Post-Intubation Laryngeal Edema? (4)|1. Cool and humidified oxygen
+2. 0.5mL of 2.25% Racemic Epinephrine
+3. 0.25-0.5gm/kg V Dexamethasone
+4. Heliox<!>T/F: Antibiotics should be started within 4 hours of the development of Post-Intubation Laryngeal Edema.|False; Unlike LTB, Post-Intubation croup is NOT infectious and thus does NOT require antibiotics<!>The patient treated with racemic epinephrine should be monitored for at least _______ hours.|4<!>T/F: The child presenting for surgery with active or recent URI is at increased risk for pulmonary complicatons.|True<!>______ infection is the most common cause of URI.|Viral<!>Most clinicians wait ______ weeks after onset of URI symptoms, although the risk of pulmonary complications can persist for _______ weeks.|2-4; 6-8<!>Proceed vs. Cancel: Runny nose without other symptoms|Proceed<!>Proceed vs. Cancel: No fever|Proceed<!>Proceed vs. Cancel: Clear nasal drainage|Proceed<!>Proceed vs. Cancel: Normal activity level and demeanor|Proceed<!>Proceed vs. Cancel: Clear lungs|Proceed<!>Proceed vs. Cancel: Older child|Proceed<!>Proceed vs. Cancel: Purulent nasal drainage|Cancel<!>Proceed vs. Cancel: Fever >38C (100.4F)|Cancel<!>Proceed vs. Cancel: Lethargic or Poor Appetite|Cancel<!>Proceed vs. Cancel: Persistent Cough|Cancel<!>Proceed vs. Cancel: Wheezing or rales that do NOT clear with cough|Cancel<!>Proceed vs. Cancel: Child <1 year|Cancel<!>Proceed vs. Cancel: Previous Premie|Cancel<!>For the pediatric patient with URI, mechanical irritation of the airway should be avoided, thus _______ is the best option.|Facemask<!>For the pediatric patient with URI, mechanical irritation from an ETT increases the risk of bronchospasm _______ fold.|10<!>For the pediatric patient with URI, if an ETT must be used, consider ________ to avoid post-intubation croup.|Downsizing<!>For the pediatric patient with URI, consider 0.25-0.5mg/kg ________ to reduce risk of post-intubation croup.|Dexamethasone<!>For the pediatric patient with URI, _______ is the best volatile agent.|Sevoflurane<!>T/F: For the pediatric patient with URI, pretreatment with an inhaled bronchodilator or glycopyrrolate decreases chance of pulmonary complication.|False; No clear benefit<!>What is the classic triad for the child presenting with foreign body aspiration? (3)|1. Cough
+2. Wheezing
+3. Decreased breath sounds over affected side<!>The ________ bronchus is more likely to be affected by foreign body aspiration.|Right<!>Obstruction _________ the glottis presents as stridor.|Above<!>Obstruction _________ the glottis presents as wheezing.|Below<!>_______ ________ is the gold standard procedure to retrieve foreign body aspiration.|Rigid Bronchoscopy<!>_____ _______ is the most significant concern for the patient with foreign body aspiration.|Airway Obstruction<!>________ induction with spontaneous ventilation is the best induction technique for the patient presenting with foreign body aspiration.|Sevoflurane<!>_______ is the best maintenance technique in the patient presenting with foreign body aspiration.|TIVA<!>T/F: Patients may not improve immediately after foreign body is removed due to residual lung inflammation.|True<!>Which two congenital disorders are associated with a large tongue? (2)|Remember: Big Tongue
+1. Beckwith Syndrome
+2. Trisomy 21<!>Which four congenital disorders are associated with an underdeveloped mandible? (4)|Remember: Please Get That Chin
+1. Pierre Robin
+2. Goldenhar
+3. Treacher Collins
+4. Cri du Chat<!>Which three congenital disorders are associated with cervical spine anomaly? (3)|Remember: Kids TRI Gold
+1. Klippel-Feil
+2. Trisomy 21
+3. Goldenhar<!>Name that Congenital Disorder: Underdeveloped mandible, glossoptosis, often requires intubation as neonate|Pierre Robin<!>A tongue that falls back and downwards is known as ________ .|Glossoptosis<!>Name that Congenital Disorder: Small mouth, underdeveloped mandible, choanal atresia, ocular and auricular anomalies.|Treacher Collins<!>_____ ______ refers to when the nasal airway is blocked by tissue|Choanal Atresia<!>Name that Congenital Disorder: Small mouth, large tongue, atlantoaxial instability, small subglottic diameter|Trisomy 21<!>Name that Congenital Disorder: Congenital fusion of cervical vertebrae|Klippel-Feil<!>Name that Congenital Disorder: Underdeveloped mandible, cervical spine abormality|Goldenhar<!>Name that Congenital Disorder: Associated only with large tongue|Beckwith Syndrome<!>Name that Congenital Disorder: Small underdeveloped mandible, laryngomalacia, stridor|Cri Du Chat<!>Which seven congenital disorders are associated with difficult airway management? (7)|1. Pierre Robin
+2. Treacher Collins
+3. Trisomy 21
+4. Klippel-Feil
+5. Goldenhar
+6. Beckwith Syndrome
+7. Cri du Chat<!>Down syndrome results from the addition of a third copy of chromosome _______ .|21<!>_________ is the most common chromosomal disorder.|Trisomy 21<!>________ mothers are more likely to give birth to the child with down syndrome.|Older<!>The child with down syndrome has a _______ palate with a _______ arch.|Narrow; High<!>The child with down syndrome presents with C1-C2 subluxation, and thus should receive X-Ray screening between ________ years of age.|3-5<!>The child with down syndrome may present with ______ ______ and thus is at increased risk of post-intubation croup. Consider _______ ETT.|Subglottic Stenosis; Smaller<!>The most common heart defect associated with down syndrome is ________ _______ defect|AV Septal<!>The most common heart defect associated with down syndrome is ________ _______ defect|Ventricular Septal<!>_______ is common during sevoflurane induction in the child with down syndrome, and thus should be pre-treated with an _______ .|Bradycardia; Anticholinergic<!>T/F: The patient with down syndrome has increased levels of circulating catecholamines.|False; Decreased<!>T/F: The patient with down syndrome has increased incidence of leukemia, epilepsy and thyroid disease.|True<!>Describe the VACTERL association with gene deletion syndromes|Vertebral defects
+Anus, Imperforated 
+Cardiac anomalies
+Tracheoesophageal fistula
+Esophageal atresia
+Renal Dysplasia
+Limb anomalies<!>Describe the CHARGE association with gene deletion syndromes|Coloboma
+Heart defects
+Atresia, Choanal
+Restriction of growth (Delay)
+GU problems
+Ear anomalies<!>Describe the CATCH 22 association with gene deletion syndromes|Cardiac defects
+Abnormal face
+Thymic hypoplagia
+Cleft palate
+Hypocalcemia (Hypo-PTH)
+22q 11.2 gene deletion<!>What three pneumonics are used to describe associations with gene deletion?|1. VACTERL
+2. CHARGE
+3. CATCH 22<!>A hole in one of the eye structures is known as _______ .|Coloboma<!>Hyperventilation and citrated blood products ______ calcium levels in the blood.|Lower<!>If the thymus is absent, the child is at high risk of ________ .|Infection<!>
