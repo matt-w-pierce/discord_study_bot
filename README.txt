@@ -11,7 +11,11 @@
 3. You should then see that the application is running on localhost
 
 --- Adding new question sets ---
-
+New question sets can be added in 3 steps:
+1. Export the dataset from Quizlet (or any other source) with the correct custom mappings ("|" for columns, "<!>" for lines)
+2. Save the dataset as a text file to the data files directory and the name will be the name of the question set
+3. Run the server following the instructions above and enter the following url in a web browser: http://127.0.0.1:5000/load_data?filename=<dataset_text_file>
+The above URL will process the text file, convert it into a CSV and then write the contents to the database instance hosted on localhost
 
 --- Adjusting Discord Message Parameters --- 
 All discord message parameters are set in discord_study_bot/app/main/post_question.py
