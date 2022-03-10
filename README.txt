@@ -43,20 +43,3 @@ The arguments passed to this scheduler task are determine how discord messages a
 	Subject frequency is passed as an element of the "args" argument. The first element of the "args" list is the subject list, the second is the weight list
 	If you want to set weights then a list should be passed with weights that is equal to the length of the subject list
 	If weights are not needed then a question will be chosen randomly from that class without considering the subject, just pass None as the argument
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
