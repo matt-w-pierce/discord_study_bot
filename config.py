@@ -4,8 +4,8 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 
 
 class Config:
-    SECRET_KEY = 'hard to guess string'
-    FLASKY_ADMIN = 'matt.pierce5695@gmail.com'
+    SECRET_KEY = os.environ.get('SECRET_KEY', 'hard to guess string')
+    FLASKY_ADMIN = os.environ.get('FLASK_ADMIN', 'username@me.com')
 
     SQLALCHEMY_COMMIT_ON_TEARDOWN = True
     SQLALCHEMY_TRACK_MODIFICATIONS = False
@@ -13,8 +13,8 @@ class Config:
     MAIL_SERVER = os.environ.get('MAIL_SERVER', 'smtp.gmail.com')
     MAIL_PORT = int(os.environ.get('MAIL_PORT', '587'))
     MAIL_USE_TLS = True
-    MAIL_USERNAME = os.environ.get('MAIL_USERNAME', 'matt.pierce5695@gmail.com')
-    MAIL_PASSWORD = os.environ.get('MAIL_PASSWORD', 'wiefizpkxwwmsvmb')
+    MAIL_USERNAME = os.environ.get('MAIL_USERNAME', 'username@me.com')
+    MAIL_PASSWORD = os.environ.get('MAIL_PASSWORD', 'password')
     MAIL_SUBJECT_PREFIX = 'Sparky - '
     MAIL_SENDER = 'Sparky <sparky-bot@studyhelper.com>'
     ADMINS = ['matt.pierce5695@gmail.com']
@@ -31,7 +31,7 @@ class DevelopmentConfig(Config):
     DEBUG = True
 
     # Below is what the URI should be when I have a local database setup
-    SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:Mustangs18!@127.0.0.1/discord_bot'
+    SQLALCHEMY_DATABASE_URI = os.getenv('DATABASE_URI')
 
 
 class ProductionConfig(Config):
@@ -39,7 +39,7 @@ class ProductionConfig(Config):
     DEBUG = False
 
     # Below is what the URI should be when I have a local database setup
-    SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:Mustangs18!@127.0.0.1/discord_bot'
+    SQLALCHEMY_DATABASE_URI = os.getenv('DATABASE_URI')
 
 
 config = {
