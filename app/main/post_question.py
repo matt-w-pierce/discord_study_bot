@@ -33,6 +33,7 @@ unit_12_url = os.getenv('unit_12_url')
 @scheduler.task(trigger='cron', id='unit_9', hour='8-20/2', args=[['Fluids and Electrolytes', 'Coagulation', 'Transfusion'], None, unit_9_url])
 @scheduler.task(trigger='cron', id='unit_10', hour='8-20/2', args=[['Liver', 'Kidney', 'Endocrine'], None, unit_10_url])
 @scheduler.task(trigger='cron', id='unit_11', hour='8-20/2', args=[['Obstetrics', 'Pediatrics', 'Geriatrics', 'Neonate I', 'Neonate II', 'Neonate III'], None, unit_11_url])
+@scheduler.task(trigger='cron', id='unit_12', hour='8-20/2', args=[['Chemistry and Physics', 'Miscellaneous I', 'Miscellaneous II', 'Obesity', 'Positioning and Nerve Injuries', 'Professional Issues'], None, unit_12_url])
 def post_question(set_name_l, set_weights, hook_url):
     with scheduler.app.app_context():
 
